@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageId>DigitexConnectorCSharp</PackageId>
+    <Version>0.8.2</Version>
+    <Authors>Vitaliy Artemov, Daria Korepanova</Authors>
+    <Company>SmartDec</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryURL>https://github.com/smartdec/DigitexConnectorCSharp</RepositoryURL>
+    <PackageTags>digitex</PackageTags>
+    <Title>Digitex Connector</Title>
+    <Description>Library for connect to Digitex Futures Exchange</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Symbols.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.13.0" />
+    <PackageReference Include="NLog" Version="4.7.4" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+    <PackageReference Include="Websocket.Client" Version="4.3.21" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Symbols.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
