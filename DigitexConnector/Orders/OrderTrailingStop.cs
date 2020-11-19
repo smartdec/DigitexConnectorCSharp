@@ -14,8 +14,6 @@ namespace DigitexConnector.Orders
             SetStrikePrice(adjustedPrice);
         }
 
-        public bool Cancel() => Account?.CancelOrder(this) ?? false;
-
         public decimal StrikePrice { get; private set; }
 
         public int LagTicks { internal set; get; }

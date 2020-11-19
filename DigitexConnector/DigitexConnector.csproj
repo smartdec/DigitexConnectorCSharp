@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <PackageId>DigitexConnectorCSharp</PackageId>
-    <Version>0.8.2</Version>
+    <Version>0.8.3</Version>
     <Authors>Vitaliy Artemov, Daria Korepanova</Authors>
     <Company>SmartDec</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
