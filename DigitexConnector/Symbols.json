@@ -1,0 +1,80 @@
+{"Symbols":[
+  {
+    "MarketId": 1,
+    "Name": "BTC/USD",
+    "PriceStep": 5,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 2,
+    "Name": "ETH/USD",
+    "PriceStep": 0.25,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 3,
+    "Name": "XRP/USD",
+    "PriceStep": 1,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 4,
+    "Name": "DGTX/ETH",
+    "PriceStep": 0.000001,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 5,
+    "Name": "XAU/USD",
+    "PriceStep": 0.5,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 6,
+    "Name": "SPY",
+    "PriceStep": 0.1,
+    "QuantityStep": 1
+  },
+  {
+      "MarketId": 7,
+      "Name": "USD/EUR",
+      "PriceStep": 0.0001,
+      "QuantityStep": 1
+  },
+  {
+    "MarketId": 8,
+    "Name": "AMZN",
+    "PriceStep": 1,
+    "QuantityStep": 1
+  },
+  {
+    "MarketId": 9,
+    "Name": "BTC/USD1",
+    "PriceStep": 1,
+    "QuantityStep": 1
+  },
+  {
+      "MarketId": 10,
+      "Name": "USD/JPY",
+      "PriceStep": 0.01,
+      "QuantityStep": 1
+  },
+  {
+      "MarketId": 11,
+      "Name": "USD/RUB",
+      "PriceStep": 0.01,
+      "QuantityStep": 1
+  },
+  {
+      "MarketId": 12,
+      "Name": "FB",
+      "PriceStep": 0.1,
+      "QuantityStep": 1
+  },
+  {
+      "MarketId": 13,
+      "Name": "AAPL",
+      "PriceStep": 0.1,
+      "QuantityStep": 1
+  }
+ ]}
