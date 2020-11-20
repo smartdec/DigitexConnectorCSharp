@@ -30,22 +30,10 @@
     "QuantityStep": 1
   },
   {
-    "MarketId": 6,
-    "Name": "SPY",
-    "PriceStep": 0.1,
-    "QuantityStep": 1
-  },
-  {
       "MarketId": 7,
       "Name": "USD/EUR",
       "PriceStep": 0.0001,
       "QuantityStep": 1
-  },
-  {
-    "MarketId": 8,
-    "Name": "AMZN",
-    "PriceStep": 1,
-    "QuantityStep": 1
   },
   {
     "MarketId": 9,
@@ -59,22 +47,4 @@
       "PriceStep": 0.01,
       "QuantityStep": 1
   },
-  {
-      "MarketId": 11,
-      "Name": "USD/RUB",
-      "PriceStep": 0.01,
-      "QuantityStep": 1
-  },
-  {
-      "MarketId": 12,
-      "Name": "FB",
-      "PriceStep": 0.1,
-      "QuantityStep": 1
-  },
-  {
-      "MarketId": 13,
-      "Name": "AAPL",
-      "PriceStep": 0.1,
-      "QuantityStep": 1
-  }
  ]}
