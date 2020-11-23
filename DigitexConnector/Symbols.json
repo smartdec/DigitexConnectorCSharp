@@ -31,7 +31,7 @@
   },
   {
       "MarketId": 7,
-      "Name": "USD/EUR",
+      "Name": "EUR/USD",
       "PriceStep": 0.0001,
       "QuantityStep": 1
   },
