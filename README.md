@@ -147,13 +147,12 @@ In your algo you can call following methods:
                 Console.WriteLine(errorCode);
             }
 
-How to launch you algorithm from your app:
+How to launch you algorithm from your app:    
         
-        
-        string hostName = "ws.mainnet.digitexfutures.com";  // "ws.testnet.digitexfutures.com" for testnet.
-        string token = "your_API_token";
-        secureConnection = true;
-        Algorithm = new YourAlgorithmClass(hostName, token, secureConnection);  // must be legacy from abstract class DigitexConnector.Trading.TradingAlgorithm or DigitexConnector.EngineAPI.TradingAdapter
+        DigitexConnector.Configuration.Server = Servers.testnet;
+        DigitexConnector.Configuration.Token = "<your_API_token>";
+
+        Algorithm = new YourAlgorithmClass();  // must be legacy from abstract class DigitexConnector.Trading.TradingAlgorithm or DigitexConnector.Trading.TradingAdapter
         Algorithm.AccountConnected += AccountConnectedHandler;  // Your implementation of connect to trade channel.
         Algorithm.AccountReconnected += AccountReconnectedHandler;  // Your implementation of reconnect to trade channel.
         Algorithm.AccountDisconnected += AccountDisconnectedHandler;  // Your implementation of disconnect from trade channel.

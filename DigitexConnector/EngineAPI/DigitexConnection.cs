@@ -7,6 +7,7 @@ using MessageType = DigitexWire.Message.KontentOneofCase;
 using NLog;
 using DigitexConnector.Interfaces;
 using System.Collections.Generic;
+using DigitexConnector.Enums;
 
 namespace DigitexConnector.EngineAPI
 {
@@ -126,6 +127,24 @@ namespace DigitexConnector.EngineAPI
         public DigitexConnection(string hostName, string token, bool secureConnection)
         {
             _transport = new WebsocketsTransport(hostName, token, secureConnection);
+            Init();
+        }
+
+        public DigitexConnection(Servers? server, string token)
+        {
+            _transport = new WebsocketsTransport(server, token);
+            Init();
+        }
+
+        public DigitexConnection(string token)
+        {
+            _transport = new WebsocketsTransport(token);
+            Init();
+        }
+
+        public DigitexConnection()
+        {
+            _transport = new WebsocketsTransport();
             Init();
         }
 

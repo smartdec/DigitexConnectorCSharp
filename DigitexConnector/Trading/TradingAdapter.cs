@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using DigitexWire;
 using DigitexConnector.Orders;
-using DigitexConnector.Trading;
+using DigitexConnector.EngineAPI;
 using DigitexConnector.Interfaces;
+using DigitexConnector.Enums;
 
-namespace DigitexConnector.EngineAPI
+namespace DigitexConnector.Trading
 {
     /// <summary>
     /// Main class for trading.
@@ -93,14 +94,44 @@ namespace DigitexConnector.EngineAPI
         }
 
         /// <summary>
-        /// Constructor.
+        /// Use this constructor for set hostName and token directly.
         /// </summary>
         /// <param name="hostName">Address of exchange without prefix.</param>
-        /// <param name="token">Your API-token.</param>
-        /// <param name="secureConnection">Use ssh.</param>
+        /// <param name="token">API-token.</param>
+        /// <param name="secureConnection">Use (true) ssh or not (false).</param>
         public TradingAdapter(string hostName, string token, bool secureConnection)
         {
             Account = new Aggregator(hostName, token, secureConnection);
+            Init();
+        }
+
+        /// <summary>
+        /// Use this constructor for set one of two servers and set token directly.
+        /// </summary>
+        /// <param name="server"><see cref="Servers"/></param>
+        /// <param name="token">API-token.</param>
+        public TradingAdapter(Servers? server, string token)
+        {
+            Account = new Aggregator(server, token);
+            Init();
+        }
+
+        /// <summary>
+        /// Use this constructor for set token directly and if <see cref="Configuration.Server"/> is set.
+        /// </summary>
+        /// <param name="token">API-token.</param>
+        public TradingAdapter(string token)
+        {
+            Account = new Aggregator(token);
+            Init();
+        }
+
+        /// <summary>
+        /// Use this constructor if <see cref="Configuration.Server"/> and <see cref="Configuration.Token"/> are set.
+        /// </summary>
+        public TradingAdapter()
+        {
+            Account = new Aggregator();
             Init();
         }
 

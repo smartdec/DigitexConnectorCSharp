@@ -17,8 +17,8 @@ namespace Example
 
         private Timer TradingTimer;
 
-        public IntervalAlgorithm(string host, string token, bool wss)
-            : base(host, token, wss)
+        public IntervalAlgorithm()
+            : base()
         { }
 
         public override void Prepare()

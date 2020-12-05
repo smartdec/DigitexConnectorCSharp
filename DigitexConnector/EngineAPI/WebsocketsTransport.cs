@@ -4,6 +4,8 @@ using Websocket.Client;
 using System.Net.WebSockets;
 using NLog;
 using DigitexConnector.Interfaces;
+using DigitexConnector.Enums;
+using System.Collections.Generic;
 
 namespace DigitexConnector.EngineAPI
 {
@@ -54,13 +56,67 @@ namespace DigitexConnector.EngineAPI
         /// </summary>
         public event Action ControlDisconnected;
 
+        private Dictionary<Servers?, string> HostNames = new Dictionary<Servers?, string>()
+        {
+            { Servers.testnet, "ws.testnet.digitexfutures.com" },
+            { Servers.mainnet, "ws.mainnet.digitexfutures.com" },
+        };
+
         /// <summary>
-        /// Constructor.
+        /// Use this constructor to provide directly host name.
         /// </summary>
         /// <param name="hostName">Exchange address.</param>
-        /// <param name="token">Trader's JWT.</param>
+        /// <param name="token">API-token.</param>
         /// <param name="secureConnection">True if connection is secure else false.</param>
         public WebsocketsTransport(string hostName, string token, bool secureConnection = true)
+        {
+            Init(hostName, token, secureConnection);
+        }
+
+        /// <summary>
+        /// Use this constructor to provide testnet or mainnet host names.
+        /// </summary>
+        /// <param name="server"><see cref="Servers"/></param>
+        /// <param name="token">API-token</param>
+        public WebsocketsTransport(Servers? server, string token)
+        {
+            if (server is null)
+            {
+                throw new ArgumentNullException("server", "Server is not set.");
+            }
+            Init(HostNames[server], token, true);
+        }
+
+        /// <summary>
+        /// Use this constructor if <see cref="Configuration.Server"/> is set.
+        /// </summary>
+        /// <param name="token">API-token.</param>
+        public WebsocketsTransport(string token)
+        {
+            if (Configuration.Server is null)
+            {
+                throw new ArgumentNullException("DigitexConnector.Configuration.Server", "Server is not set.");
+            }
+            Init(HostNames[Configuration.Server], token, true);
+        }
+
+        /// <summary>
+        /// Use this constructor if <see cref="Configuration.Server"/> and <see cref="Configuration.Token"/> are set.
+        /// </summary>
+        public WebsocketsTransport()
+        {
+            if (Configuration.Server is null)
+            {
+                throw new ArgumentNullException("DigitexConnector.Configuration.Server", "Server is not set.");
+            }
+            if (Configuration.Token is null)
+            {
+                throw new ArgumentNullException("DigitexConnector.Configuration.Token", "Token is not set.");
+            }
+            Init(HostNames[Configuration.Server], Configuration.Token, true);
+        }
+
+        private void Init(string hostName, string token, bool secureConnection)
         {
             HostName = hostName;
             Token = token;

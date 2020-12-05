@@ -1,4 +1,5 @@
 ﻿using System;
+using DigitexConnector.Enums;
 
 namespace Example
 {
@@ -6,12 +7,10 @@ namespace Example
     {
         static void Main(string[] args)
         {
-            // for mainnet set host to "ws.mainnet.digitexfutures.com"
-            string host = "ws.testnet.digitexfutures.com";
-            bool wss = true;
-            string token = "<your_API_token>";
+            DigitexConnector.Configuration.Server = Servers.testnet;
+            DigitexConnector.Configuration.Token = "<your_API_token>";
 
-            IntervalAlgorithm algorithm = new IntervalAlgorithm(host, token, wss);
+            IntervalAlgorithm algorithm = new IntervalAlgorithm();
             algorithm.Prepare();
             algorithm.Connect();
 

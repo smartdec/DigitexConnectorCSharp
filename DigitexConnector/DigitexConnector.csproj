@@ -5,18 +5,20 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <PackageId>DigitexConnectorCSharp</PackageId>
-    <Version>0.8.3</Version>
-    <Authors>Vitaliy Artemov, Daria Korepanova</Authors>
+    <Version>0.8.5</Version>
+    <Authors>SmartDec https://smartdec.com/</Authors>
     <Company>SmartDec</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryURL>https://github.com/smartdec/DigitexConnectorCSharp</RepositoryURL>
-    <PackageTags>digitex</PackageTags>
+    <PackageTags>Digitex, DigitexFutures, Algotrading, Exchange</PackageTags>
     <Title>Digitex Connector</Title>
     <Description>Library for connect to Digitex Futures Exchange</Description>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="Symbols.json" />
+    <None Include="icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
   <ItemGroup>

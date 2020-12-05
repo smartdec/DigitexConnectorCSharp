@@ -117,53 +117,7 @@ namespace DigitexConnector.Extentions
             };
             return new Guid(newBytes);
         }
-
-        static public Guid FromOpenAPIUUID(string uuid)
-        {
-            char[] charArray = uuid.ToCharArray();
-            char[] resultArray = new char[]
-            {
-                charArray[6],
-                charArray[7],
-                charArray[4],
-                charArray[5],
-                charArray[2],
-                charArray[3],
-                charArray[0],
-                charArray[1],
-                charArray[8],
-                charArray[11],
-                charArray[12],
-                charArray[9],
-                charArray[10],
-                charArray[13],
-                charArray[16],
-                charArray[17],
-                charArray[14],
-                charArray[15],
-                charArray[18],
-                charArray[19],
-                charArray[20],
-                charArray[21],
-                charArray[22],
-                charArray[23],
-                charArray[24],
-                charArray[25],
-                charArray[26],
-                charArray[27],
-                charArray[28],
-                charArray[29],
-                charArray[30],
-                charArray[31],
-                charArray[32],
-                charArray[33],
-                charArray[34],
-                charArray[35]
-            };
-            string guid = new string(charArray);
-            return new Guid(guid);
-        }
-
+        
         static public Guid GuidToUuid(Guid guid)
         {
             byte[] bytes = guid.ToByteArray();

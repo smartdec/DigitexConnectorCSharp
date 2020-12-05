@@ -4,9 +4,9 @@ using DigitexConnector.Orders;
 using DigitexWire;
 using DigitexConnector.EngineAPI;
 using System.Threading;
-using NLog;
 using DigitexConnector.Interfaces;
 using System.Linq;
+using DigitexConnector.Enums;
 
 namespace DigitexConnector.Trading
 {
@@ -65,8 +65,6 @@ namespace DigitexConnector.Trading
 
         public event Action<OrderCanceledData> OrderCancelError;
 
-        private Logger _logger = LogManager.GetCurrentClassLogger();
-
         public Aggregator(IConnection connection)
         {
             _connection = connection;
@@ -78,6 +76,30 @@ namespace DigitexConnector.Trading
         public Aggregator(string hostName, string token, bool secureConnection)
         {
             _connection = new DigitexConnection(hostName, token, secureConnection);
+            _sender = new Sender(Orders, TrailingOrders, _connection, ordersLock, trailingsLock);
+            _receiver = new Receiver(Orders, ordersLock);
+            Init();
+        }
+
+        public Aggregator(Servers? server, string token)
+        {
+            _connection = new DigitexConnection(server, token);
+            _sender = new Sender(Orders, TrailingOrders, _connection, ordersLock, trailingsLock);
+            _receiver = new Receiver(Orders, ordersLock);
+            Init();
+        }
+
+        public Aggregator(string token)
+        {
+            _connection = new DigitexConnection(token);
+            _sender = new Sender(Orders, TrailingOrders, _connection, ordersLock, trailingsLock);
+            _receiver = new Receiver(Orders, ordersLock);
+            Init();
+        }
+
+        public Aggregator()
+        {
+            _connection = new DigitexConnection();
             _sender = new Sender(Orders, TrailingOrders, _connection, ordersLock, trailingsLock);
             _receiver = new Receiver(Orders, ordersLock);
             Init();
