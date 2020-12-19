@@ -1,0 +1,40 @@
+﻿{
+  "Symbols": [
+    {
+      "MarketId": 1,
+      "Name": "BTC/USD",
+      "PriceStep": 5,
+      "QuantityStep": 1
+    },
+    {
+      "MarketId": 2,
+      "Name": "ETH/USD",
+      "PriceStep": 0.25,
+      "QuantityStep": 1
+    },
+    {
+      "MarketId": 3,
+      "Name": "XRP/USD",
+      "PriceStep": 1,
+      "QuantityStep": 1
+    },
+    {
+      "MarketId": 7,
+      "Name": "EUR/USD",
+      "PriceStep": 0.0001,
+      "QuantityStep": 1
+    },
+    {
+      "MarketId": 9,
+      "Name": "BTC/USD1",
+      "PriceStep": 1,
+      "QuantityStep": 1
+    },
+    {
+      "MarketId": 10,
+      "Name": "USD/JPY",
+      "PriceStep": 0.01,
+      "QuantityStep": 1
+    }
+  ]
+}

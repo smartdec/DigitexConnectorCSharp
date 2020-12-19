@@ -9,4 +9,10 @@
     <ProjectReference Include="..\DigitexConnector\DigitexConnector.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Symbols.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

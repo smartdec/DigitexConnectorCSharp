@@ -17,8 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Symbols.json" />
-    <None Include="icon.png" Pack="true" PackagePath="\"/>
+    <None Include="icon.png" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,12 +25,6 @@
     <PackageReference Include="NLog" Version="4.7.4" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
     <PackageReference Include="Websocket.Client" Version="4.3.21" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Symbols.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
   <ItemGroup>

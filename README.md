@@ -163,7 +163,8 @@ How to launch you algorithm from your app:
 
 **How to work with static class SymbolsContainer**
 
-        For load symbols, copy file Symbols.json from this repository to your project's target directory. 
+        For load symbols, copy file Symbols.testnet.json or Symbols.mainnet.json from this repository to your project's target directory,
+        then rename him to Symbols.json. 
         If you need for load symbols from another file, use SymbolsContainer.UpdateSymbols(string path), 
         where path - path to your file in the appropriate format. 
         For get symbols use SymbolsContainer.GetSymbol(string name) or SymbolsContainer.GetSymbol(int marketId).

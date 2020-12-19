@@ -11,7 +11,7 @@ namespace Example
     class IntervalAlgorithm : TradingAlgorithm
     {
         private int Interval = 10;
-        private string SymbolName = "BTC/USD1";
+        private string SymbolName = "BTC/USD1 DGTX";
         private Symbol Smbl;
         private OrderBook OBook;
 
