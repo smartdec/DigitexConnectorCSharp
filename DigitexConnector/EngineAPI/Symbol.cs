@@ -47,10 +47,16 @@ namespace DigitexConnector.EngineAPI
         public readonly decimal PriceStep;
 
         /// <summary>
-        /// Symbols quantity step.
+        /// Symbol's quantity step.
         /// </summary>
         [DataMember]
         public readonly decimal QuantityStep;
+
+        /// <summary>
+        /// Symbol's currency pair. Used for exchange rate receiving.
+        /// </summary>
+        [DataMember]
+        public readonly int CurrencyPairId;
 
         /// <summary>
         /// Constructor.
@@ -59,12 +65,13 @@ namespace DigitexConnector.EngineAPI
         /// <param name="name">Name of symbol at exchange.</param>
         /// <param name="priceStep">Symbol's price step</param>
         /// <param name="quantityStep">Symbol's quantity step</param>
-        public Symbol(int marketId, string name, decimal priceStep, decimal quantityStep)
+        public Symbol(int marketId, string name, decimal priceStep, decimal quantityStep, int currencyPairId)
         {
             MarketId = marketId;
             Name = name;
             PriceStep = priceStep;
             QuantityStep = quantityStep;
+            CurrencyPairId = currencyPairId;
         }
 
         public Symbol()
@@ -90,7 +97,8 @@ namespace DigitexConnector.EngineAPI
             if (string.Compare(Name, other.Name, StringComparison.CurrentCulture) == 0 &&
                 MarketId == other.MarketId &&
                 PriceStep == other.PriceStep &&
-                QuantityStep == other.QuantityStep)
+                QuantityStep == other.QuantityStep &&
+                CurrencyPairId == other.CurrencyPairId)
             { return true; }
             else
             { return false; }

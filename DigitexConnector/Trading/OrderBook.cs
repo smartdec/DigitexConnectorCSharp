@@ -68,7 +68,7 @@ namespace DigitexConnector.Trading
 
         private void ExchangeRateHandler(ExchangeRateData data)
         {
-            if (data.CurrencyPairId != (uint)TrackedSymbol.MarketId)
+            if (data.CurrencyPairId != (uint)TrackedSymbol.CurrencyPairId)
             { return; }
             SpotPrice = data.MarkPrice;
             SpotPriceUpdated?.Invoke(this);
