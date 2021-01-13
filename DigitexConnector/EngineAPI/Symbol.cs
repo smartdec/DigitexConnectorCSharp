@@ -59,19 +59,26 @@ namespace DigitexConnector.EngineAPI
         public readonly int CurrencyPairId;
 
         /// <summary>
+        /// Indicates that market is spot.
+        /// </summary>
+        [DataMember]
+        public readonly bool IsSpot;
+
+        /// <summary>
         /// Constructor.
         /// </summary>
         /// <param name="marketId">Id of symbol at exchange.</param>
         /// <param name="name">Name of symbol at exchange.</param>
         /// <param name="priceStep">Symbol's price step</param>
         /// <param name="quantityStep">Symbol's quantity step</param>
-        public Symbol(int marketId, string name, decimal priceStep, decimal quantityStep, int currencyPairId)
+        public Symbol(int marketId, string name, decimal priceStep, decimal quantityStep, int currencyPairId, bool isSpot)
         {
             MarketId = marketId;
             Name = name;
             PriceStep = priceStep;
             QuantityStep = quantityStep;
             CurrencyPairId = currencyPairId;
+            IsSpot = isSpot;
         }
 
         public Symbol()
@@ -98,7 +105,8 @@ namespace DigitexConnector.EngineAPI
                 MarketId == other.MarketId &&
                 PriceStep == other.PriceStep &&
                 QuantityStep == other.QuantityStep &&
-                CurrencyPairId == other.CurrencyPairId)
+                CurrencyPairId == other.CurrencyPairId &&
+                IsSpot == other.IsSpot)
             { return true; }
             else
             { return false; }

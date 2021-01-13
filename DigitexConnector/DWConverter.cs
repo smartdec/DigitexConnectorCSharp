@@ -117,7 +117,7 @@ namespace DigitexConnector.Extentions
             };
             return new Guid(newBytes);
         }
-        
+
         static public Guid GuidToUuid(Guid guid)
         {
             byte[] bytes = guid.ToByteArray();

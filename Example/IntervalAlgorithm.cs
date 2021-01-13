@@ -26,6 +26,7 @@ namespace Example
             Smbl = SymbolsContainer.GetSymbol(SymbolName);
             SpotPriceUpdated += SpotPriceHandler;
             OrderBookUpdated += OrderBookHandler;
+            TraderInfoUpdated += TraderInfoHandler;
             OBook = TrackSymbol(Smbl);
             TradingTimer = new Timer((object obj) => PlaceOrder(), null, Interval * 1000, Interval * 1000);
         }
@@ -82,6 +83,23 @@ namespace Example
             // Do something for handle order errors.
 
             Console.WriteLine($"Error {code}, order {order.OrigClientId}");
+        }
+
+        private void TraderInfoHandler(TraderInfo traderInfo)
+        {
+            if (!traderInfo.Symbol.Equals(Smbl))
+            {
+                return;
+            }
+            if (Smbl.IsSpot)
+            {
+                Console.WriteLine($"Base currency balance: {traderInfo.TraderBalance2}");
+                Console.WriteLine($"Quote currency balance: {traderInfo.TraderBalance}");
+            }
+            else
+            {
+                Console.WriteLine($"Trader balance: {traderInfo.TraderBalance}");
+            }
         }
 
         public override List<ModuleState> GetParams()

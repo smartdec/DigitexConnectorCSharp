@@ -91,6 +91,11 @@ namespace DigitexConnector.EngineAPI
         public decimal OrigQuantity { get; }
 
         /// <summary>
+        /// For spot markets, balance in base currency.
+        /// </summary>
+        public decimal TraderBalance2 { get; }
+
+        /// <summary>
         /// Constructor.
         /// </summary>
         /// <see cref="Message"/>
@@ -106,6 +111,7 @@ namespace DigitexConnector.EngineAPI
             PositionMargin = DWConverter.FromProtoDecimal(orderStatusMessage.PositionMargin);
             OrderMargin = DWConverter.FromProtoDecimal(orderStatusMessage.OrderMargin);
             TraderBalance = DWConverter.FromProtoDecimal(orderStatusMessage.TraderBalance);
+            TraderBalance2 = DWConverter.FromProtoDecimal(orderStatusMessage.TraderBalance2);
             MarkPrice = DWConverter.FromProtoDecimal(orderStatusMessage.MarkPrice);
             PaidPrice = DWConverter.FromProtoDecimal(orderStatusMessage.PaidPrice);
             Price = DWConverter.FromProtoDecimal(orderStatusMessage.Price);

@@ -8,7 +8,16 @@ namespace DigitexConnector.Trading
     /// </summary>
     public class TraderInfo
     {
-        public static decimal TraderBalance { private set; get; }
+        /// <summary>
+        /// Quote currency on spot market.
+        /// </summary>
+        public decimal TraderBalance { private set; get; }
+
+        /// <summary>
+        /// Base currency on spot market. Ignore if not spot.
+        /// </summary>
+        public decimal TraderBalance2 { private set; get; }
+
         public decimal Pnl { private set; get; }
         public decimal Upnl { private set; get; }
         public decimal OrderMargin { private set; get; }
@@ -47,7 +56,11 @@ namespace DigitexConnector.Trading
             Upnl = data.Upnl ?? 0;
         }
 
-        internal void Update(OrderStatusData data) => Update(data as CommonFields);
+        internal void Update(OrderStatusData data)
+        {
+            Update(data as CommonFields);
+            TraderBalance2 = data.TraderBalance2;
+        }
 
         internal void Update(OrderFilledData data)
         {
@@ -58,10 +71,15 @@ namespace DigitexConnector.Trading
             PositionLiquidationVolume = data.PositionLiquidationVolume;
             PositionType = data.PositionType;
             PositionVolume = data.PositionVolume;
+            TraderBalance2 = data.TraderBalance2;
         }
 
         internal void Update(TraderBalanceData data)
         {
+            if (!data.Symbol.Equals(Symbol))
+            {
+                return;
+            }
             TraderBalance = data.TraderBalance;
             PositionMargin = data.PositionMargin;
             OrderMargin = data.OrderMargin;
@@ -77,6 +95,7 @@ namespace DigitexConnector.Trading
             PositionLiquidationVolume = data.PositionLiquidationVolume;
             PositionType = data.PositionType;
             PositionVolume = data.PositionVolume;
+            TraderBalance2 = data.TraderBalance2;
         }
 
         internal void Update(FundingData data)
@@ -102,6 +121,10 @@ namespace DigitexConnector.Trading
             PositionVolume = data.PositionVolume;
         }
 
-        internal void Update(OrderCanceledData data) => Update(data as CommonFields);
+        internal void Update(OrderCanceledData data)
+        {
+            Update(data as CommonFields);
+            TraderBalance2 = data.TraderBalance2;
+        }
     }
 }

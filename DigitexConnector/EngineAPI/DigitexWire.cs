@@ -42,7 +42,7 @@ namespace DigitexWire {
             "FkNhbmNlbEFsbE9yZGVyc01lc3NhZ2USJQoEc2lkZRghIAEoDjIXLmRpZ2l0",
             "ZXhfd2lyZS5PcmRlclNpZGUSJAoFcHJpY2UYJiABKAsyFS5kaWdpdGV4X3dp",
             "cmUuRGVjaW1hbCIsChhDaGFuZ2VMZXZlcmFnZUFsbE1lc3NhZ2USEAoIbGV2",
-            "ZXJhZ2UYIiABKA0ilAwKEk9yZGVyU3RhdHVzTWVzc2FnZRIpCgZzdGF0dXMY",
+            "ZXJhZ2UYIiABKA0irAwKEk9yZGVyU3RhdHVzTWVzc2FnZRIpCgZzdGF0dXMY",
             "KiABKA4yGS5kaWdpdGV4X3dpcmUuT3JkZXJTdGF0dXMSLQoOdHJhZGVyX2Jh",
             "bGFuY2UYMyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9t",
             "YXJnaW4YTCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlv",
@@ -76,428 +76,433 @@ namespace DigitexWire {
             "d2lyZS5EZWNpbWFsEhMKCmlzX2Nsb3NpbmcYmAIgASgFEhcKD29yZGVyX2Ns",
             "aWVudF9pZBhHIAEoDBIXCg9vcmRlcl90aW1lc3RhbXAYSCABKAMSFwoOb3Jp",
             "Z19jbGllbnRfaWQYzAEgASgMEhIKCW9wZW5fdGltZRjNASABKAMSLQoNb3Jp",
-            "Z19xdWFudGl0eRjOASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbCKECQoP",
-            "TGV2ZXJhZ2VNZXNzYWdlEhAKCGxldmVyYWdlGCIgASgNEioKBnRyYWRlcxgu",
-            "IAMoCzIaLmRpZ2l0ZXhfd2lyZS5UcmFkZU1lc3NhZ2USKgoGb3JkZXJzGEYg",
-            "AygLMhouZGlnaXRleF93aXJlLk9yZGVyTWVzc2FnZRItCg50cmFkZXJfYmFs",
-            "YW5jZRgzIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEisKDG9yZGVyX21h",
-            "cmdpbhhMIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KD3Bvc2l0aW9u",
-            "X21hcmdpbhhOIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiMKBHVwbmwY",
-            "TyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgNwbmwYmgEgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwSLgoOYWNjdW1fcXVhbnRpdHkYtQEgASgL",
-            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMQoScG9zaXRpb25fY29udHJhY3Rz",
-            "GGggASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoPcG9zaXRpb25fdm9s",
-            "dW1lGGkgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSOgobcG9zaXRpb25f",
-            "bGlxdWlkYXRpb25fdm9sdW1lGGogASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSOQoacG9zaXRpb25fYmFua3J1cHRjeV92b2x1bWUYdSABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIyCg1wb3NpdGlvbl90eXBlGGsgASgOMhsuZGln",
-            "aXRleF93aXJlLk9yZGVyUG9zaXRpb24SLwoQYnV5X29yZGVyX21hcmdpbhh2",
-            "IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjAKEXNlbGxfb3JkZXJfbWFy",
-            "Z2luGHcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLwoQbGFzdF90cmFk",
-            "ZV9wcmljZRhxIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIKE2xhc3Rf",
-            "dHJhZGVfcXVhbnRpdHkYdCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBId",
-            "ChRsYXN0X3RyYWRlX3RpbWVzdGFtcBioAiABKAMSMgoSYnV5X29yZGVyX3F1",
-            "YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjMKE3NlbGxf",
-            "b3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "NAoUZnVsbF9wb3NpdGlvbl9tYXJnaW4YqgIgASgLMhUuZGlnaXRleF93aXJl",
-            "LkRlY2ltYWwSNQoVZnVsbF9idXlfb3JkZXJfbWFyZ2luGKsCIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEjYKFmZ1bGxfc2VsbF9vcmRlcl9tYXJnaW4Y",
-            "rAIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwi0AcKDFRyYWRlTWVzc2Fn",
-            "ZRIXCg90cmFkZV90aW1lc3RhbXAYRSABKAMSFwoPdHJhZGVfdHJhZGVyX2lk",
-            "GEogASgNEi0KCHBvc2l0aW9uGC0gASgOMhsuZGlnaXRleF93aXJlLk9yZGVy",
-            "UG9zaXRpb24SJAoFcHJpY2UYJiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1h",
-            "bBIpCgpwYWlkX3ByaWNlGEIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "MAoRbGlxdWlkYXRpb25fcHJpY2UYQyABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
-            "aW1hbBIwChBiYW5rcnVwdGN5X3ByaWNlGMoBIAEoCzIVLmRpZ2l0ZXhfd2ly",
+            "Z19xdWFudGl0eRjOASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIWCg1v",
+            "cmlnX29yZGVyX2lkGMcCIAEoDCKECQoPTGV2ZXJhZ2VNZXNzYWdlEhAKCGxl",
+            "dmVyYWdlGCIgASgNEioKBnRyYWRlcxguIAMoCzIaLmRpZ2l0ZXhfd2lyZS5U",
+            "cmFkZU1lc3NhZ2USKgoGb3JkZXJzGEYgAygLMhouZGlnaXRleF93aXJlLk9y",
+            "ZGVyTWVzc2FnZRItCg50cmFkZXJfYmFsYW5jZRgzIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEisKDG9yZGVyX21hcmdpbhhMIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEi4KD3Bvc2l0aW9uX21hcmdpbhhOIAEoCzIVLmRpZ2l0",
+            "ZXhfd2lyZS5EZWNpbWFsEiMKBHVwbmwYTyABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBIjCgNwbmwYmgEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "LgoOYWNjdW1fcXVhbnRpdHkYtQEgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
+            "YWwSMQoScG9zaXRpb25fY29udHJhY3RzGGggASgLMhUuZGlnaXRleF93aXJl",
+            "LkRlY2ltYWwSLgoPcG9zaXRpb25fdm9sdW1lGGkgASgLMhUuZGlnaXRleF93",
+            "aXJlLkRlY2ltYWwSOgobcG9zaXRpb25fbGlxdWlkYXRpb25fdm9sdW1lGGog",
+            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSOQoacG9zaXRpb25fYmFua3J1",
+            "cHRjeV92b2x1bWUYdSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyCg1w",
+            "b3NpdGlvbl90eXBlGGsgASgOMhsuZGlnaXRleF93aXJlLk9yZGVyUG9zaXRp",
+            "b24SLwoQYnV5X29yZGVyX21hcmdpbhh2IAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
+            "ZWNpbWFsEjAKEXNlbGxfb3JkZXJfbWFyZ2luGHcgASgLMhUuZGlnaXRleF93",
+            "aXJlLkRlY2ltYWwSLwoQbGFzdF90cmFkZV9wcmljZRhxIAEoCzIVLmRpZ2l0",
+            "ZXhfd2lyZS5EZWNpbWFsEjIKE2xhc3RfdHJhZGVfcXVhbnRpdHkYdCABKAsy",
+            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIdChRsYXN0X3RyYWRlX3RpbWVzdGFt",
+            "cBioAiABKAMSMgoSYnV5X29yZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0",
+            "ZXhfd2lyZS5EZWNpbWFsEjMKE3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNAoUZnVsbF9wb3NpdGlvbl9tYXJn",
+            "aW4YqgIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNQoVZnVsbF9idXlf",
+            "b3JkZXJfbWFyZ2luGKsCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYK",
+            "FmZ1bGxfc2VsbF9vcmRlcl9tYXJnaW4YrAIgASgLMhUuZGlnaXRleF93aXJl",
+            "LkRlY2ltYWwi0AcKDFRyYWRlTWVzc2FnZRIXCg90cmFkZV90aW1lc3RhbXAY",
+            "RSABKAMSFwoPdHJhZGVfdHJhZGVyX2lkGEogASgNEi0KCHBvc2l0aW9uGC0g",
+            "ASgOMhsuZGlnaXRleF93aXJlLk9yZGVyUG9zaXRpb24SJAoFcHJpY2UYJiAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIpCgpwYWlkX3ByaWNlGEIgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoRbGlxdWlkYXRpb25fcHJpY2UY",
+            "QyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIwChBiYW5rcnVwdGN5X3By",
+            "aWNlGMoBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEicKCHF1YW50aXR5",
+            "GCcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKgoKZXhpdF9wcmljZRim",
+            "ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIQCghsZXZlcmFnZRgiIAEo",
+            "DRITCgtjb250cmFjdF9pZBgpIAEoBBIXCg9vbGRfY29udHJhY3RfaWQYOSAB",
+            "KAQSFQoNb2xkX2NsaWVudF9pZBhBIAEoDBIUCgtpc19pbmNyZWFzZRikASAB",
+            "KAUSFwoOaXNfbGlxdWlkYXRpb24YpwEgASgFEhIKCW9wZW5fdGltZRjCASAB",
+            "KAMSLgoOZW50cnlfcXVhbnRpdHkYwwEgASgLMhUuZGlnaXRleF93aXJlLkRl",
+            "Y2ltYWwSLQoNZXhpdF9xdWFudGl0eRjEASABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBIrCgtleGl0X3ZvbHVtZRjFASABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBIyChJmdW5kaW5nX3BhaWRfcHJpY2UYxgEgASgLMhUuZGlnaXRl",
+            "eF93aXJlLkRlY2ltYWwSMAoQZnVuZGluZ19xdWFudGl0eRjHASABKAsyFS5k",
+            "aWdpdGV4X3dpcmUuRGVjaW1hbBIuCg5mdW5kaW5nX3ZvbHVtZRjIASABKAsy",
+            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIWCg1mdW5kaW5nX2NvdW50GMkBIAEo",
+            "BRITCgppc19mdW5kaW5nGMsBIAEoBRIRCghpc19tYWtlchjPASABKAUSGQoQ",
+            "b3JpZ19jb250cmFjdF9pZBjQASABKAQSFgoNaXNfc2V0dGxlbWVudBiVAiAB",
+            "KAUSJgoGdm9sdW1lGJcCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIowO",
+            "ChJPcmRlckZpbGxlZE1lc3NhZ2USKQoGc3RhdHVzGCogASgOMhkuZGlnaXRl",
+            "eF93aXJlLk9yZGVyU3RhdHVzEhUKDW5ld19jbGllbnRfaWQYLCABKAwSKwoK",
+            "b3JkZXJfdHlwZRggIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclR5cGUSJQoE",
+            "c2lkZRghIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclNpZGUSEAoIbGV2ZXJh",
+            "Z2UYIiABKA0SLQoIZHVyYXRpb24YIyABKA4yGy5kaWdpdGV4X3dpcmUuT3Jk",
+            "ZXJEdXJhdGlvbhIkCgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEicKCHF1YW50aXR5GCcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "KQoKcGFpZF9wcmljZRhCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhcK",
+            "Dm9yaWdfY2xpZW50X2lkGMwBIAEoDBISCglvcGVuX3RpbWUYzQEgASgDEi0K",
+            "DW9yaWdfcXVhbnRpdHkYzgEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "JgoGdm9sdW1lGJcCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjAKEGRy",
+            "b3BwZWRfcXVhbnRpdHkYmAEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "FQoMb2xkX29yZGVyX2lkGJkBIAEoDBIWCg1vcmlnX29yZGVyX2lkGMcCIAEo",
+            "DBItCg50cmFkZXJfYmFsYW5jZRgzIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEisKDG9yZGVyX21hcmdpbhhMIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEi4KD3Bvc2l0aW9uX21hcmdpbhhOIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
+            "ZWNpbWFsEiMKBHVwbmwYTyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIj",
+            "CgNwbmwYmgEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoOYWNjdW1f",
+            "cXVhbnRpdHkYtQEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMQoScG9z",
+            "aXRpb25fY29udHJhY3RzGGggASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "LgoPcG9zaXRpb25fdm9sdW1lGGkgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
+            "YWwSOgobcG9zaXRpb25fbGlxdWlkYXRpb25fdm9sdW1lGGogASgLMhUuZGln",
+            "aXRleF93aXJlLkRlY2ltYWwSOQoacG9zaXRpb25fYmFua3J1cHRjeV92b2x1",
+            "bWUYdSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyCg1wb3NpdGlvbl90",
+            "eXBlGGsgASgOMhsuZGlnaXRleF93aXJlLk9yZGVyUG9zaXRpb24SLwoQbGFz",
+            "dF90cmFkZV9wcmljZRhxIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIK",
+            "E2xhc3RfdHJhZGVfcXVhbnRpdHkYdCABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
+            "aW1hbBIdChRsYXN0X3RyYWRlX3RpbWVzdGFtcBioAiABKAMSLwoQYnV5X29y",
+            "ZGVyX21hcmdpbhh2IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjAKEXNl",
+            "bGxfb3JkZXJfbWFyZ2luGHcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "MgoSYnV5X29yZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
+            "ZWNpbWFsEjMKE3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRl",
+            "eF93aXJlLkRlY2ltYWwSKQoKbWFya19wcmljZRg0IAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEjAKEHRyYWRlcl9iYWxhbmNlXzIYlgIgASgLMhUuZGln",
+            "aXRleF93aXJlLkRlY2ltYWwSNAoUZnVsbF9wb3NpdGlvbl9tYXJnaW4YqgIg",
+            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNQoVZnVsbF9idXlfb3JkZXJf",
+            "bWFyZ2luGKsCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYKFmZ1bGxf",
+            "c2VsbF9vcmRlcl9tYXJnaW4YrAIgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
+            "YWwSKgoGdHJhZGVzGC4gAygLMhouZGlnaXRleF93aXJlLlRyYWRlTWVzc2Fn",
+            "ZRIuCgpyYXdfdHJhZGVzGFIgAygLMhouZGlnaXRleF93aXJlLlRyYWRlTWVz",
+            "c2FnZSLMAQoZRXhjaGFuZ2VSYXRlVXBkYXRlTWVzc2FnZRIYChBjdXJyZW5j",
+            "eV9wYWlyX2lkGC8gASgNEiUKBnZvbHVtZRgwIAEoCzIVLmRpZ2l0ZXhfd2ly",
             "ZS5EZWNpbWFsEicKCHF1YW50aXR5GCcgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwSKgoKZXhpdF9wcmljZRimASABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
-            "aW1hbBIQCghsZXZlcmFnZRgiIAEoDRITCgtjb250cmFjdF9pZBgpIAEoBBIX",
-            "Cg9vbGRfY29udHJhY3RfaWQYOSABKAQSFQoNb2xkX2NsaWVudF9pZBhBIAEo",
-            "DBIUCgtpc19pbmNyZWFzZRikASABKAUSFwoOaXNfbGlxdWlkYXRpb24YpwEg",
-            "ASgFEhIKCW9wZW5fdGltZRjCASABKAMSLgoOZW50cnlfcXVhbnRpdHkYwwEg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLQoNZXhpdF9xdWFudGl0eRjE",
-            "ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgtleGl0X3ZvbHVtZRjF",
-            "ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChJmdW5kaW5nX3BhaWRf",
-            "cHJpY2UYxgEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoQZnVuZGlu",
-            "Z19xdWFudGl0eRjHASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg5m",
-            "dW5kaW5nX3ZvbHVtZRjIASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIW",
-            "Cg1mdW5kaW5nX2NvdW50GMkBIAEoBRITCgppc19mdW5kaW5nGMsBIAEoBRIR",
-            "Cghpc19tYWtlchjPASABKAUSGQoQb3JpZ19jb250cmFjdF9pZBjQASABKAQS",
-            "FgoNaXNfc2V0dGxlbWVudBiVAiABKAUSJgoGdm9sdW1lGJcCIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsIt0NChJPcmRlckZpbGxlZE1lc3NhZ2USKQoG",
-            "c3RhdHVzGCogASgOMhkuZGlnaXRleF93aXJlLk9yZGVyU3RhdHVzEhUKDW5l",
-            "d19jbGllbnRfaWQYLCABKAwSKwoKb3JkZXJfdHlwZRggIAEoDjIXLmRpZ2l0",
-            "ZXhfd2lyZS5PcmRlclR5cGUSJQoEc2lkZRghIAEoDjIXLmRpZ2l0ZXhfd2ly",
-            "ZS5PcmRlclNpZGUSEAoIbGV2ZXJhZ2UYIiABKA0SLQoIZHVyYXRpb24YIyAB",
-            "KA4yGy5kaWdpdGV4X3dpcmUuT3JkZXJEdXJhdGlvbhIkCgVwcmljZRgmIAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEicKCHF1YW50aXR5GCcgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwSKQoKcGFpZF9wcmljZRhCIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEhcKDm9yaWdfY2xpZW50X2lkGMwBIAEoDBIS",
-            "CglvcGVuX3RpbWUYzQEgASgDEi0KDW9yaWdfcXVhbnRpdHkYzgEgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwSJgoGdm9sdW1lGJcCIAEoCzIVLmRpZ2l0",
-            "ZXhfd2lyZS5EZWNpbWFsEjAKEGRyb3BwZWRfcXVhbnRpdHkYmAEgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwSLQoOdHJhZGVyX2JhbGFuY2UYMyABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9tYXJnaW4YTCABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl9tYXJnaW4YTiAB",
-            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgR1cG5sGE8gASgLMhUuZGln",
-            "aXRleF93aXJlLkRlY2ltYWwSIwoDcG5sGJoBIAEoCzIVLmRpZ2l0ZXhfd2ly",
-            "ZS5EZWNpbWFsEi4KDmFjY3VtX3F1YW50aXR5GLUBIAEoCzIVLmRpZ2l0ZXhf",
-            "d2lyZS5EZWNpbWFsEjEKEnBvc2l0aW9uX2NvbnRyYWN0cxhoIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEi4KD3Bvc2l0aW9uX3ZvbHVtZRhpIAEoCzIV",
-            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjoKG3Bvc2l0aW9uX2xpcXVpZGF0aW9u",
-            "X3ZvbHVtZRhqIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjkKGnBvc2l0",
-            "aW9uX2JhbmtydXB0Y3lfdm9sdW1lGHUgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwSMgoNcG9zaXRpb25fdHlwZRhrIAEoDjIbLmRpZ2l0ZXhfd2lyZS5P",
-            "cmRlclBvc2l0aW9uEi8KEGxhc3RfdHJhZGVfcHJpY2UYcSABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIyChNsYXN0X3RyYWRlX3F1YW50aXR5GHQgASgL",
-            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSHQoUbGFzdF90cmFkZV90aW1lc3Rh",
-            "bXAYqAIgASgDEi8KEGJ1eV9vcmRlcl9tYXJnaW4YdiABKAsyFS5kaWdpdGV4",
-            "X3dpcmUuRGVjaW1hbBIwChFzZWxsX29yZGVyX21hcmdpbhh3IAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEjIKEmJ1eV9vcmRlcl9xdWFudGl0eRi2ASAB",
-            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIzChNzZWxsX29yZGVyX3F1YW50",
-            "aXR5GLcBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEikKCm1hcmtfcHJp",
-            "Y2UYNCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIwChB0cmFkZXJfYmFs",
-            "YW5jZV8yGJYCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjQKFGZ1bGxf",
-            "cG9zaXRpb25fbWFyZ2luGKoCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EjUKFWZ1bGxfYnV5X29yZGVyX21hcmdpbhirAiABKAsyFS5kaWdpdGV4X3dp",
-            "cmUuRGVjaW1hbBI2ChZmdWxsX3NlbGxfb3JkZXJfbWFyZ2luGKwCIAEoCzIV",
-            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEioKBnRyYWRlcxguIAMoCzIaLmRpZ2l0",
-            "ZXhfd2lyZS5UcmFkZU1lc3NhZ2USLgoKcmF3X3RyYWRlcxhSIAMoCzIaLmRp",
-            "Z2l0ZXhfd2lyZS5UcmFkZU1lc3NhZ2UimgEKGUV4Y2hhbmdlUmF0ZVVwZGF0",
-            "ZU1lc3NhZ2USGAoQY3VycmVuY3lfcGFpcl9pZBgvIAEoDRIlCgZ2b2x1bWUY",
-            "MCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBInCghxdWFudGl0eRgnIAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhMKCnVucmVsaWFibGUY0QEgASgF",
-            "Im8KE0V4Y2hhbmdlUmF0ZU1lc3NhZ2USGAoQY3VycmVuY3lfcGFpcl9pZBgv",
-            "IAEoDRIpCgptYXJrX3ByaWNlGDQgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSEwoKdW5yZWxpYWJsZRjRASABKAUitwEKFFRyYWRlckJhbGFuY2VNZXNz",
-            "YWdlEhMKC2N1cnJlbmN5X2lkGDEgASgNEi0KDnRyYWRlcl9iYWxhbmNlGDMg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKwoMb3JkZXJfbWFyZ2luGEwg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoPcG9zaXRpb25fbWFyZ2lu",
-            "GE4gASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwiugoKFFBvc2l0aW9uRXZl",
-            "bnRNZXNzYWdlEjYKEWxpcXVpZGF0ZWRfdHJhZGVzGKgBIAMoCzIaLmRpZ2l0",
-            "ZXhfd2lyZS5UcmFkZU1lc3NhZ2USGQoRdGVybWluYXRlZF9vcmRlcnMYYCAD",
-            "KAwSLQoOdHJhZGVyX2JhbGFuY2UYMyABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
-            "aW1hbBIrCgxvcmRlcl9tYXJnaW4YTCABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
-            "aW1hbBIuCg9wb3NpdGlvbl9tYXJnaW4YTiABKAsyFS5kaWdpdGV4X3dpcmUu",
-            "RGVjaW1hbBIjCgR1cG5sGE8gASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "IwoDcG5sGJoBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KDmFjY3Vt",
-            "X3F1YW50aXR5GLUBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjEKEnBv",
-            "c2l0aW9uX2NvbnRyYWN0cxhoIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "Ei4KD3Bvc2l0aW9uX3ZvbHVtZRhpIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
-            "bWFsEjoKG3Bvc2l0aW9uX2xpcXVpZGF0aW9uX3ZvbHVtZRhqIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEjkKGnBvc2l0aW9uX2JhbmtydXB0Y3lfdm9s",
-            "dW1lGHUgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoNcG9zaXRpb25f",
-            "dHlwZRhrIAEoDjIbLmRpZ2l0ZXhfd2lyZS5PcmRlclBvc2l0aW9uEi8KEGxh",
-            "c3RfdHJhZGVfcHJpY2UYcSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIy",
-            "ChNsYXN0X3RyYWRlX3F1YW50aXR5GHQgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwSHQoUbGFzdF90cmFkZV90aW1lc3RhbXAYqAIgASgDEi8KEGJ1eV9v",
-            "cmRlcl9tYXJnaW4YdiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIwChFz",
-            "ZWxsX29yZGVyX21hcmdpbhh3IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EjgKGHRyYWRlcl9iYWxhbmNlX2luY3JlbWVudBiGASABKAsyFS5kaWdpdGV4",
-            "X3dpcmUuRGVjaW1hbBIyChJidXlfb3JkZXJfcXVhbnRpdHkYtgEgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwSMwoTc2VsbF9vcmRlcl9xdWFudGl0eRi3",
-            "ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI0ChRmdWxsX3Bvc2l0aW9u",
-            "X21hcmdpbhiqAiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI1ChVmdWxs",
-            "X2J1eV9vcmRlcl9tYXJnaW4YqwIgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSNgoWZnVsbF9zZWxsX29yZGVyX21hcmdpbhisAiABKAsyFS5kaWdpdGV4",
-            "X3dpcmUuRGVjaW1hbBIpCgptYXJrX3ByaWNlGDQgASgLMhUuZGlnaXRleF93",
-            "aXJlLkRlY2ltYWwSMAoQZmxvb3JfbWFya19wcmljZRiHASABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIvCg9jZWlsX21hcmtfcHJpY2UYiAEgASgLMhUu",
-            "ZGlnaXRleF93aXJlLkRlY2ltYWwiGQoXT3JkZXJCb29rUmVxdWVzdE1lc3Nh",
-            "Z2UigAEKFU9yZGVyQm9va0VudHJ5TWVzc2FnZRIkCgVwcmljZRgmIAEoCzIV",
-            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEicKCHF1YW50aXR5GCcgASgLMhUuZGln",
-            "aXRleF93aXJlLkRlY2ltYWwSGAoPZW50cnlfdGltZXN0YW1wGJsBIAEoAyKs",
-            "AQoaT3JkZXJCb29rVHJhZGVFbnRyeU1lc3NhZ2USJAoFcHJpY2UYJiABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBInCghxdWFudGl0eRgnIAEoCzIVLmRp",
-            "Z2l0ZXhfd2lyZS5EZWNpbWFsEhgKD2VudHJ5X3RpbWVzdGFtcBibASABKAMS",
-            "JQoEc2lkZRghIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclNpZGUipwIKEE9y",
-            "ZGVyQm9va01lc3NhZ2USMQoEYmlkcxg1IAMoCzIjLmRpZ2l0ZXhfd2lyZS5P",
-            "cmRlckJvb2tFbnRyeU1lc3NhZ2USMQoEYXNrcxg2IAMoCzIjLmRpZ2l0ZXhf",
-            "d2lyZS5PcmRlckJvb2tFbnRyeU1lc3NhZ2USKQoKbWFya19wcmljZRg0IAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi8KEGxhc3RfdHJhZGVfcHJpY2UY",
+            "Y2ltYWwSEwoKdW5yZWxpYWJsZRjRASABKAUSFQoMc291cmNlX2NvdW50GK0C",
+            "IAEoBRIZChBwcmljZV91cGRhdGVyX2lkGK4CIAEoDCJvChNFeGNoYW5nZVJh",
+            "dGVNZXNzYWdlEhgKEGN1cnJlbmN5X3BhaXJfaWQYLyABKA0SKQoKbWFya19w",
+            "cmljZRg0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhMKCnVucmVsaWFi",
+            "bGUY0QEgASgFIrcBChRUcmFkZXJCYWxhbmNlTWVzc2FnZRITCgtjdXJyZW5j",
+            "eV9pZBgxIAEoDRItCg50cmFkZXJfYmFsYW5jZRgzIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEisKDG9yZGVyX21hcmdpbhhMIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEi4KD3Bvc2l0aW9uX21hcmdpbhhOIAEoCzIVLmRpZ2l0",
+            "ZXhfd2lyZS5EZWNpbWFsIuYKChRQb3NpdGlvbkV2ZW50TWVzc2FnZRI2ChFs",
+            "aXF1aWRhdGVkX3RyYWRlcxioASADKAsyGi5kaWdpdGV4X3dpcmUuVHJhZGVN",
+            "ZXNzYWdlEhkKEXRlcm1pbmF0ZWRfb3JkZXJzGGAgAygMEioKBm9yZGVycxhG",
+            "IAMoCzIaLmRpZ2l0ZXhfd2lyZS5PcmRlck1lc3NhZ2USLQoOdHJhZGVyX2Jh",
+            "bGFuY2UYMyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9t",
+            "YXJnaW4YTCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlv",
+            "bl9tYXJnaW4YTiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgR1cG5s",
+            "GE8gASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSIwoDcG5sGJoBIAEoCzIV",
+            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KDmFjY3VtX3F1YW50aXR5GLUBIAEo",
+            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjEKEnBvc2l0aW9uX2NvbnRyYWN0",
+            "cxhoIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KD3Bvc2l0aW9uX3Zv",
+            "bHVtZRhpIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjoKG3Bvc2l0aW9u",
+            "X2xpcXVpZGF0aW9uX3ZvbHVtZRhqIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEjkKGnBvc2l0aW9uX2JhbmtydXB0Y3lfdm9sdW1lGHUgASgLMhUuZGln",
+            "aXRleF93aXJlLkRlY2ltYWwSMgoNcG9zaXRpb25fdHlwZRhrIAEoDjIbLmRp",
+            "Z2l0ZXhfd2lyZS5PcmRlclBvc2l0aW9uEi8KEGxhc3RfdHJhZGVfcHJpY2UY",
             "cSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNsYXN0X3RyYWRlX3F1",
             "YW50aXR5GHQgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSHQoUbGFzdF90",
-            "cmFkZV90aW1lc3RhbXAYqAIgASgDIuEDChdPcmRlckJvb2tVcGRhdGVkTWVz",
-            "c2FnZRI4CgtiaWRfdXBkYXRlcxg6IAMoCzIjLmRpZ2l0ZXhfd2lyZS5PcmRl",
-            "ckJvb2tFbnRyeU1lc3NhZ2USOAoLYXNrX3VwZGF0ZXMYOyADKAsyIy5kaWdp",
-            "dGV4X3dpcmUuT3JkZXJCb29rRW50cnlNZXNzYWdlEjMKBnRyYWRlcxg8IAMo",
-            "CzIjLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tFbnRyeU1lc3NhZ2USOgoHdHJh",
-            "ZGVzMhikAiADKAsyKC5kaWdpdGV4X3dpcmUuT3JkZXJCb29rVHJhZGVFbnRy",
-            "eU1lc3NhZ2USKQoKbWFya19wcmljZRg0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
-            "ZWNpbWFsEhsKE2xhc3RfZnVsbF90aW1lc3RhbXAYNyABKAMSFQoNdXBkYXRl",
-            "X3NlcmlhbBg4IAEoAxIvChBsYXN0X3RyYWRlX3ByaWNlGHEgASgLMhUuZGln",
-            "aXRleF93aXJlLkRlY2ltYWwSMgoTbGFzdF90cmFkZV9xdWFudGl0eRh0IAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEh0KFGxhc3RfdHJhZGVfdGltZXN0",
-            "YW1wGKgCIAEoAyINCgtQaW5nTWVzc2FnZSJPCgtQb25nTWVzc2FnZRITCgtw",
-            "aW5nX3NlbmRlchg9IAEoDRITCgtwaW5nX3NlcmlhbBg+IAEoBBIWCg5waW5n",
-            "X3RpbWVzdGFtcBg/IAEoAyIYChZHZXRUcmFkZXJTdGF0dXNNZXNzYWdlIsUE",
-            "CgxPcmRlck1lc3NhZ2USFwoPb3JkZXJfY2xpZW50X2lkGEcgASgMEhcKD29y",
-            "ZGVyX3RpbWVzdGFtcBhIIAEoAxIXCg9vcmRlcl90cmFkZXJfaWQYSSABKA0S",
-            "KwoKb3JkZXJfdHlwZRggIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclR5cGUS",
-            "JQoEc2lkZRghIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclNpZGUSEAoIbGV2",
-            "ZXJhZ2UYIiABKA0SLQoIZHVyYXRpb24YIyABKA4yGy5kaWdpdGV4X3dpcmUu",
-            "T3JkZXJEdXJhdGlvbhIkCgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
+            "cmFkZV90aW1lc3RhbXAYqAIgASgDEi8KEGJ1eV9vcmRlcl9tYXJnaW4YdiAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIwChFzZWxsX29yZGVyX21hcmdp",
+            "bhh3IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjgKGHRyYWRlcl9iYWxh",
+            "bmNlX2luY3JlbWVudBiGASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIy",
+            "ChJidXlfb3JkZXJfcXVhbnRpdHkYtgEgASgLMhUuZGlnaXRleF93aXJlLkRl",
+            "Y2ltYWwSMwoTc2VsbF9vcmRlcl9xdWFudGl0eRi3ASABKAsyFS5kaWdpdGV4",
+            "X3dpcmUuRGVjaW1hbBI0ChRmdWxsX3Bvc2l0aW9uX21hcmdpbhiqAiABKAsy",
+            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI1ChVmdWxsX2J1eV9vcmRlcl9tYXJn",
+            "aW4YqwIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNgoWZnVsbF9zZWxs",
+            "X29yZGVyX21hcmdpbhisAiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIp",
+            "CgptYXJrX3ByaWNlGDQgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoQ",
+            "Zmxvb3JfbWFya19wcmljZRiHASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1h",
+            "bBIvCg9jZWlsX21hcmtfcHJpY2UYiAEgASgLMhUuZGlnaXRleF93aXJlLkRl",
+            "Y2ltYWwiGQoXT3JkZXJCb29rUmVxdWVzdE1lc3NhZ2UigAEKFU9yZGVyQm9v",
+            "a0VudHJ5TWVzc2FnZRIkCgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
             "ZWNpbWFsEicKCHF1YW50aXR5GCcgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSKQoKcGFpZF9wcmljZRhCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EiYKBnZvbHVtZRiXAiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBITCgtj",
-            "b250cmFjdF9pZBgpIAEoBBIWCg1vbGRfY2xpZW50X2lkGJkBIAEoDBIXCg5v",
-            "cmlnX2NsaWVudF9pZBjMASABKAwSEgoJb3Blbl90aW1lGM0BIAEoAxItCg1v",
-            "cmlnX3F1YW50aXR5GM4BIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhMK",
-            "CmlzX2Nsb3NpbmcYmAIgASgFEhUKDG1heV9pbmNyZWFzZRilAiABKAUiowoK",
-            "E1RyYWRlclN0YXR1c01lc3NhZ2USLQoOdHJhZGVyX2JhbGFuY2UYMyABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9tYXJnaW4YTCABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl9tYXJnaW4YTiAB",
-            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgR1cG5sGE8gASgLMhUuZGln",
-            "aXRleF93aXJlLkRlY2ltYWwSIwoDcG5sGJoBIAEoCzIVLmRpZ2l0ZXhfd2ly",
-            "ZS5EZWNpbWFsEi4KDmFjY3VtX3F1YW50aXR5GLUBIAEoCzIVLmRpZ2l0ZXhf",
-            "d2lyZS5EZWNpbWFsEikKCm1hcmtfcHJpY2UYNCABKAsyFS5kaWdpdGV4X3dp",
-            "cmUuRGVjaW1hbBIxChJwb3NpdGlvbl9jb250cmFjdHMYaCABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl92b2x1bWUYaSABKAsyFS5k",
-            "aWdpdGV4X3dpcmUuRGVjaW1hbBI6Chtwb3NpdGlvbl9saXF1aWRhdGlvbl92",
-            "b2x1bWUYaiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI5Chpwb3NpdGlv",
-            "bl9iYW5rcnVwdGN5X3ZvbHVtZRh1IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
-            "bWFsEjIKDXBvc2l0aW9uX3R5cGUYayABKA4yGy5kaWdpdGV4X3dpcmUuT3Jk",
-            "ZXJQb3NpdGlvbhIvChBsYXN0X3RyYWRlX3ByaWNlGHEgASgLMhUuZGlnaXRl",
-            "eF93aXJlLkRlY2ltYWwSMgoTbGFzdF90cmFkZV9xdWFudGl0eRh0IAEoCzIV",
-            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEh0KFGxhc3RfdHJhZGVfdGltZXN0YW1w",
-            "GKgCIAEoAxIvChBidXlfb3JkZXJfbWFyZ2luGHYgASgLMhUuZGlnaXRleF93",
-            "aXJlLkRlY2ltYWwSMAoRc2VsbF9vcmRlcl9tYXJnaW4YdyABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIqCgZ0cmFkZXMYLiADKAsyGi5kaWdpdGV4X3dp",
-            "cmUuVHJhZGVNZXNzYWdlEioKBm9yZGVycxhGIAMoCzIaLmRpZ2l0ZXhfd2ly",
-            "ZS5PcmRlck1lc3NhZ2USEAoIbGV2ZXJhZ2UYIiABKA0SMgoSYnV5X29yZGVy",
-            "X3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjMKE3Nl",
-            "bGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSMAoQdHJhZGVyX2JhbGFuY2VfMhiWAiABKAsyFS5kaWdpdGV4X3dpcmUu",
-            "RGVjaW1hbBI8Cg9kZWxheWVkX2FjdGlvbnMYoAIgAygLMiIuZGlnaXRleF93",
-            "aXJlLkRlbGF5ZWRBY3Rpb25NZXNzYWdlEjQKFGZ1bGxfcG9zaXRpb25fbWFy",
-            "Z2luGKoCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjUKFWZ1bGxfYnV5",
-            "X29yZGVyX21hcmdpbhirAiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI2",
-            "ChZmdWxsX3NlbGxfb3JkZXJfbWFyZ2luGKwCIAEoCzIVLmRpZ2l0ZXhfd2ly",
-            "ZS5EZWNpbWFsIoMKCg5GdW5kaW5nTWVzc2FnZRIqCgZ0cmFkZXMYLiADKAsy",
-            "Gi5kaWdpdGV4X3dpcmUuVHJhZGVNZXNzYWdlEi0KDnRyYWRlcl9iYWxhbmNl",
-            "GDMgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKwoMb3JkZXJfbWFyZ2lu",
-            "GEwgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoPcG9zaXRpb25fbWFy",
-            "Z2luGE4gASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSIwoEdXBubBhPIAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiMKA3BubBiaASABKAsyFS5kaWdp",
-            "dGV4X3dpcmUuRGVjaW1hbBIuCg5hY2N1bV9xdWFudGl0eRi1ASABKAsyFS5k",
+            "YWwSGAoPZW50cnlfdGltZXN0YW1wGJsBIAEoAyKsAQoaT3JkZXJCb29rVHJh",
+            "ZGVFbnRyeU1lc3NhZ2USJAoFcHJpY2UYJiABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBInCghxdWFudGl0eRgnIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEhgKD2VudHJ5X3RpbWVzdGFtcBibASABKAMSJQoEc2lkZRghIAEoDjIX",
+            "LmRpZ2l0ZXhfd2lyZS5PcmRlclNpZGUipwIKEE9yZGVyQm9va01lc3NhZ2US",
+            "MQoEYmlkcxg1IAMoCzIjLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tFbnRyeU1l",
+            "c3NhZ2USMQoEYXNrcxg2IAMoCzIjLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tF",
+            "bnRyeU1lc3NhZ2USKQoKbWFya19wcmljZRg0IAEoCzIVLmRpZ2l0ZXhfd2ly",
+            "ZS5EZWNpbWFsEi8KEGxhc3RfdHJhZGVfcHJpY2UYcSABKAsyFS5kaWdpdGV4",
+            "X3dpcmUuRGVjaW1hbBIyChNsYXN0X3RyYWRlX3F1YW50aXR5GHQgASgLMhUu",
+            "ZGlnaXRleF93aXJlLkRlY2ltYWwSHQoUbGFzdF90cmFkZV90aW1lc3RhbXAY",
+            "qAIgASgDIuEDChdPcmRlckJvb2tVcGRhdGVkTWVzc2FnZRI4CgtiaWRfdXBk",
+            "YXRlcxg6IAMoCzIjLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tFbnRyeU1lc3Nh",
+            "Z2USOAoLYXNrX3VwZGF0ZXMYOyADKAsyIy5kaWdpdGV4X3dpcmUuT3JkZXJC",
+            "b29rRW50cnlNZXNzYWdlEjMKBnRyYWRlcxg8IAMoCzIjLmRpZ2l0ZXhfd2ly",
+            "ZS5PcmRlckJvb2tFbnRyeU1lc3NhZ2USOgoHdHJhZGVzMhikAiADKAsyKC5k",
+            "aWdpdGV4X3dpcmUuT3JkZXJCb29rVHJhZGVFbnRyeU1lc3NhZ2USKQoKbWFy",
+            "a19wcmljZRg0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhsKE2xhc3Rf",
+            "ZnVsbF90aW1lc3RhbXAYNyABKAMSFQoNdXBkYXRlX3NlcmlhbBg4IAEoAxIv",
+            "ChBsYXN0X3RyYWRlX3ByaWNlGHEgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
+            "YWwSMgoTbGFzdF90cmFkZV9xdWFudGl0eRh0IAEoCzIVLmRpZ2l0ZXhfd2ly",
+            "ZS5EZWNpbWFsEh0KFGxhc3RfdHJhZGVfdGltZXN0YW1wGKgCIAEoAyINCgtQ",
+            "aW5nTWVzc2FnZSJPCgtQb25nTWVzc2FnZRITCgtwaW5nX3NlbmRlchg9IAEo",
+            "DRITCgtwaW5nX3NlcmlhbBg+IAEoBBIWCg5waW5nX3RpbWVzdGFtcBg/IAEo",
+            "AyIYChZHZXRUcmFkZXJTdGF0dXNNZXNzYWdlIt0ECgxPcmRlck1lc3NhZ2US",
+            "FwoPb3JkZXJfY2xpZW50X2lkGEcgASgMEhcKD29yZGVyX3RpbWVzdGFtcBhI",
+            "IAEoAxIXCg9vcmRlcl90cmFkZXJfaWQYSSABKA0SKwoKb3JkZXJfdHlwZRgg",
+            "IAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclR5cGUSJQoEc2lkZRghIAEoDjIX",
+            "LmRpZ2l0ZXhfd2lyZS5PcmRlclNpZGUSEAoIbGV2ZXJhZ2UYIiABKA0SLQoI",
+            "ZHVyYXRpb24YIyABKA4yGy5kaWdpdGV4X3dpcmUuT3JkZXJEdXJhdGlvbhIk",
+            "CgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEicKCHF1YW50",
+            "aXR5GCcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKQoKcGFpZF9wcmlj",
+            "ZRhCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiYKBnZvbHVtZRiXAiAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBITCgtjb250cmFjdF9pZBgpIAEo",
+            "BBIWCg1vbGRfY2xpZW50X2lkGJkBIAEoDBIXCg5vcmlnX2NsaWVudF9pZBjM",
+            "ASABKAwSEgoJb3Blbl90aW1lGM0BIAEoAxItCg1vcmlnX3F1YW50aXR5GM4B",
+            "IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhMKCmlzX2Nsb3NpbmcYmAIg",
+            "ASgFEhUKDG1heV9pbmNyZWFzZRilAiABKAUSFgoNb3JpZ19vcmRlcl9pZBjH",
+            "AiABKAwiowoKE1RyYWRlclN0YXR1c01lc3NhZ2USLQoOdHJhZGVyX2JhbGFu",
+            "Y2UYMyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9tYXJn",
+            "aW4YTCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl9t",
+            "YXJnaW4YTiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgR1cG5sGE8g",
+            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSIwoDcG5sGJoBIAEoCzIVLmRp",
+            "Z2l0ZXhfd2lyZS5EZWNpbWFsEi4KDmFjY3VtX3F1YW50aXR5GLUBIAEoCzIV",
+            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEikKCm1hcmtfcHJpY2UYNCABKAsyFS5k",
             "aWdpdGV4X3dpcmUuRGVjaW1hbBIxChJwb3NpdGlvbl9jb250cmFjdHMYaCAB",
             "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl92b2x1bWUY",
             "aSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI6Chtwb3NpdGlvbl9saXF1",
             "aWRhdGlvbl92b2x1bWUYaiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI5",
             "Chpwb3NpdGlvbl9iYW5rcnVwdGN5X3ZvbHVtZRh1IAEoCzIVLmRpZ2l0ZXhf",
             "d2lyZS5EZWNpbWFsEjIKDXBvc2l0aW9uX3R5cGUYayABKA4yGy5kaWdpdGV4",
-            "X3dpcmUuT3JkZXJQb3NpdGlvbhIvChBidXlfb3JkZXJfbWFyZ2luGHYgASgL",
-            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoRc2VsbF9vcmRlcl9tYXJnaW4Y",
-            "dyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNwYXlvdXRfcGVyX2Nv",
-            "bnRyYWN0GGYgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSJQoGcGF5b3V0",
-            "GGUgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLwoQbGFzdF90cmFkZV9w",
-            "cmljZRhxIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIKE2xhc3RfdHJh",
-            "ZGVfcXVhbnRpdHkYdCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIdChRs",
-            "YXN0X3RyYWRlX3RpbWVzdGFtcBioAiABKAMSKQoKbWFya19wcmljZRg0IAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYKFnBvc2l0aW9uX21hcmdpbl9j",
-            "aGFuZ2UYowEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoSYnV5X29y",
-            "ZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjMK",
-            "E3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwSNAoUZnVsbF9wb3NpdGlvbl9tYXJnaW4YqgIgASgLMhUuZGlnaXRl",
-            "eF93aXJlLkRlY2ltYWwSNQoVZnVsbF9idXlfb3JkZXJfbWFyZ2luGKsCIAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYKFmZ1bGxfc2VsbF9vcmRlcl9t",
-            "YXJnaW4YrAIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwiqgIKDE9ITENW",
-            "TWVzc2FnZRIpCgpvcGVuX3ByaWNlGFcgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwSKQoKaGlnaF9wcmljZRhYIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
-            "bWFsEigKCWxvd19wcmljZRhZIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EioKC2Nsb3NlX3ByaWNlGFogASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "JQoGdm9sdW1lGDAgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNAoUYXZl",
-            "cmFnZV9vcmFjbGVfcHJpY2UYggEgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSEQoJdGltZXN0YW1wGAIgASgDIkQKEFN1YnNjcmliZU1lc3NhZ2USFgoO",
-            "c3Vic2NyaWJlX21hc2sYXiABKAQSGAoQdW5zdWJzY3JpYmVfbWFzaxhfIAEo",
-            "BCIwChZTdWJzY3JpYmVTdGF0dXNNZXNzYWdlEhYKDnN1YnNjcmliZV9tYXNr",
-            "GF4gASgEIqcBChRDbG9zZUNvbnRyYWN0TWVzc2FnZRITCgtjb250cmFjdF9p",
-            "ZBgpIAEoBBIrCgpvcmRlcl90eXBlGCAgASgOMhcuZGlnaXRleF93aXJlLk9y",
-            "ZGVyVHlwZRIkCgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EicKCHF1YW50aXR5GCcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwibQoY",
-            "Q2xvc2VBbGxDb250cmFjdHNNZXNzYWdlEisKCm9yZGVyX3R5cGUYICABKA4y",
-            "Fy5kaWdpdGV4X3dpcmUuT3JkZXJUeXBlEiQKBXByaWNlGCYgASgLMhUuZGln",
-            "aXRleF93aXJlLkRlY2ltYWwi7AYKFE9yZGVyQ2FuY2VsZWRNZXNzYWdlEikK",
-            "BnN0YXR1cxgqIAEoDjIZLmRpZ2l0ZXhfd2lyZS5PcmRlclN0YXR1cxIWCg5w",
-            "cmV2X2NsaWVudF9pZBgoIAEoDBIRCglvcmRlcl9pZHMYZyADKAwSKgoGb3Jk",
-            "ZXJzGEYgAygLMhouZGlnaXRleF93aXJlLk9yZGVyTWVzc2FnZRItCg50cmFk",
-            "ZXJfYmFsYW5jZRgzIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEisKDG9y",
-            "ZGVyX21hcmdpbhhMIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KD3Bv",
-            "c2l0aW9uX21hcmdpbhhOIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiMK",
-            "BHVwbmwYTyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgNwbmwYmgEg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoOYWNjdW1fcXVhbnRpdHkY",
-            "tQEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLwoQYnV5X29yZGVyX21h",
-            "cmdpbhh2IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjAKEXNlbGxfb3Jk",
-            "ZXJfbWFyZ2luGHcgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoSYnV5",
-            "X29yZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "EjMKE3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRleF93aXJl",
-            "LkRlY2ltYWwSMAoQdHJhZGVyX2JhbGFuY2VfMhiWAiABKAsyFS5kaWdpdGV4",
-            "X3dpcmUuRGVjaW1hbBI0ChRmdWxsX3Bvc2l0aW9uX21hcmdpbhiqAiABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI1ChVmdWxsX2J1eV9vcmRlcl9tYXJn",
-            "aW4YqwIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNgoWZnVsbF9zZWxs",
-            "X29yZGVyX21hcmdpbhisAiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIp",
-            "CgptYXJrX3ByaWNlGDQgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwiFwoV",
-            "R2V0TWFya2V0U3RhdGVNZXNzYWdlItUBChZEYWlseVN0YXRpc3RpY3NNZXNz",
-            "YWdlEhcKD3N0YXJ0X3RpbWVzdGFtcBh8IAEoAxIlCgZ2b2x1bWUYfSABKAsy",
-            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIkCgVncm9zcxh+IAEoCzIVLmRpZ2l0",
-            "ZXhfd2lyZS5EZWNpbWFsEioKCmhpZ2hfcHJpY2UYnAEgASgLMhUuZGlnaXRl",
-            "eF93aXJlLkRlY2ltYWwSKQoJbG93X3ByaWNlGJ0BIAEoCzIVLmRpZ2l0ZXhf",
-            "d2lyZS5EZWNpbWFsIqAGChJNYXJrZXRTdGF0ZU1lc3NhZ2USKgoGdHJhZGVz",
-            "GC4gAygLMhouZGlnaXRleF93aXJlLlRyYWRlTWVzc2FnZRIqCgZvaGxjdnMY",
-            "WyADKAsyGi5kaWdpdGV4X3dpcmUuT0hMQ1ZNZXNzYWdlEi8KEGxhc3RfdHJh",
-            "ZGVfcHJpY2UYcSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNsYXN0",
-            "X3RyYWRlX3F1YW50aXR5GHQgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "HQoUbGFzdF90cmFkZV90aW1lc3RhbXAYqAIgASgDEhcKD2V2ZW50X3RpbWVz",
-            "dGFtcBh6IAEoAxI5CgtkYWlseV9zdGF0cxh7IAMoCzIkLmRpZ2l0ZXhfd2ly",
-            "ZS5EYWlseVN0YXRpc3RpY3NNZXNzYWdlEhQKDGZ1bmRpbmdfdGltZRh/IAEo",
-            "AxIsCgxmdW5kaW5nX3JhdGUYgAEgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSMQoRbmV4dF9mdW5kaW5nX3JhdGUYgQEgASgLMhUuZGlnaXRleF93aXJl",
-            "LkRlY2ltYWwSKgoKdGlja192YWx1ZRiDASABKAsyFS5kaWdpdGV4X3dpcmUu",
-            "RGVjaW1hbBIqCgp0aWNrX3ByaWNlGIQBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
-            "ZWNpbWFsEi4KDmNvbnRyYWN0X3ZhbHVlGIUBIAEoCzIVLmRpZ2l0ZXhfd2ly",
-            "ZS5EZWNpbWFsEhkKEGZ1bmRpbmdfaW50ZXJ2YWwYogEgASgDEjIKE3BheW91",
-            "dF9wZXJfY29udHJhY3QYZiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIY",
-            "Cg9hbGVydF90aW1lc3RhbXAY0gEgASgDEhMKCmFsZXJ0X3RleHQY0wEgASgJ",
-            "Ei0KDW9wZW5faW50ZXJlc3QYpwIgASgLMhUuZGlnaXRleF93aXJlLkRlY2lt",
-            "YWwSLgoOaW5zdXJhbmNlX2Z1bmQYqQIgASgLMhUuZGlnaXRleF93aXJlLkRl",
-            "Y2ltYWwihAkKGE1hcmtldFN0YXRlVXBkYXRlTWVzc2FnZRIqCgZ0cmFkZXMY",
-            "LiADKAsyGi5kaWdpdGV4X3dpcmUuVHJhZGVNZXNzYWdlEioKBm9obGN2cxhb",
-            "IAMoCzIaLmRpZ2l0ZXhfd2lyZS5PSExDVk1lc3NhZ2USLwoQbGFzdF90cmFk",
-            "ZV9wcmljZRhxIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIKE2xhc3Rf",
-            "dHJhZGVfcXVhbnRpdHkYdCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBId",
-            "ChRsYXN0X3RyYWRlX3RpbWVzdGFtcBioAiABKAMSFwoPZXZlbnRfdGltZXN0",
-            "YW1wGHogASgDEjkKC2RhaWx5X3N0YXRzGHsgAygLMiQuZGlnaXRleF93aXJl",
-            "LkRhaWx5U3RhdGlzdGljc01lc3NhZ2USFAoMZnVuZGluZ190aW1lGH8gASgD",
-            "EiwKDGZ1bmRpbmdfcmF0ZRiAASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1h",
-            "bBIZChBmdW5kaW5nX2ludGVydmFsGKIBIAEoAxI0ChRpbXBhY3RfYmFzZV9x",
-            "dWFudGl0eRiJASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChJkZ3R4",
-            "X3RvX2Jhc2VfcHJpY2UYigEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
-            "LAoMaW1wYWN0X3ZhbHVlGJ4BIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
-            "Ei8KD2ltcGFjdF9xdWFudGl0eRiMASABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
-            "aW1hbBIwChBpbXBhY3RfYmlkX3ZhbHVlGI0BIAEoCzIVLmRpZ2l0ZXhfd2ly",
-            "ZS5EZWNpbWFsEjAKEGltcGFjdF9iaWRfY291bnQYnwEgASgLMhUuZGlnaXRl",
-            "eF93aXJlLkRlY2ltYWwSMAoQaW1wYWN0X2Fza192YWx1ZRiOASABKAsyFS5k",
-            "aWdpdGV4X3dpcmUuRGVjaW1hbBIwChBpbXBhY3RfYXNrX2NvdW50GKABIAEo",
-            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiwKDGZ1dHVyZV92YWx1ZRiPASAB",
-            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIsCgxmdXR1cmVfY291bnQYoQEg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKgoKc3BvdF9wcmljZRiLASAB",
-            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNwYXlvdXRfcGVyX2NvbnRy",
-            "YWN0GGYgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSGAoPYWxlcnRfdGlt",
-            "ZXN0YW1wGNIBIAEoAxITCgphbGVydF90ZXh0GNMBIAEoCRItCg1vcGVuX2lu",
-            "dGVyZXN0GKcCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KDmluc3Vy",
-            "YW5jZV9mdW5kGKkCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIhkKF0dl",
-            "dEV4Y2hhbmdlUmF0ZXNNZXNzYWdlIo0BChdFeGNoYW5nZVJhdGVJdGVtTWVz",
-            "c2FnZRIYChBjdXJyZW5jeV9wYWlyX2lkGC8gASgNEikKCm1hcmtfcHJpY2UY",
-            "NCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIYChBsYXN0X3VwZGF0ZV90",
-            "aW1lGHkgASgDEhMKCnVucmVsaWFibGUY0QEgASgFIkwKFEV4Y2hhbmdlUmF0",
-            "ZXNNZXNzYWdlEjQKBWl0ZW1zGHggAygLMiUuZGlnaXRleF93aXJlLkV4Y2hh",
-            "bmdlUmF0ZUl0ZW1NZXNzYWdlIioKFUNvbnRyYWN0Q2xvc2VkTWVzc2FnZRIR",
-            "CglvcmRlcl9pZHMYZyADKAwiLgoXR2V0VHJhZGVyQmFsYW5jZU1lc3NhZ2US",
-            "EwoLY3VycmVuY3lfaWQYMSABKA0imQMKFERlbGF5ZWRBY3Rpb25NZXNzYWdl",
-            "EiEKGGRlbGF5ZWRfYWN0aW9uX3RpbWVzdGFtcBijAiABKAMSIQoYZGVsYXll",
-            "ZF9hY3Rpb25fY2xpZW50X2lkGKECIAEoDBIlChxvbGRfZGVsYXllZF9hY3Rp",
-            "b25fY2xpZW50X2lkGKICIAEoDBI1CgthY3Rpb25fdHlwZRiZAiABKA4yHy5k",
-            "aWdpdGV4X3dpcmUuRGVsYXllZEFjdGlvblR5cGUSPwoQdHJpZ2dlcl92YXJp",
-            "YWJsZRiaAiABKA4yJC5kaWdpdGV4X3dpcmUuRGVsYXllZFRyaWdnZXJWYXJp",
-            "YWJsZRJBChF0cmlnZ2VyX2NvbmRpdGlvbhibAiABKA4yJS5kaWdpdGV4X3dp",
-            "cmUuRGVsYXllZFRyaWdnZXJDb25kaXRpb24SLQoNdHJpZ2dlcl92YWx1ZRic",
-            "AiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIqCgVvcmRlchifAiABKAsy",
-            "Gi5kaWdpdGV4X3dpcmUuT3JkZXJNZXNzYWdlIlgKGVBsYWNlRGVsYXllZEFj",
-            "dGlvbk1lc3NhZ2USOwoOZGVsYXllZF9hY3Rpb24YnQIgASgLMiIuZGlnaXRl",
-            "eF93aXJlLkRlbGF5ZWRBY3Rpb25NZXNzYWdlInEKGlVwZGF0ZURlbGF5ZWRB",
-            "Y3Rpb25NZXNzYWdlEhYKDnByZXZfY2xpZW50X2lkGCggASgMEjsKDmRlbGF5",
-            "ZWRfYWN0aW9uGJ0CIAEoCzIiLmRpZ2l0ZXhfd2lyZS5EZWxheWVkQWN0aW9u",
-            "TWVzc2FnZSJNChpDYW5jZWxEZWxheWVkQWN0aW9uTWVzc2FnZRIWCg5wcmV2",
-            "X2NsaWVudF9pZBgoIAEoDBIXCg5hbGxfZm9yX3RyYWRlchieAiABKAUihQEK",
-            "GkRlbGF5ZWRBY3Rpb25TdGF0dXNNZXNzYWdlEikKBnN0YXR1cxgqIAEoDjIZ",
-            "LmRpZ2l0ZXhfd2lyZS5PcmRlclN0YXR1cxI8Cg9kZWxheWVkX2FjdGlvbnMY",
-            "oAIgAygLMiIuZGlnaXRleF93aXJlLkRlbGF5ZWRBY3Rpb25NZXNzYWdlIr0B",
-            "ChdMaXF1aWRhdGlvbkVudHJ5TWVzc2FnZRIwChFsaXF1aWRhdGlvbl9wcmlj",
-            "ZRhDIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEicKCHF1YW50aXR5GCcg",
-            "ASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSGAoPZW50cnlfdGltZXN0YW1w",
-            "GJsBIAEoAxItCghwb3NpdGlvbhgtIAEoDjIbLmRpZ2l0ZXhfd2lyZS5PcmRl",
-            "clBvc2l0aW9uIloKE0xpcXVpZGF0aW9uc01lc3NhZ2USQwoTbGlxdWlkYXRp",
-            "b25fZW50cmllcximAiADKAsyJS5kaWdpdGV4X3dpcmUuTGlxdWlkYXRpb25F",
-            "bnRyeU1lc3NhZ2UiuwEKEkZ1bmRpbmdJbmZvTWVzc2FnZRIUCgxmdW5kaW5n",
-            "X3RpbWUYfyABKAMSLAoMZnVuZGluZ19yYXRlGIABIAEoCzIVLmRpZ2l0ZXhf",
-            "d2lyZS5EZWNpbWFsEjIKE3BheW91dF9wZXJfY29udHJhY3QYZiABKAsyFS5k",
-            "aWdpdGV4X3dpcmUuRGVjaW1hbBItCg1vcGVuX2ludGVyZXN0GKcCIAEoCzIV",
-            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIg4KDEVycm9yTWVzc2FnZSLtFAoHTWVz",
-            "c2FnZRIRCgl0aW1lc3RhbXAYAiABKAMSDgoGc2VyaWFsGAQgASgEEhEKCW1h",
-            "cmtldF9pZBgFIAEoDRIRCgl0cmFkZXJfaWQYBiABKA0SEQoJY2xpZW50X2lk",
-            "GAcgASgMEhIKCmVycm9yX2NvZGUYKyABKA0SOwoPcGxhY2Vfb3JkZXJfbXNn",
-            "GIEEIAEoCzIfLmRpZ2l0ZXhfd2lyZS5QbGFjZU9yZGVyTWVzc2FnZUgAEj0K",
-            "EGNhbmNlbF9vcmRlcl9tc2cYggQgASgLMiAuZGlnaXRleF93aXJlLkNhbmNl",
-            "bE9yZGVyTWVzc2FnZUgAEkYKFWNhbmNlbF9hbGxfb3JkZXJzX21zZxiDBCAB",
-            "KAsyJC5kaWdpdGV4X3dpcmUuQ2FuY2VsQWxsT3JkZXJzTWVzc2FnZUgAEj0K",
-            "EG9yZGVyX3N0YXR1c19tc2cYhQQgASgLMiAuZGlnaXRleF93aXJlLk9yZGVy",
-            "U3RhdHVzTWVzc2FnZUgAEj0KEG9yZGVyX2ZpbGxlZF9tc2cYhgQgASgLMiAu",
-            "ZGlnaXRleF93aXJlLk9yZGVyRmlsbGVkTWVzc2FnZUgAEkoKF2NoYW5nZV9s",
-            "ZXZlcmFnZV9hbGxfbXNnGIcEIAEoCzImLmRpZ2l0ZXhfd2lyZS5DaGFuZ2VM",
-            "ZXZlcmFnZUFsbE1lc3NhZ2VIABJBChJ0cmFkZXJfYmFsYW5jZV9tc2cYigQg",
-            "ASgLMiIuZGlnaXRleF93aXJlLlRyYWRlckJhbGFuY2VNZXNzYWdlSAASQQoS",
-            "cG9zaXRpb25fZXZlbnRfbXNnGIsEIAEoCzIiLmRpZ2l0ZXhfd2lyZS5Qb3Np",
-            "dGlvbkV2ZW50TWVzc2FnZUgAEjYKDGxldmVyYWdlX21zZxiMBCABKAsyHS5k",
-            "aWdpdGV4X3dpcmUuTGV2ZXJhZ2VNZXNzYWdlSAASPwoRZXhjaGFuZ2VfcmF0",
-            "ZV9tc2cYjQQgASgLMiEuZGlnaXRleF93aXJlLkV4Y2hhbmdlUmF0ZU1lc3Nh",
-            "Z2VIABJIChZvcmRlcl9ib29rX3JlcXVlc3RfbXNnGI4EIAEoCzIlLmRpZ2l0",
-            "ZXhfd2lyZS5PcmRlckJvb2tSZXF1ZXN0TWVzc2FnZUgAEjkKDm9yZGVyX2Jv",
-            "b2tfbXNnGI8EIAEoCzIeLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tNZXNzYWdl",
-            "SAASSAoWb3JkZXJfYm9va191cGRhdGVkX21zZxiQBCABKAsyJS5kaWdpdGV4",
-            "X3dpcmUuT3JkZXJCb29rVXBkYXRlZE1lc3NhZ2VIABIuCghwaW5nX21zZxiR",
-            "BCABKAsyGS5kaWdpdGV4X3dpcmUuUGluZ01lc3NhZ2VIABIuCghwb25nX21z",
-            "ZxiSBCABKAsyGS5kaWdpdGV4X3dpcmUuUG9uZ01lc3NhZ2VIABI9ChB1cGRh",
-            "dGVfb3JkZXJfbXNnGJMEIAEoCzIgLmRpZ2l0ZXhfd2lyZS5VcGRhdGVPcmRl",
-            "ck1lc3NhZ2VIABJGChVnZXRfdHJhZGVyX3N0YXR1c19tc2cYlAQgASgLMiQu",
-            "ZGlnaXRleF93aXJlLkdldFRyYWRlclN0YXR1c01lc3NhZ2VIABI/ChF0cmFk",
-            "ZXJfc3RhdHVzX21zZxiVBCABKAsyIS5kaWdpdGV4X3dpcmUuVHJhZGVyU3Rh",
-            "dHVzTWVzc2FnZUgAEjQKC2Z1bmRpbmdfbXNnGJcEIAEoCzIcLmRpZ2l0ZXhf",
-            "d2lyZS5GdW5kaW5nTWVzc2FnZUgAEjgKDXN1YnNjcmliZV9tc2cYmgQgASgL",
-            "Mh4uZGlnaXRleF93aXJlLlN1YnNjcmliZU1lc3NhZ2VIABJFChRzdWJzY3Jp",
-            "YmVfc3RhdHVzX21zZxibBCABKAsyJC5kaWdpdGV4X3dpcmUuU3Vic2NyaWJl",
-            "U3RhdHVzTWVzc2FnZUgAEkEKEmNsb3NlX2NvbnRyYWN0X21zZxieBCABKAsy",
-            "Ii5kaWdpdGV4X3dpcmUuQ2xvc2VDb250cmFjdE1lc3NhZ2VIABJKChdjbG9z",
-            "ZV9hbGxfY29udHJhY3RzX21zZxifBCABKAsyJi5kaWdpdGV4X3dpcmUuQ2xv",
-            "c2VBbGxDb250cmFjdHNNZXNzYWdlSAASQQoSb3JkZXJfY2FuY2VsZWRfbXNn",
-            "GKIEIAEoCzIiLmRpZ2l0ZXhfd2lyZS5PcmRlckNhbmNlbGVkTWVzc2FnZUgA",
-            "EkQKFGdldF9tYXJrZXRfc3RhdGVfbXNnGKQEIAEoCzIjLmRpZ2l0ZXhfd2ly",
-            "ZS5HZXRNYXJrZXRTdGF0ZU1lc3NhZ2VIABI9ChBtYXJrZXRfc3RhdGVfbXNn",
-            "GKUEIAEoCzIgLmRpZ2l0ZXhfd2lyZS5NYXJrZXRTdGF0ZU1lc3NhZ2VIABJI",
-            "ChZnZXRfZXhjaGFuZ2VfcmF0ZXNfbXNnGKYEIAEoCzIlLmRpZ2l0ZXhfd2ly",
-            "ZS5HZXRFeGNoYW5nZVJhdGVzTWVzc2FnZUgAEkEKEmV4Y2hhbmdlX3JhdGVz",
-            "X21zZxinBCABKAsyIi5kaWdpdGV4X3dpcmUuRXhjaGFuZ2VSYXRlc01lc3Nh",
-            "Z2VIABJKChdtYXJrZXRfc3RhdGVfdXBkYXRlX21zZxioBCABKAsyJi5kaWdp",
-            "dGV4X3dpcmUuTWFya2V0U3RhdGVVcGRhdGVNZXNzYWdlSAASQwoTY29udHJh",
-            "Y3RfY2xvc2VkX21zZxipBCABKAsyIy5kaWdpdGV4X3dpcmUuQ29udHJhY3RD",
-            "bG9zZWRNZXNzYWdlSAASSAoWZ2V0X3RyYWRlcl9iYWxhbmNlX21zZxiyBCAB",
-            "KAsyJS5kaWdpdGV4X3dpcmUuR2V0VHJhZGVyQmFsYW5jZU1lc3NhZ2VIABJM",
-            "ChhwbGFjZV9kZWxheWVkX2FjdGlvbl9tc2cYtgQgASgLMicuZGlnaXRleF93",
-            "aXJlLlBsYWNlRGVsYXllZEFjdGlvbk1lc3NhZ2VIABJOChl1cGRhdGVfZGVs",
-            "YXllZF9hY3Rpb25fbXNnGLcEIAEoCzIoLmRpZ2l0ZXhfd2lyZS5VcGRhdGVE",
-            "ZWxheWVkQWN0aW9uTWVzc2FnZUgAEk4KGWNhbmNlbF9kZWxheWVkX2FjdGlv",
-            "bl9tc2cYuAQgASgLMiguZGlnaXRleF93aXJlLkNhbmNlbERlbGF5ZWRBY3Rp",
-            "b25NZXNzYWdlSAASTgoZZGVsYXllZF9hY3Rpb25fc3RhdHVzX21zZxi5BCAB",
-            "KAsyKC5kaWdpdGV4X3dpcmUuRGVsYXllZEFjdGlvblN0YXR1c01lc3NhZ2VI",
-            "ABI+ChBsaXF1aWRhdGlvbnNfbXNnGLoEIAEoCzIhLmRpZ2l0ZXhfd2lyZS5M",
-            "aXF1aWRhdGlvbnNNZXNzYWdlSAASPQoQZnVuZGluZ19pbmZvX21zZxi7BCAB",
-            "KAsyIC5kaWdpdGV4X3dpcmUuRnVuZGluZ0luZm9NZXNzYWdlSAASMAoJZXJy",
-            "b3JfbXNnGLwEIAEoCzIaLmRpZ2l0ZXhfd2lyZS5FcnJvck1lc3NhZ2VIAEIJ",
-            "Cgdrb250ZW50KjIKCU9yZGVyU2lkZRISCg5TSURFX1VOREVGSU5FRBAAEgcK",
-            "A0JVWRABEggKBFNFTEwQAio2CglPcmRlclR5cGUSEgoOVFlQRV9VTkRFRklO",
-            "RUQQABIKCgZNQVJLRVQQARIJCgVMSU1JVBACKlQKDU9yZGVyRHVyYXRpb24S",
-            "FgoSRFVSQVRJT05fVU5ERUZJTkVEEAASBwoDR0ZEEAESBwoDR1RDEAISBwoD",
-            "R1RGEAMSBwoDSU9DEAQSBwoDRk9LEAUqnwEKC09yZGVyU3RhdHVzEhQKEFNU",
-            "QVRVU19VTkRFRklORUQQABILCgdQRU5ESU5HEAESDAoIQUNDRVBURUQQAhIM",
-            "CghSRUpFQ1RFRBADEgwKCENBTkNFTEVEEAQSCgoGRklMTEVEEAUSCwoHUEFS",
-            "VElBTBAGEg4KClRFUk1JTkFURUQQBxILCgdFWFBJUkVEEAgSDQoJVFJJR0dF",
-            "UkVEEAkqMwoNT3JkZXJQb3NpdGlvbhINCglVTkRFRklORUQQABIICgRMT05H",
-            "EAESCQoFU0hPUlQQAiozChFEZWxheWVkQWN0aW9uVHlwZRIQCgxEQV9VTkRF",
-            "RklORUQQABIMCghEQV9PUkRFUhABKlsKFkRlbGF5ZWRUcmlnZ2VyVmFyaWFi",
-            "bGUSEQoNRFRWX1VOREVGSU5FRBAAEhQKEERUVl9PUkFDTEVfUFJJQ0UQARIY",
-            "ChREVFZfTEFTVF9UUkFERV9QUklDRRACKl0KF0RlbGF5ZWRUcmlnZ2VyQ29u",
-            "ZGl0aW9uEhEKDURUQ19VTkRFRklORUQQABIYChREVENfR1JFQVRFUl9PUl9F",
-            "UVVBTBABEhUKEURUQ19MRVNTX09SX0VRVUFMEAJCFgoUY29tLnNtYXJ0ZGVj",
-            "LmRpZ2l0ZXhiBnByb3RvMw=="));
+            "X3dpcmUuT3JkZXJQb3NpdGlvbhIvChBsYXN0X3RyYWRlX3ByaWNlGHEgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoTbGFzdF90cmFkZV9xdWFudGl0",
+            "eRh0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEh0KFGxhc3RfdHJhZGVf",
+            "dGltZXN0YW1wGKgCIAEoAxIvChBidXlfb3JkZXJfbWFyZ2luGHYgASgLMhUu",
+            "ZGlnaXRleF93aXJlLkRlY2ltYWwSMAoRc2VsbF9vcmRlcl9tYXJnaW4YdyAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIqCgZ0cmFkZXMYLiADKAsyGi5k",
+            "aWdpdGV4X3dpcmUuVHJhZGVNZXNzYWdlEioKBm9yZGVycxhGIAMoCzIaLmRp",
+            "Z2l0ZXhfd2lyZS5PcmRlck1lc3NhZ2USEAoIbGV2ZXJhZ2UYIiABKA0SMgoS",
+            "YnV5X29yZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsEjMKE3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRleF93",
+            "aXJlLkRlY2ltYWwSMAoQdHJhZGVyX2JhbGFuY2VfMhiWAiABKAsyFS5kaWdp",
+            "dGV4X3dpcmUuRGVjaW1hbBI8Cg9kZWxheWVkX2FjdGlvbnMYoAIgAygLMiIu",
+            "ZGlnaXRleF93aXJlLkRlbGF5ZWRBY3Rpb25NZXNzYWdlEjQKFGZ1bGxfcG9z",
+            "aXRpb25fbWFyZ2luGKoCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjUK",
+            "FWZ1bGxfYnV5X29yZGVyX21hcmdpbhirAiABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBI2ChZmdWxsX3NlbGxfb3JkZXJfbWFyZ2luGKwCIAEoCzIVLmRp",
+            "Z2l0ZXhfd2lyZS5EZWNpbWFsIpkKCg5GdW5kaW5nTWVzc2FnZRIqCgZ0cmFk",
+            "ZXMYLiADKAsyGi5kaWdpdGV4X3dpcmUuVHJhZGVNZXNzYWdlEi0KDnRyYWRl",
+            "cl9iYWxhbmNlGDMgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKwoMb3Jk",
+            "ZXJfbWFyZ2luGEwgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLgoPcG9z",
+            "aXRpb25fbWFyZ2luGE4gASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSIwoE",
+            "dXBubBhPIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiMKA3BubBiaASAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg5hY2N1bV9xdWFudGl0eRi1",
+            "ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIxChJwb3NpdGlvbl9jb250",
+            "cmFjdHMYaCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlv",
+            "bl92b2x1bWUYaSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBI6Chtwb3Np",
+            "dGlvbl9saXF1aWRhdGlvbl92b2x1bWUYaiABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbBI5Chpwb3NpdGlvbl9iYW5rcnVwdGN5X3ZvbHVtZRh1IAEoCzIV",
+            "LmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIKDXBvc2l0aW9uX3R5cGUYayABKA4y",
+            "Gy5kaWdpdGV4X3dpcmUuT3JkZXJQb3NpdGlvbhIvChBidXlfb3JkZXJfbWFy",
+            "Z2luGHYgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoRc2VsbF9vcmRl",
+            "cl9tYXJnaW4YdyABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNwYXlv",
+            "dXRfcGVyX2NvbnRyYWN0GGYgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "JQoGcGF5b3V0GGUgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSLwoQbGFz",
+            "dF90cmFkZV9wcmljZRhxIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIK",
+            "E2xhc3RfdHJhZGVfcXVhbnRpdHkYdCABKAsyFS5kaWdpdGV4X3dpcmUuRGVj",
+            "aW1hbBIdChRsYXN0X3RyYWRlX3RpbWVzdGFtcBioAiABKAMSKQoKbWFya19w",
+            "cmljZRg0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYKFnBvc2l0aW9u",
+            "X21hcmdpbl9jaGFuZ2UYowEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "MgoSYnV5X29yZGVyX3F1YW50aXR5GLYBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5E",
+            "ZWNpbWFsEjMKE3NlbGxfb3JkZXJfcXVhbnRpdHkYtwEgASgLMhUuZGlnaXRl",
+            "eF93aXJlLkRlY2ltYWwSNAoUZnVsbF9wb3NpdGlvbl9tYXJnaW4YqgIgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSNQoVZnVsbF9idXlfb3JkZXJfbWFy",
+            "Z2luGKsCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjYKFmZ1bGxfc2Vs",
+            "bF9vcmRlcl9tYXJnaW4YrAIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "FAoMZnVuZGluZ190aW1lGH8gASgDIqoCCgxPSExDVk1lc3NhZ2USKQoKb3Bl",
+            "bl9wcmljZRhXIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEikKCmhpZ2hf",
+            "cHJpY2UYWCABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIoCglsb3dfcHJp",
+            "Y2UYWSABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIqCgtjbG9zZV9wcmlj",
+            "ZRhaIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiUKBnZvbHVtZRgwIAEo",
+            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjQKFGF2ZXJhZ2Vfb3JhY2xlX3By",
+            "aWNlGIIBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEhEKCXRpbWVzdGFt",
+            "cBgCIAEoAyJEChBTdWJzY3JpYmVNZXNzYWdlEhYKDnN1YnNjcmliZV9tYXNr",
+            "GF4gASgEEhgKEHVuc3Vic2NyaWJlX21hc2sYXyABKAQiMAoWU3Vic2NyaWJl",
+            "U3RhdHVzTWVzc2FnZRIWCg5zdWJzY3JpYmVfbWFzaxheIAEoBCKnAQoUQ2xv",
+            "c2VDb250cmFjdE1lc3NhZ2USEwoLY29udHJhY3RfaWQYKSABKAQSKwoKb3Jk",
+            "ZXJfdHlwZRggIAEoDjIXLmRpZ2l0ZXhfd2lyZS5PcmRlclR5cGUSJAoFcHJp",
+            "Y2UYJiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBInCghxdWFudGl0eRgn",
+            "IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIm0KGENsb3NlQWxsQ29udHJh",
+            "Y3RzTWVzc2FnZRIrCgpvcmRlcl90eXBlGCAgASgOMhcuZGlnaXRleF93aXJl",
+            "Lk9yZGVyVHlwZRIkCgVwcmljZRgmIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNp",
+            "bWFsIuwGChRPcmRlckNhbmNlbGVkTWVzc2FnZRIpCgZzdGF0dXMYKiABKA4y",
+            "GS5kaWdpdGV4X3dpcmUuT3JkZXJTdGF0dXMSFgoOcHJldl9jbGllbnRfaWQY",
+            "KCABKAwSEQoJb3JkZXJfaWRzGGcgAygMEioKBm9yZGVycxhGIAMoCzIaLmRp",
+            "Z2l0ZXhfd2lyZS5PcmRlck1lc3NhZ2USLQoOdHJhZGVyX2JhbGFuY2UYMyAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIrCgxvcmRlcl9tYXJnaW4YTCAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg9wb3NpdGlvbl9tYXJnaW4Y",
+            "TiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIjCgR1cG5sGE8gASgLMhUu",
+            "ZGlnaXRleF93aXJlLkRlY2ltYWwSIwoDcG5sGJoBIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEi4KDmFjY3VtX3F1YW50aXR5GLUBIAEoCzIVLmRpZ2l0",
+            "ZXhfd2lyZS5EZWNpbWFsEi8KEGJ1eV9vcmRlcl9tYXJnaW4YdiABKAsyFS5k",
+            "aWdpdGV4X3dpcmUuRGVjaW1hbBIwChFzZWxsX29yZGVyX21hcmdpbhh3IAEo",
+            "CzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjIKEmJ1eV9vcmRlcl9xdWFudGl0",
+            "eRi2ASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIzChNzZWxsX29yZGVy",
+            "X3F1YW50aXR5GLcBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjAKEHRy",
+            "YWRlcl9iYWxhbmNlXzIYlgIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwS",
+            "NAoUZnVsbF9wb3NpdGlvbl9tYXJnaW4YqgIgASgLMhUuZGlnaXRleF93aXJl",
+            "LkRlY2ltYWwSNQoVZnVsbF9idXlfb3JkZXJfbWFyZ2luGKsCIAEoCzIVLmRp",
+            "Z2l0ZXhfd2lyZS5EZWNpbWFsEjYKFmZ1bGxfc2VsbF9vcmRlcl9tYXJnaW4Y",
+            "rAIgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKQoKbWFya19wcmljZRg0",
+            "IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIhcKFUdldE1hcmtldFN0YXRl",
+            "TWVzc2FnZSLVAQoWRGFpbHlTdGF0aXN0aWNzTWVzc2FnZRIXCg9zdGFydF90",
+            "aW1lc3RhbXAYfCABKAMSJQoGdm9sdW1lGH0gASgLMhUuZGlnaXRleF93aXJl",
+            "LkRlY2ltYWwSJAoFZ3Jvc3MYfiABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1h",
+            "bBIqCgpoaWdoX3ByaWNlGJwBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
+            "EikKCWxvd19wcmljZRidASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbCKg",
+            "BgoSTWFya2V0U3RhdGVNZXNzYWdlEioKBnRyYWRlcxguIAMoCzIaLmRpZ2l0",
+            "ZXhfd2lyZS5UcmFkZU1lc3NhZ2USKgoGb2hsY3ZzGFsgAygLMhouZGlnaXRl",
+            "eF93aXJlLk9ITENWTWVzc2FnZRIvChBsYXN0X3RyYWRlX3ByaWNlGHEgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoTbGFzdF90cmFkZV9xdWFudGl0",
+            "eRh0IAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEh0KFGxhc3RfdHJhZGVf",
+            "dGltZXN0YW1wGKgCIAEoAxIXCg9ldmVudF90aW1lc3RhbXAYeiABKAMSOQoL",
+            "ZGFpbHlfc3RhdHMYeyADKAsyJC5kaWdpdGV4X3dpcmUuRGFpbHlTdGF0aXN0",
+            "aWNzTWVzc2FnZRIUCgxmdW5kaW5nX3RpbWUYfyABKAMSLAoMZnVuZGluZ19y",
+            "YXRlGIABIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEjEKEW5leHRfZnVu",
+            "ZGluZ19yYXRlGIEBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEioKCnRp",
+            "Y2tfdmFsdWUYgwEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSKgoKdGlj",
+            "a19wcmljZRiEASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg5jb250",
+            "cmFjdF92YWx1ZRiFASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIZChBm",
+            "dW5kaW5nX2ludGVydmFsGKIBIAEoAxIyChNwYXlvdXRfcGVyX2NvbnRyYWN0",
+            "GGYgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSGAoPYWxlcnRfdGltZXN0",
+            "YW1wGNIBIAEoAxITCgphbGVydF90ZXh0GNMBIAEoCRItCg1vcGVuX2ludGVy",
+            "ZXN0GKcCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEi4KDmluc3VyYW5j",
+            "ZV9mdW5kGKkCIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsIoQJChhNYXJr",
+            "ZXRTdGF0ZVVwZGF0ZU1lc3NhZ2USKgoGdHJhZGVzGC4gAygLMhouZGlnaXRl",
+            "eF93aXJlLlRyYWRlTWVzc2FnZRIqCgZvaGxjdnMYWyADKAsyGi5kaWdpdGV4",
+            "X3dpcmUuT0hMQ1ZNZXNzYWdlEi8KEGxhc3RfdHJhZGVfcHJpY2UYcSABKAsy",
+            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIyChNsYXN0X3RyYWRlX3F1YW50aXR5",
+            "GHQgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSHQoUbGFzdF90cmFkZV90",
+            "aW1lc3RhbXAYqAIgASgDEhcKD2V2ZW50X3RpbWVzdGFtcBh6IAEoAxI5Cgtk",
+            "YWlseV9zdGF0cxh7IAMoCzIkLmRpZ2l0ZXhfd2lyZS5EYWlseVN0YXRpc3Rp",
+            "Y3NNZXNzYWdlEhQKDGZ1bmRpbmdfdGltZRh/IAEoAxIsCgxmdW5kaW5nX3Jh",
+            "dGUYgAEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSGQoQZnVuZGluZ19p",
+            "bnRlcnZhbBiiASABKAMSNAoUaW1wYWN0X2Jhc2VfcXVhbnRpdHkYiQEgASgL",
+            "MhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMgoSZGd0eF90b19iYXNlX3ByaWNl",
+            "GIoBIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFsEiwKDGltcGFjdF92YWx1",
+            "ZRieASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIvCg9pbXBhY3RfcXVh",
+            "bnRpdHkYjAEgASgLMhUuZGlnaXRleF93aXJlLkRlY2ltYWwSMAoQaW1wYWN0",
+            "X2JpZF92YWx1ZRiNASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIwChBp",
+            "bXBhY3RfYmlkX2NvdW50GJ8BIAEoCzIVLmRpZ2l0ZXhfd2lyZS5EZWNpbWFs",
+            "EjAKEGltcGFjdF9hc2tfdmFsdWUYjgEgASgLMhUuZGlnaXRleF93aXJlLkRl",
+            "Y2ltYWwSMAoQaW1wYWN0X2Fza19jb3VudBigASABKAsyFS5kaWdpdGV4X3dp",
+            "cmUuRGVjaW1hbBIsCgxmdXR1cmVfdmFsdWUYjwEgASgLMhUuZGlnaXRleF93",
+            "aXJlLkRlY2ltYWwSLAoMZnV0dXJlX2NvdW50GKEBIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEioKCnNwb3RfcHJpY2UYiwEgASgLMhUuZGlnaXRleF93",
+            "aXJlLkRlY2ltYWwSMgoTcGF5b3V0X3Blcl9jb250cmFjdBhmIAEoCzIVLmRp",
+            "Z2l0ZXhfd2lyZS5EZWNpbWFsEhgKD2FsZXJ0X3RpbWVzdGFtcBjSASABKAMS",
+            "EwoKYWxlcnRfdGV4dBjTASABKAkSLQoNb3Blbl9pbnRlcmVzdBinAiABKAsy",
+            "FS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIuCg5pbnN1cmFuY2VfZnVuZBipAiAB",
+            "KAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbCIZChdHZXRFeGNoYW5nZVJhdGVz",
+            "TWVzc2FnZSKNAQoXRXhjaGFuZ2VSYXRlSXRlbU1lc3NhZ2USGAoQY3VycmVu",
+            "Y3lfcGFpcl9pZBgvIAEoDRIpCgptYXJrX3ByaWNlGDQgASgLMhUuZGlnaXRl",
+            "eF93aXJlLkRlY2ltYWwSGAoQbGFzdF91cGRhdGVfdGltZRh5IAEoAxITCgp1",
+            "bnJlbGlhYmxlGNEBIAEoBSJMChRFeGNoYW5nZVJhdGVzTWVzc2FnZRI0CgVp",
+            "dGVtcxh4IAMoCzIlLmRpZ2l0ZXhfd2lyZS5FeGNoYW5nZVJhdGVJdGVtTWVz",
+            "c2FnZSIqChVDb250cmFjdENsb3NlZE1lc3NhZ2USEQoJb3JkZXJfaWRzGGcg",
+            "AygMIi4KF0dldFRyYWRlckJhbGFuY2VNZXNzYWdlEhMKC2N1cnJlbmN5X2lk",
+            "GDEgASgNIpkDChREZWxheWVkQWN0aW9uTWVzc2FnZRIhChhkZWxheWVkX2Fj",
+            "dGlvbl90aW1lc3RhbXAYowIgASgDEiEKGGRlbGF5ZWRfYWN0aW9uX2NsaWVu",
+            "dF9pZBihAiABKAwSJQocb2xkX2RlbGF5ZWRfYWN0aW9uX2NsaWVudF9pZBii",
+            "AiABKAwSNQoLYWN0aW9uX3R5cGUYmQIgASgOMh8uZGlnaXRleF93aXJlLkRl",
+            "bGF5ZWRBY3Rpb25UeXBlEj8KEHRyaWdnZXJfdmFyaWFibGUYmgIgASgOMiQu",
+            "ZGlnaXRleF93aXJlLkRlbGF5ZWRUcmlnZ2VyVmFyaWFibGUSQQoRdHJpZ2dl",
+            "cl9jb25kaXRpb24YmwIgASgOMiUuZGlnaXRleF93aXJlLkRlbGF5ZWRUcmln",
+            "Z2VyQ29uZGl0aW9uEi0KDXRyaWdnZXJfdmFsdWUYnAIgASgLMhUuZGlnaXRl",
+            "eF93aXJlLkRlY2ltYWwSKgoFb3JkZXIYnwIgASgLMhouZGlnaXRleF93aXJl",
+            "Lk9yZGVyTWVzc2FnZSJYChlQbGFjZURlbGF5ZWRBY3Rpb25NZXNzYWdlEjsK",
+            "DmRlbGF5ZWRfYWN0aW9uGJ0CIAEoCzIiLmRpZ2l0ZXhfd2lyZS5EZWxheWVk",
+            "QWN0aW9uTWVzc2FnZSJxChpVcGRhdGVEZWxheWVkQWN0aW9uTWVzc2FnZRIW",
+            "Cg5wcmV2X2NsaWVudF9pZBgoIAEoDBI7Cg5kZWxheWVkX2FjdGlvbhidAiAB",
+            "KAsyIi5kaWdpdGV4X3dpcmUuRGVsYXllZEFjdGlvbk1lc3NhZ2UiTQoaQ2Fu",
+            "Y2VsRGVsYXllZEFjdGlvbk1lc3NhZ2USFgoOcHJldl9jbGllbnRfaWQYKCAB",
+            "KAwSFwoOYWxsX2Zvcl90cmFkZXIYngIgASgFIoUBChpEZWxheWVkQWN0aW9u",
+            "U3RhdHVzTWVzc2FnZRIpCgZzdGF0dXMYKiABKA4yGS5kaWdpdGV4X3dpcmUu",
+            "T3JkZXJTdGF0dXMSPAoPZGVsYXllZF9hY3Rpb25zGKACIAMoCzIiLmRpZ2l0",
+            "ZXhfd2lyZS5EZWxheWVkQWN0aW9uTWVzc2FnZSK9AQoXTGlxdWlkYXRpb25F",
+            "bnRyeU1lc3NhZ2USMAoRbGlxdWlkYXRpb25fcHJpY2UYQyABKAsyFS5kaWdp",
+            "dGV4X3dpcmUuRGVjaW1hbBInCghxdWFudGl0eRgnIAEoCzIVLmRpZ2l0ZXhf",
+            "d2lyZS5EZWNpbWFsEhgKD2VudHJ5X3RpbWVzdGFtcBibASABKAMSLQoIcG9z",
+            "aXRpb24YLSABKA4yGy5kaWdpdGV4X3dpcmUuT3JkZXJQb3NpdGlvbiJaChNM",
+            "aXF1aWRhdGlvbnNNZXNzYWdlEkMKE2xpcXVpZGF0aW9uX2VudHJpZXMYpgIg",
+            "AygLMiUuZGlnaXRleF93aXJlLkxpcXVpZGF0aW9uRW50cnlNZXNzYWdlIrsB",
+            "ChJGdW5kaW5nSW5mb01lc3NhZ2USFAoMZnVuZGluZ190aW1lGH8gASgDEiwK",
+            "DGZ1bmRpbmdfcmF0ZRiAASABKAsyFS5kaWdpdGV4X3dpcmUuRGVjaW1hbBIy",
+            "ChNwYXlvdXRfcGVyX2NvbnRyYWN0GGYgASgLMhUuZGlnaXRleF93aXJlLkRl",
+            "Y2ltYWwSLQoNb3Blbl9pbnRlcmVzdBinAiABKAsyFS5kaWdpdGV4X3dpcmUu",
+            "RGVjaW1hbCIOCgxFcnJvck1lc3NhZ2UijxUKB01lc3NhZ2USEQoJdGltZXN0",
+            "YW1wGAIgASgDEg4KBnNlcmlhbBgEIAEoBBIRCgltYXJrZXRfaWQYBSABKA0S",
+            "EQoJdHJhZGVyX2lkGAYgASgNEhEKCWNsaWVudF9pZBgHIAEoDBISCgplcnJv",
+            "cl9jb2RlGCsgASgNEhIKCnNlc3Npb25faWQYCCABKAMSDAoEYXV0aBgJIAEo",
+            "DBI7Cg9wbGFjZV9vcmRlcl9tc2cYgQQgASgLMh8uZGlnaXRleF93aXJlLlBs",
+            "YWNlT3JkZXJNZXNzYWdlSAASPQoQY2FuY2VsX29yZGVyX21zZxiCBCABKAsy",
+            "IC5kaWdpdGV4X3dpcmUuQ2FuY2VsT3JkZXJNZXNzYWdlSAASRgoVY2FuY2Vs",
+            "X2FsbF9vcmRlcnNfbXNnGIMEIAEoCzIkLmRpZ2l0ZXhfd2lyZS5DYW5jZWxB",
+            "bGxPcmRlcnNNZXNzYWdlSAASPQoQb3JkZXJfc3RhdHVzX21zZxiFBCABKAsy",
+            "IC5kaWdpdGV4X3dpcmUuT3JkZXJTdGF0dXNNZXNzYWdlSAASPQoQb3JkZXJf",
+            "ZmlsbGVkX21zZxiGBCABKAsyIC5kaWdpdGV4X3dpcmUuT3JkZXJGaWxsZWRN",
+            "ZXNzYWdlSAASSgoXY2hhbmdlX2xldmVyYWdlX2FsbF9tc2cYhwQgASgLMiYu",
+            "ZGlnaXRleF93aXJlLkNoYW5nZUxldmVyYWdlQWxsTWVzc2FnZUgAEkEKEnRy",
+            "YWRlcl9iYWxhbmNlX21zZxiKBCABKAsyIi5kaWdpdGV4X3dpcmUuVHJhZGVy",
+            "QmFsYW5jZU1lc3NhZ2VIABJBChJwb3NpdGlvbl9ldmVudF9tc2cYiwQgASgL",
+            "MiIuZGlnaXRleF93aXJlLlBvc2l0aW9uRXZlbnRNZXNzYWdlSAASNgoMbGV2",
+            "ZXJhZ2VfbXNnGIwEIAEoCzIdLmRpZ2l0ZXhfd2lyZS5MZXZlcmFnZU1lc3Nh",
+            "Z2VIABI/ChFleGNoYW5nZV9yYXRlX21zZxiNBCABKAsyIS5kaWdpdGV4X3dp",
+            "cmUuRXhjaGFuZ2VSYXRlTWVzc2FnZUgAEkgKFm9yZGVyX2Jvb2tfcmVxdWVz",
+            "dF9tc2cYjgQgASgLMiUuZGlnaXRleF93aXJlLk9yZGVyQm9va1JlcXVlc3RN",
+            "ZXNzYWdlSAASOQoOb3JkZXJfYm9va19tc2cYjwQgASgLMh4uZGlnaXRleF93",
+            "aXJlLk9yZGVyQm9va01lc3NhZ2VIABJIChZvcmRlcl9ib29rX3VwZGF0ZWRf",
+            "bXNnGJAEIAEoCzIlLmRpZ2l0ZXhfd2lyZS5PcmRlckJvb2tVcGRhdGVkTWVz",
+            "c2FnZUgAEi4KCHBpbmdfbXNnGJEEIAEoCzIZLmRpZ2l0ZXhfd2lyZS5QaW5n",
+            "TWVzc2FnZUgAEi4KCHBvbmdfbXNnGJIEIAEoCzIZLmRpZ2l0ZXhfd2lyZS5Q",
+            "b25nTWVzc2FnZUgAEj0KEHVwZGF0ZV9vcmRlcl9tc2cYkwQgASgLMiAuZGln",
+            "aXRleF93aXJlLlVwZGF0ZU9yZGVyTWVzc2FnZUgAEkYKFWdldF90cmFkZXJf",
+            "c3RhdHVzX21zZxiUBCABKAsyJC5kaWdpdGV4X3dpcmUuR2V0VHJhZGVyU3Rh",
+            "dHVzTWVzc2FnZUgAEj8KEXRyYWRlcl9zdGF0dXNfbXNnGJUEIAEoCzIhLmRp",
+            "Z2l0ZXhfd2lyZS5UcmFkZXJTdGF0dXNNZXNzYWdlSAASNAoLZnVuZGluZ19t",
+            "c2cYlwQgASgLMhwuZGlnaXRleF93aXJlLkZ1bmRpbmdNZXNzYWdlSAASOAoN",
+            "c3Vic2NyaWJlX21zZxiaBCABKAsyHi5kaWdpdGV4X3dpcmUuU3Vic2NyaWJl",
+            "TWVzc2FnZUgAEkUKFHN1YnNjcmliZV9zdGF0dXNfbXNnGJsEIAEoCzIkLmRp",
+            "Z2l0ZXhfd2lyZS5TdWJzY3JpYmVTdGF0dXNNZXNzYWdlSAASQQoSY2xvc2Vf",
+            "Y29udHJhY3RfbXNnGJ4EIAEoCzIiLmRpZ2l0ZXhfd2lyZS5DbG9zZUNvbnRy",
+            "YWN0TWVzc2FnZUgAEkoKF2Nsb3NlX2FsbF9jb250cmFjdHNfbXNnGJ8EIAEo",
+            "CzImLmRpZ2l0ZXhfd2lyZS5DbG9zZUFsbENvbnRyYWN0c01lc3NhZ2VIABJB",
+            "ChJvcmRlcl9jYW5jZWxlZF9tc2cYogQgASgLMiIuZGlnaXRleF93aXJlLk9y",
+            "ZGVyQ2FuY2VsZWRNZXNzYWdlSAASRAoUZ2V0X21hcmtldF9zdGF0ZV9tc2cY",
+            "pAQgASgLMiMuZGlnaXRleF93aXJlLkdldE1hcmtldFN0YXRlTWVzc2FnZUgA",
+            "Ej0KEG1hcmtldF9zdGF0ZV9tc2cYpQQgASgLMiAuZGlnaXRleF93aXJlLk1h",
+            "cmtldFN0YXRlTWVzc2FnZUgAEkgKFmdldF9leGNoYW5nZV9yYXRlc19tc2cY",
+            "pgQgASgLMiUuZGlnaXRleF93aXJlLkdldEV4Y2hhbmdlUmF0ZXNNZXNzYWdl",
+            "SAASQQoSZXhjaGFuZ2VfcmF0ZXNfbXNnGKcEIAEoCzIiLmRpZ2l0ZXhfd2ly",
+            "ZS5FeGNoYW5nZVJhdGVzTWVzc2FnZUgAEkoKF21hcmtldF9zdGF0ZV91cGRh",
+            "dGVfbXNnGKgEIAEoCzImLmRpZ2l0ZXhfd2lyZS5NYXJrZXRTdGF0ZVVwZGF0",
+            "ZU1lc3NhZ2VIABJDChNjb250cmFjdF9jbG9zZWRfbXNnGKkEIAEoCzIjLmRp",
+            "Z2l0ZXhfd2lyZS5Db250cmFjdENsb3NlZE1lc3NhZ2VIABJIChZnZXRfdHJh",
+            "ZGVyX2JhbGFuY2VfbXNnGLIEIAEoCzIlLmRpZ2l0ZXhfd2lyZS5HZXRUcmFk",
+            "ZXJCYWxhbmNlTWVzc2FnZUgAEkwKGHBsYWNlX2RlbGF5ZWRfYWN0aW9uX21z",
+            "Zxi2BCABKAsyJy5kaWdpdGV4X3dpcmUuUGxhY2VEZWxheWVkQWN0aW9uTWVz",
+            "c2FnZUgAEk4KGXVwZGF0ZV9kZWxheWVkX2FjdGlvbl9tc2cYtwQgASgLMigu",
+            "ZGlnaXRleF93aXJlLlVwZGF0ZURlbGF5ZWRBY3Rpb25NZXNzYWdlSAASTgoZ",
+            "Y2FuY2VsX2RlbGF5ZWRfYWN0aW9uX21zZxi4BCABKAsyKC5kaWdpdGV4X3dp",
+            "cmUuQ2FuY2VsRGVsYXllZEFjdGlvbk1lc3NhZ2VIABJOChlkZWxheWVkX2Fj",
+            "dGlvbl9zdGF0dXNfbXNnGLkEIAEoCzIoLmRpZ2l0ZXhfd2lyZS5EZWxheWVk",
+            "QWN0aW9uU3RhdHVzTWVzc2FnZUgAEj4KEGxpcXVpZGF0aW9uc19tc2cYugQg",
+            "ASgLMiEuZGlnaXRleF93aXJlLkxpcXVpZGF0aW9uc01lc3NhZ2VIABI9ChBm",
+            "dW5kaW5nX2luZm9fbXNnGLsEIAEoCzIgLmRpZ2l0ZXhfd2lyZS5GdW5kaW5n",
+            "SW5mb01lc3NhZ2VIABIwCgllcnJvcl9tc2cYvAQgASgLMhouZGlnaXRleF93",
+            "aXJlLkVycm9yTWVzc2FnZUgAQgkKB2tvbnRlbnQqMgoJT3JkZXJTaWRlEhIK",
+            "DlNJREVfVU5ERUZJTkVEEAASBwoDQlVZEAESCAoEU0VMTBACKjYKCU9yZGVy",
+            "VHlwZRISCg5UWVBFX1VOREVGSU5FRBAAEgoKBk1BUktFVBABEgkKBUxJTUlU",
+            "EAIqVAoNT3JkZXJEdXJhdGlvbhIWChJEVVJBVElPTl9VTkRFRklORUQQABIH",
+            "CgNHRkQQARIHCgNHVEMQAhIHCgNHVEYQAxIHCgNJT0MQBBIHCgNGT0sQBSqf",
+            "AQoLT3JkZXJTdGF0dXMSFAoQU1RBVFVTX1VOREVGSU5FRBAAEgsKB1BFTkRJ",
+            "TkcQARIMCghBQ0NFUFRFRBACEgwKCFJFSkVDVEVEEAMSDAoIQ0FOQ0VMRUQQ",
+            "BBIKCgZGSUxMRUQQBRILCgdQQVJUSUFMEAYSDgoKVEVSTUlOQVRFRBAHEgsK",
+            "B0VYUElSRUQQCBINCglUUklHR0VSRUQQCSozCg1PcmRlclBvc2l0aW9uEg0K",
+            "CVVOREVGSU5FRBAAEggKBExPTkcQARIJCgVTSE9SVBACKjMKEURlbGF5ZWRB",
+            "Y3Rpb25UeXBlEhAKDERBX1VOREVGSU5FRBAAEgwKCERBX09SREVSEAEqWwoW",
+            "RGVsYXllZFRyaWdnZXJWYXJpYWJsZRIRCg1EVFZfVU5ERUZJTkVEEAASFAoQ",
+            "RFRWX09SQUNMRV9QUklDRRABEhgKFERUVl9MQVNUX1RSQURFX1BSSUNFEAIq",
+            "XQoXRGVsYXllZFRyaWdnZXJDb25kaXRpb24SEQoNRFRDX1VOREVGSU5FRBAA",
+            "EhgKFERUQ19HUkVBVEVSX09SX0VRVUFMEAESFQoRRFRDX0xFU1NfT1JfRVFV",
+            "QUwQAkIWChRjb20uc21hcnRkZWMuZGlnaXRleGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::DigitexWire.OrderSide), typeof(global::DigitexWire.OrderType), typeof(global::DigitexWire.OrderDuration), typeof(global::DigitexWire.OrderStatus), typeof(global::DigitexWire.OrderPosition), typeof(global::DigitexWire.DelayedActionType), typeof(global::DigitexWire.DelayedTriggerVariable), typeof(global::DigitexWire.DelayedTriggerCondition), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -507,14 +512,14 @@ namespace DigitexWire {
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.CancelOrderMessage), global::DigitexWire.CancelOrderMessage.Parser, new[]{ "PrevClientId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.CancelAllOrdersMessage), global::DigitexWire.CancelAllOrdersMessage.Parser, new[]{ "Side", "Price" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.ChangeLeverageAllMessage), global::DigitexWire.ChangeLeverageAllMessage.Parser, new[]{ "Leverage" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderStatusMessage), global::DigitexWire.OrderStatusMessage.Parser, new[]{ "Status", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "BuyOrderMargin", "SellOrderMargin", "BuyOrderQuantity", "SellOrderQuantity", "TraderBalance2", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "MarkPrice", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "OldContractId", "Volume", "IsClosing", "OrderClientId", "OrderTimestamp", "OrigClientId", "OpenTime", "OrigQuantity" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderStatusMessage), global::DigitexWire.OrderStatusMessage.Parser, new[]{ "Status", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "BuyOrderMargin", "SellOrderMargin", "BuyOrderQuantity", "SellOrderQuantity", "TraderBalance2", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "MarkPrice", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "OldContractId", "Volume", "IsClosing", "OrderClientId", "OrderTimestamp", "OrigClientId", "OpenTime", "OrigQuantity", "OrigOrderId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.LeverageMessage), global::DigitexWire.LeverageMessage.Parser, new[]{ "Leverage", "Trades", "Orders", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "BuyOrderMargin", "SellOrderMargin", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderQuantity", "SellOrderQuantity", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.TradeMessage), global::DigitexWire.TradeMessage.Parser, new[]{ "TradeTimestamp", "TradeTraderId", "Position", "Price", "PaidPrice", "LiquidationPrice", "BankruptcyPrice", "Quantity", "ExitPrice", "Leverage", "ContractId", "OldContractId", "OldClientId", "IsIncrease", "IsLiquidation", "OpenTime", "EntryQuantity", "ExitQuantity", "ExitVolume", "FundingPaidPrice", "FundingQuantity", "FundingVolume", "FundingCount", "IsFunding", "IsMaker", "OrigContractId", "IsSettlement", "Volume" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderFilledMessage), global::DigitexWire.OrderFilledMessage.Parser, new[]{ "Status", "NewClientId", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "OrigClientId", "OpenTime", "OrigQuantity", "Volume", "DroppedQuantity", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderMargin", "SellOrderMargin", "BuyOrderQuantity", "SellOrderQuantity", "MarkPrice", "TraderBalance2", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "Trades", "RawTrades" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.ExchangeRateUpdateMessage), global::DigitexWire.ExchangeRateUpdateMessage.Parser, new[]{ "CurrencyPairId", "Volume", "Quantity", "Unreliable" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderFilledMessage), global::DigitexWire.OrderFilledMessage.Parser, new[]{ "Status", "NewClientId", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "OrigClientId", "OpenTime", "OrigQuantity", "Volume", "DroppedQuantity", "OldOrderId", "OrigOrderId", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderMargin", "SellOrderMargin", "BuyOrderQuantity", "SellOrderQuantity", "MarkPrice", "TraderBalance2", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "Trades", "RawTrades" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.ExchangeRateUpdateMessage), global::DigitexWire.ExchangeRateUpdateMessage.Parser, new[]{ "CurrencyPairId", "Volume", "Quantity", "Unreliable", "SourceCount", "PriceUpdaterId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.ExchangeRateMessage), global::DigitexWire.ExchangeRateMessage.Parser, new[]{ "CurrencyPairId", "MarkPrice", "Unreliable" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.TraderBalanceMessage), global::DigitexWire.TraderBalanceMessage.Parser, new[]{ "CurrencyId", "TraderBalance", "OrderMargin", "PositionMargin" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.PositionEventMessage), global::DigitexWire.PositionEventMessage.Parser, new[]{ "LiquidatedTrades", "TerminatedOrders", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderMargin", "SellOrderMargin", "TraderBalanceIncrement", "BuyOrderQuantity", "SellOrderQuantity", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "MarkPrice", "FloorMarkPrice", "CeilMarkPrice" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.PositionEventMessage), global::DigitexWire.PositionEventMessage.Parser, new[]{ "LiquidatedTrades", "TerminatedOrders", "Orders", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderMargin", "SellOrderMargin", "TraderBalanceIncrement", "BuyOrderQuantity", "SellOrderQuantity", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "MarkPrice", "FloorMarkPrice", "CeilMarkPrice" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderBookRequestMessage), global::DigitexWire.OrderBookRequestMessage.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderBookEntryMessage), global::DigitexWire.OrderBookEntryMessage.Parser, new[]{ "Price", "Quantity", "EntryTimestamp" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderBookTradeEntryMessage), global::DigitexWire.OrderBookTradeEntryMessage.Parser, new[]{ "Price", "Quantity", "EntryTimestamp", "Side" }, null, null, null, null),
@@ -523,9 +528,9 @@ namespace DigitexWire {
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.PingMessage), global::DigitexWire.PingMessage.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.PongMessage), global::DigitexWire.PongMessage.Parser, new[]{ "PingSender", "PingSerial", "PingTimestamp" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.GetTraderStatusMessage), global::DigitexWire.GetTraderStatusMessage.Parser, null, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderMessage), global::DigitexWire.OrderMessage.Parser, new[]{ "OrderClientId", "OrderTimestamp", "OrderTraderId", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "Volume", "ContractId", "OldClientId", "OrigClientId", "OpenTime", "OrigQuantity", "IsClosing", "MayIncrease" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OrderMessage), global::DigitexWire.OrderMessage.Parser, new[]{ "OrderClientId", "OrderTimestamp", "OrderTraderId", "OrderType", "Side", "Leverage", "Duration", "Price", "Quantity", "PaidPrice", "Volume", "ContractId", "OldClientId", "OrigClientId", "OpenTime", "OrigQuantity", "IsClosing", "MayIncrease", "OrigOrderId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.TraderStatusMessage), global::DigitexWire.TraderStatusMessage.Parser, new[]{ "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "MarkPrice", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "BuyOrderMargin", "SellOrderMargin", "Trades", "Orders", "Leverage", "BuyOrderQuantity", "SellOrderQuantity", "TraderBalance2", "DelayedActions", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.FundingMessage), global::DigitexWire.FundingMessage.Parser, new[]{ "Trades", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "BuyOrderMargin", "SellOrderMargin", "PayoutPerContract", "Payout", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "MarkPrice", "PositionMarginChange", "BuyOrderQuantity", "SellOrderQuantity", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.FundingMessage), global::DigitexWire.FundingMessage.Parser, new[]{ "Trades", "TraderBalance", "OrderMargin", "PositionMargin", "Upnl", "Pnl", "AccumQuantity", "PositionContracts", "PositionVolume", "PositionLiquidationVolume", "PositionBankruptcyVolume", "PositionType", "BuyOrderMargin", "SellOrderMargin", "PayoutPerContract", "Payout", "LastTradePrice", "LastTradeQuantity", "LastTradeTimestamp", "MarkPrice", "PositionMarginChange", "BuyOrderQuantity", "SellOrderQuantity", "FullPositionMargin", "FullBuyOrderMargin", "FullSellOrderMargin", "FundingTime" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.OHLCVMessage), global::DigitexWire.OHLCVMessage.Parser, new[]{ "OpenPrice", "HighPrice", "LowPrice", "ClosePrice", "Volume", "AverageOraclePrice", "Timestamp" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.SubscribeMessage), global::DigitexWire.SubscribeMessage.Parser, new[]{ "SubscribeMask", "UnsubscribeMask" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.SubscribeStatusMessage), global::DigitexWire.SubscribeStatusMessage.Parser, new[]{ "SubscribeMask" }, null, null, null, null),
@@ -550,7 +555,7 @@ namespace DigitexWire {
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.LiquidationsMessage), global::DigitexWire.LiquidationsMessage.Parser, new[]{ "LiquidationEntries" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.FundingInfoMessage), global::DigitexWire.FundingInfoMessage.Parser, new[]{ "FundingTime", "FundingRate", "PayoutPerContract", "OpenInterest" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.ErrorMessage), global::DigitexWire.ErrorMessage.Parser, null, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.Message), global::DigitexWire.Message.Parser, new[]{ "Timestamp", "Serial", "MarketId", "TraderId", "ClientId", "ErrorCode", "PlaceOrderMsg", "CancelOrderMsg", "CancelAllOrdersMsg", "OrderStatusMsg", "OrderFilledMsg", "ChangeLeverageAllMsg", "TraderBalanceMsg", "PositionEventMsg", "LeverageMsg", "ExchangeRateMsg", "OrderBookRequestMsg", "OrderBookMsg", "OrderBookUpdatedMsg", "PingMsg", "PongMsg", "UpdateOrderMsg", "GetTraderStatusMsg", "TraderStatusMsg", "FundingMsg", "SubscribeMsg", "SubscribeStatusMsg", "CloseContractMsg", "CloseAllContractsMsg", "OrderCanceledMsg", "GetMarketStateMsg", "MarketStateMsg", "GetExchangeRatesMsg", "ExchangeRatesMsg", "MarketStateUpdateMsg", "ContractClosedMsg", "GetTraderBalanceMsg", "PlaceDelayedActionMsg", "UpdateDelayedActionMsg", "CancelDelayedActionMsg", "DelayedActionStatusMsg", "LiquidationsMsg", "FundingInfoMsg", "ErrorMsg" }, new[]{ "Kontent" }, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::DigitexWire.Message), global::DigitexWire.Message.Parser, new[]{ "Timestamp", "Serial", "MarketId", "TraderId", "ClientId", "ErrorCode", "SessionId", "Auth", "PlaceOrderMsg", "CancelOrderMsg", "CancelAllOrdersMsg", "OrderStatusMsg", "OrderFilledMsg", "ChangeLeverageAllMsg", "TraderBalanceMsg", "PositionEventMsg", "LeverageMsg", "ExchangeRateMsg", "OrderBookRequestMsg", "OrderBookMsg", "OrderBookUpdatedMsg", "PingMsg", "PongMsg", "UpdateOrderMsg", "GetTraderStatusMsg", "TraderStatusMsg", "FundingMsg", "SubscribeMsg", "SubscribeStatusMsg", "CloseContractMsg", "CloseAllContractsMsg", "OrderCanceledMsg", "GetMarketStateMsg", "MarketStateMsg", "GetExchangeRatesMsg", "ExchangeRatesMsg", "MarketStateUpdateMsg", "ContractClosedMsg", "GetTraderBalanceMsg", "PlaceDelayedActionMsg", "UpdateDelayedActionMsg", "CancelDelayedActionMsg", "DelayedActionStatusMsg", "LiquidationsMsg", "FundingInfoMsg", "ErrorMsg" }, new[]{ "Kontent" }, null, null, null)
           }));
     }
     #endregion
@@ -632,7 +637,11 @@ namespace DigitexWire {
   #endregion
 
   #region Messages
-  public sealed partial class Decimal : pb::IMessage<Decimal> {
+  public sealed partial class Decimal : pb::IMessage<Decimal>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<Decimal> _parser = new pb::MessageParser<Decimal>(() => new Decimal());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -725,6 +734,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Value64 != 0L) {
         output.WriteRawTag(160, 2);
         output.WriteInt64(Value64);
@@ -736,7 +748,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Value64 != 0L) {
+        output.WriteRawTag(160, 2);
+        output.WriteInt64(Value64);
+      }
+      if (Scale != 0) {
+        output.WriteRawTag(168, 2);
+        output.WriteUInt32(Scale);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -769,6 +799,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -785,11 +818,38 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 288: {
+            Value64 = input.ReadInt64();
+            break;
+          }
+          case 296: {
+            Scale = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class PlaceOrderMessage : pb::IMessage<PlaceOrderMessage> {
+  public sealed partial class PlaceOrderMessage : pb::IMessage<PlaceOrderMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PlaceOrderMessage> _parser = new pb::MessageParser<PlaceOrderMessage>(() => new PlaceOrderMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -952,6 +1012,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -983,7 +1046,45 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (Duration != global::DigitexWire.OrderDuration.DurationUndefined) {
+        output.WriteRawTag(152, 2);
+        output.WriteEnum((int) Duration);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (IsClosing != 0) {
+        output.WriteRawTag(192, 17);
+        output.WriteInt32(IsClosing);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1052,6 +1153,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1094,11 +1198,64 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 280: {
+            Duration = (global::DigitexWire.OrderDuration) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 2240: {
+            IsClosing = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class UpdateOrderMessage : pb::IMessage<UpdateOrderMessage> {
+  public sealed partial class UpdateOrderMessage : pb::IMessage<UpdateOrderMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<UpdateOrderMessage> _parser = new pb::MessageParser<UpdateOrderMessage>(() => new UpdateOrderMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1261,6 +1418,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -1292,7 +1452,45 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (Duration != global::DigitexWire.OrderDuration.DurationUndefined) {
+        output.WriteRawTag(152, 2);
+        output.WriteEnum((int) Duration);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (PrevClientId.Length != 0) {
+        output.WriteRawTag(194, 2);
+        output.WriteBytes(PrevClientId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1361,6 +1559,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1403,11 +1604,64 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 280: {
+            Duration = (global::DigitexWire.OrderDuration) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 322: {
+            PrevClientId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class CancelOrderMessage : pb::IMessage<CancelOrderMessage> {
+  public sealed partial class CancelOrderMessage : pb::IMessage<CancelOrderMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CancelOrderMessage> _parser = new pb::MessageParser<CancelOrderMessage>(() => new CancelOrderMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1486,6 +1740,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PrevClientId.Length != 0) {
         output.WriteRawTag(194, 2);
         output.WriteBytes(PrevClientId);
@@ -1493,7 +1750,21 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PrevClientId.Length != 0) {
+        output.WriteRawTag(194, 2);
+        output.WriteBytes(PrevClientId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1520,6 +1791,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1532,11 +1806,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 322: {
+            PrevClientId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class CancelAllOrdersMessage : pb::IMessage<CancelAllOrdersMessage> {
+  public sealed partial class CancelAllOrdersMessage : pb::IMessage<CancelAllOrdersMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CancelAllOrdersMessage> _parser = new pb::MessageParser<CancelAllOrdersMessage>(() => new CancelAllOrdersMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1629,6 +1926,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Side != global::DigitexWire.OrderSide.SideUndefined) {
         output.WriteRawTag(136, 2);
         output.WriteEnum((int) Side);
@@ -1640,7 +1940,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1676,6 +1994,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1695,11 +2016,41 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class ChangeLeverageAllMessage : pb::IMessage<ChangeLeverageAllMessage> {
+  public sealed partial class ChangeLeverageAllMessage : pb::IMessage<ChangeLeverageAllMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ChangeLeverageAllMessage> _parser = new pb::MessageParser<ChangeLeverageAllMessage>(() => new ChangeLeverageAllMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1778,6 +2129,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Leverage != 0) {
         output.WriteRawTag(144, 2);
         output.WriteUInt32(Leverage);
@@ -1785,7 +2139,21 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1812,6 +2180,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1824,11 +2195,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderStatusMessage : pb::IMessage<OrderStatusMessage> {
+  public sealed partial class OrderStatusMessage : pb::IMessage<OrderStatusMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderStatusMessage> _parser = new pb::MessageParser<OrderStatusMessage>(() => new OrderStatusMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1889,6 +2283,7 @@ namespace DigitexWire {
       origClientId_ = other.origClientId_;
       openTime_ = other.openTime_;
       origQuantity_ = other.origQuantity_ != null ? other.origQuantity_.Clone() : null;
+      origOrderId_ = other.origOrderId_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -2299,6 +2694,20 @@ namespace DigitexWire {
       }
     }
 
+    /// <summary>Field number for the "orig_order_id" field.</summary>
+    public const int OrigOrderIdFieldNumber = 327;
+    private pb::ByteString origOrderId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// from v129: the auto-generated order_id of the first order in chain
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString OrigOrderId {
+      get { return origOrderId_; }
+      set {
+        origOrderId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as OrderStatusMessage);
@@ -2348,6 +2757,7 @@ namespace DigitexWire {
       if (OrigClientId != other.OrigClientId) return false;
       if (OpenTime != other.OpenTime) return false;
       if (!object.Equals(OrigQuantity, other.OrigQuantity)) return false;
+      if (OrigOrderId != other.OrigOrderId) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -2390,6 +2800,7 @@ namespace DigitexWire {
       if (OrigClientId.Length != 0) hash ^= OrigClientId.GetHashCode();
       if (OpenTime != 0L) hash ^= OpenTime.GetHashCode();
       if (origQuantity_ != null) hash ^= OrigQuantity.GetHashCode();
+      if (OrigOrderId.Length != 0) hash ^= OrigOrderId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -2403,6 +2814,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -2547,10 +2961,172 @@ namespace DigitexWire {
         output.WriteRawTag(226, 18);
         output.WriteMessage(FullSellOrderMargin);
       }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (Duration != global::DigitexWire.OrderDuration.DurationUndefined) {
+        output.WriteRawTag(152, 2);
+        output.WriteEnum((int) Duration);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (Status != global::DigitexWire.OrderStatus.StatusUndefined) {
+        output.WriteRawTag(208, 2);
+        output.WriteEnum((int) Status);
+      }
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (OldContractId != 0UL) {
+        output.WriteRawTag(200, 3);
+        output.WriteUInt64(OldContractId);
+      }
+      if (paidPrice_ != null) {
+        output.WriteRawTag(146, 4);
+        output.WriteMessage(PaidPrice);
+      }
+      if (OrderClientId.Length != 0) {
+        output.WriteRawTag(186, 4);
+        output.WriteBytes(OrderClientId);
+      }
+      if (OrderTimestamp != 0L) {
+        output.WriteRawTag(192, 4);
+        output.WriteInt64(OrderTimestamp);
+      }
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (OrigClientId.Length != 0) {
+        output.WriteRawTag(226, 12);
+        output.WriteBytes(OrigClientId);
+      }
+      if (OpenTime != 0L) {
+        output.WriteRawTag(232, 12);
+        output.WriteInt64(OpenTime);
+      }
+      if (origQuantity_ != null) {
+        output.WriteRawTag(242, 12);
+        output.WriteMessage(OrigQuantity);
+      }
+      if (traderBalance2_ != null) {
+        output.WriteRawTag(178, 17);
+        output.WriteMessage(TraderBalance2);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(186, 17);
+        output.WriteMessage(Volume);
+      }
+      if (IsClosing != 0) {
+        output.WriteRawTag(192, 17);
+        output.WriteInt32(IsClosing);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2662,6 +3238,9 @@ namespace DigitexWire {
       }
       if (origQuantity_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(OrigQuantity);
+      }
+      if (OrigOrderId.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(OrigOrderId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -2854,11 +3433,17 @@ namespace DigitexWire {
         }
         OrigQuantity.MergeFrom(other.OrigQuantity);
       }
+      if (other.OrigOrderId.Length != 0) {
+        OrigOrderId = other.OrigOrderId;
+      }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -3081,13 +3666,256 @@ namespace DigitexWire {
             input.ReadMessage(FullSellOrderMargin);
             break;
           }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 280: {
+            Duration = (global::DigitexWire.OrderDuration) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 336: {
+            Status = (global::DigitexWire.OrderStatus) input.ReadEnum();
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 456: {
+            OldContractId = input.ReadUInt64();
+            break;
+          }
+          case 530: {
+            if (paidPrice_ == null) {
+              PaidPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PaidPrice);
+            break;
+          }
+          case 570: {
+            OrderClientId = input.ReadBytes();
+            break;
+          }
+          case 576: {
+            OrderTimestamp = input.ReadInt64();
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 1634: {
+            OrigClientId = input.ReadBytes();
+            break;
+          }
+          case 1640: {
+            OpenTime = input.ReadInt64();
+            break;
+          }
+          case 1650: {
+            if (origQuantity_ == null) {
+              OrigQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrigQuantity);
+            break;
+          }
+          case 2226: {
+            if (traderBalance2_ == null) {
+              TraderBalance2 = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance2);
+            break;
+          }
+          case 2234: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 2240: {
+            IsClosing = input.ReadInt32();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
         }
       }
     }
+    #endif
 
   }
 
-  public sealed partial class LeverageMessage : pb::IMessage<LeverageMessage> {
+  public sealed partial class LeverageMessage : pb::IMessage<LeverageMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<LeverageMessage> _parser = new pb::MessageParser<LeverageMessage>(() => new LeverageMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3486,6 +4314,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Leverage != 0) {
         output.WriteRawTag(144, 2);
         output.WriteUInt32(Leverage);
@@ -3579,7 +4410,107 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      orders_.WriteTo(ref output, _repeated_orders_codec);
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -3793,6 +4724,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -3954,11 +4888,183 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 562: {
+            orders_.AddEntriesFrom(ref input, _repeated_orders_codec);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class TradeMessage : pb::IMessage<TradeMessage> {
+  public sealed partial class TradeMessage : pb::IMessage<TradeMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<TradeMessage> _parser = new pb::MessageParser<TradeMessage>(() => new TradeMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4418,6 +5524,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Leverage != 0) {
         output.WriteRawTag(144, 2);
         output.WriteUInt32(Leverage);
@@ -4533,7 +5642,129 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (ContractId != 0UL) {
+        output.WriteRawTag(200, 2);
+        output.WriteUInt64(ContractId);
+      }
+      if (Position != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(232, 2);
+        output.WriteEnum((int) Position);
+      }
+      if (OldContractId != 0UL) {
+        output.WriteRawTag(200, 3);
+        output.WriteUInt64(OldContractId);
+      }
+      if (OldClientId.Length != 0) {
+        output.WriteRawTag(138, 4);
+        output.WriteBytes(OldClientId);
+      }
+      if (paidPrice_ != null) {
+        output.WriteRawTag(146, 4);
+        output.WriteMessage(PaidPrice);
+      }
+      if (liquidationPrice_ != null) {
+        output.WriteRawTag(154, 4);
+        output.WriteMessage(LiquidationPrice);
+      }
+      if (TradeTimestamp != 0L) {
+        output.WriteRawTag(168, 4);
+        output.WriteInt64(TradeTimestamp);
+      }
+      if (TradeTraderId != 0) {
+        output.WriteRawTag(208, 4);
+        output.WriteUInt32(TradeTraderId);
+      }
+      if (IsIncrease != 0) {
+        output.WriteRawTag(160, 10);
+        output.WriteInt32(IsIncrease);
+      }
+      if (exitPrice_ != null) {
+        output.WriteRawTag(178, 10);
+        output.WriteMessage(ExitPrice);
+      }
+      if (IsLiquidation != 0) {
+        output.WriteRawTag(184, 10);
+        output.WriteInt32(IsLiquidation);
+      }
+      if (OpenTime != 0L) {
+        output.WriteRawTag(144, 12);
+        output.WriteInt64(OpenTime);
+      }
+      if (entryQuantity_ != null) {
+        output.WriteRawTag(154, 12);
+        output.WriteMessage(EntryQuantity);
+      }
+      if (exitQuantity_ != null) {
+        output.WriteRawTag(162, 12);
+        output.WriteMessage(ExitQuantity);
+      }
+      if (exitVolume_ != null) {
+        output.WriteRawTag(170, 12);
+        output.WriteMessage(ExitVolume);
+      }
+      if (fundingPaidPrice_ != null) {
+        output.WriteRawTag(178, 12);
+        output.WriteMessage(FundingPaidPrice);
+      }
+      if (fundingQuantity_ != null) {
+        output.WriteRawTag(186, 12);
+        output.WriteMessage(FundingQuantity);
+      }
+      if (fundingVolume_ != null) {
+        output.WriteRawTag(194, 12);
+        output.WriteMessage(FundingVolume);
+      }
+      if (FundingCount != 0) {
+        output.WriteRawTag(200, 12);
+        output.WriteInt32(FundingCount);
+      }
+      if (bankruptcyPrice_ != null) {
+        output.WriteRawTag(210, 12);
+        output.WriteMessage(BankruptcyPrice);
+      }
+      if (IsFunding != 0) {
+        output.WriteRawTag(216, 12);
+        output.WriteInt32(IsFunding);
+      }
+      if (IsMaker != 0) {
+        output.WriteRawTag(248, 12);
+        output.WriteInt32(IsMaker);
+      }
+      if (OrigContractId != 0UL) {
+        output.WriteRawTag(128, 13);
+        output.WriteUInt64(OrigContractId);
+      }
+      if (IsSettlement != 0) {
+        output.WriteRawTag(168, 17);
+        output.WriteInt32(IsSettlement);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(186, 17);
+        output.WriteMessage(Volume);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -4761,6 +5992,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -4920,11 +6154,181 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 328: {
+            ContractId = input.ReadUInt64();
+            break;
+          }
+          case 360: {
+            Position = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 456: {
+            OldContractId = input.ReadUInt64();
+            break;
+          }
+          case 522: {
+            OldClientId = input.ReadBytes();
+            break;
+          }
+          case 530: {
+            if (paidPrice_ == null) {
+              PaidPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PaidPrice);
+            break;
+          }
+          case 538: {
+            if (liquidationPrice_ == null) {
+              LiquidationPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LiquidationPrice);
+            break;
+          }
+          case 552: {
+            TradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 592: {
+            TradeTraderId = input.ReadUInt32();
+            break;
+          }
+          case 1312: {
+            IsIncrease = input.ReadInt32();
+            break;
+          }
+          case 1330: {
+            if (exitPrice_ == null) {
+              ExitPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ExitPrice);
+            break;
+          }
+          case 1336: {
+            IsLiquidation = input.ReadInt32();
+            break;
+          }
+          case 1552: {
+            OpenTime = input.ReadInt64();
+            break;
+          }
+          case 1562: {
+            if (entryQuantity_ == null) {
+              EntryQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(EntryQuantity);
+            break;
+          }
+          case 1570: {
+            if (exitQuantity_ == null) {
+              ExitQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ExitQuantity);
+            break;
+          }
+          case 1578: {
+            if (exitVolume_ == null) {
+              ExitVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ExitVolume);
+            break;
+          }
+          case 1586: {
+            if (fundingPaidPrice_ == null) {
+              FundingPaidPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingPaidPrice);
+            break;
+          }
+          case 1594: {
+            if (fundingQuantity_ == null) {
+              FundingQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingQuantity);
+            break;
+          }
+          case 1602: {
+            if (fundingVolume_ == null) {
+              FundingVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingVolume);
+            break;
+          }
+          case 1608: {
+            FundingCount = input.ReadInt32();
+            break;
+          }
+          case 1618: {
+            if (bankruptcyPrice_ == null) {
+              BankruptcyPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BankruptcyPrice);
+            break;
+          }
+          case 1624: {
+            IsFunding = input.ReadInt32();
+            break;
+          }
+          case 1656: {
+            IsMaker = input.ReadInt32();
+            break;
+          }
+          case 1664: {
+            OrigContractId = input.ReadUInt64();
+            break;
+          }
+          case 2216: {
+            IsSettlement = input.ReadInt32();
+            break;
+          }
+          case 2234: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderFilledMessage : pb::IMessage<OrderFilledMessage> {
+  public sealed partial class OrderFilledMessage : pb::IMessage<OrderFilledMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderFilledMessage> _parser = new pb::MessageParser<OrderFilledMessage>(() => new OrderFilledMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4963,6 +6367,8 @@ namespace DigitexWire {
       origQuantity_ = other.origQuantity_ != null ? other.origQuantity_.Clone() : null;
       volume_ = other.volume_ != null ? other.volume_.Clone() : null;
       droppedQuantity_ = other.droppedQuantity_ != null ? other.droppedQuantity_.Clone() : null;
+      oldOrderId_ = other.oldOrderId_;
+      origOrderId_ = other.origOrderId_;
       traderBalance_ = other.traderBalance_ != null ? other.traderBalance_.Clone() : null;
       orderMargin_ = other.orderMargin_ != null ? other.orderMargin_.Clone() : null;
       positionMargin_ = other.positionMargin_ != null ? other.positionMargin_.Clone() : null;
@@ -5150,6 +6556,34 @@ namespace DigitexWire {
       get { return droppedQuantity_; }
       set {
         droppedQuantity_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "old_order_id" field.</summary>
+    public const int OldOrderIdFieldNumber = 153;
+    private pb::ByteString oldOrderId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// from v129: the auto-generated order_id that matched
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString OldOrderId {
+      get { return oldOrderId_; }
+      set {
+        oldOrderId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "orig_order_id" field.</summary>
+    public const int OrigOrderIdFieldNumber = 327;
+    private pb::ByteString origOrderId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// from v129: the auto-generated order_id of the first order in chain
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString OrigOrderId {
+      get { return origOrderId_; }
+      set {
+        origOrderId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
       }
     }
 
@@ -5456,6 +6890,8 @@ namespace DigitexWire {
       if (!object.Equals(OrigQuantity, other.OrigQuantity)) return false;
       if (!object.Equals(Volume, other.Volume)) return false;
       if (!object.Equals(DroppedQuantity, other.DroppedQuantity)) return false;
+      if (OldOrderId != other.OldOrderId) return false;
+      if (OrigOrderId != other.OrigOrderId) return false;
       if (!object.Equals(TraderBalance, other.TraderBalance)) return false;
       if (!object.Equals(OrderMargin, other.OrderMargin)) return false;
       if (!object.Equals(PositionMargin, other.PositionMargin)) return false;
@@ -5501,6 +6937,8 @@ namespace DigitexWire {
       if (origQuantity_ != null) hash ^= OrigQuantity.GetHashCode();
       if (volume_ != null) hash ^= Volume.GetHashCode();
       if (droppedQuantity_ != null) hash ^= DroppedQuantity.GetHashCode();
+      if (OldOrderId.Length != 0) hash ^= OldOrderId.GetHashCode();
+      if (OrigOrderId.Length != 0) hash ^= OrigOrderId.GetHashCode();
       if (traderBalance_ != null) hash ^= TraderBalance.GetHashCode();
       if (orderMargin_ != null) hash ^= OrderMargin.GetHashCode();
       if (positionMargin_ != null) hash ^= PositionMargin.GetHashCode();
@@ -5539,6 +6977,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -5637,6 +7078,10 @@ namespace DigitexWire {
         output.WriteRawTag(194, 9);
         output.WriteMessage(DroppedQuantity);
       }
+      if (OldOrderId.Length != 0) {
+        output.WriteRawTag(202, 9);
+        output.WriteBytes(OldOrderId);
+      }
       if (pnl_ != null) {
         output.WriteRawTag(210, 9);
         output.WriteMessage(Pnl);
@@ -5689,10 +7134,182 @@ namespace DigitexWire {
         output.WriteRawTag(226, 18);
         output.WriteMessage(FullSellOrderMargin);
       }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (Duration != global::DigitexWire.OrderDuration.DurationUndefined) {
+        output.WriteRawTag(152, 2);
+        output.WriteEnum((int) Duration);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (Status != global::DigitexWire.OrderStatus.StatusUndefined) {
+        output.WriteRawTag(208, 2);
+        output.WriteEnum((int) Status);
+      }
+      if (NewClientId.Length != 0) {
+        output.WriteRawTag(226, 2);
+        output.WriteBytes(NewClientId);
+      }
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (paidPrice_ != null) {
+        output.WriteRawTag(146, 4);
+        output.WriteMessage(PaidPrice);
+      }
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      rawTrades_.WriteTo(ref output, _repeated_rawTrades_codec);
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (droppedQuantity_ != null) {
+        output.WriteRawTag(194, 9);
+        output.WriteMessage(DroppedQuantity);
+      }
+      if (OldOrderId.Length != 0) {
+        output.WriteRawTag(202, 9);
+        output.WriteBytes(OldOrderId);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (OrigClientId.Length != 0) {
+        output.WriteRawTag(226, 12);
+        output.WriteBytes(OrigClientId);
+      }
+      if (OpenTime != 0L) {
+        output.WriteRawTag(232, 12);
+        output.WriteInt64(OpenTime);
+      }
+      if (origQuantity_ != null) {
+        output.WriteRawTag(242, 12);
+        output.WriteMessage(OrigQuantity);
+      }
+      if (traderBalance2_ != null) {
+        output.WriteRawTag(178, 17);
+        output.WriteMessage(TraderBalance2);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(186, 17);
+        output.WriteMessage(Volume);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -5738,6 +7355,12 @@ namespace DigitexWire {
       }
       if (droppedQuantity_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(DroppedQuantity);
+      }
+      if (OldOrderId.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(OldOrderId);
+      }
+      if (OrigOrderId.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(OrigOrderId);
       }
       if (traderBalance_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(TraderBalance);
@@ -5881,6 +7504,12 @@ namespace DigitexWire {
         }
         DroppedQuantity.MergeFrom(other.DroppedQuantity);
       }
+      if (other.OldOrderId.Length != 0) {
+        OldOrderId = other.OldOrderId;
+      }
+      if (other.OrigOrderId.Length != 0) {
+        OrigOrderId = other.OrigOrderId;
+      }
       if (other.traderBalance_ != null) {
         if (traderBalance_ == null) {
           TraderBalance = new global::DigitexWire.Decimal();
@@ -6020,6 +7649,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -6181,6 +7813,10 @@ namespace DigitexWire {
             input.ReadMessage(DroppedQuantity);
             break;
           }
+          case 1226: {
+            OldOrderId = input.ReadBytes();
+            break;
+          }
           case 1234: {
             if (pnl_ == null) {
               Pnl = new global::DigitexWire.Decimal();
@@ -6263,13 +7899,281 @@ namespace DigitexWire {
             input.ReadMessage(FullSellOrderMargin);
             break;
           }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 280: {
+            Duration = (global::DigitexWire.OrderDuration) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 336: {
+            Status = (global::DigitexWire.OrderStatus) input.ReadEnum();
+            break;
+          }
+          case 354: {
+            NewClientId = input.ReadBytes();
+            break;
+          }
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 530: {
+            if (paidPrice_ == null) {
+              PaidPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PaidPrice);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 658: {
+            rawTrades_.AddEntriesFrom(ref input, _repeated_rawTrades_codec);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1218: {
+            if (droppedQuantity_ == null) {
+              DroppedQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(DroppedQuantity);
+            break;
+          }
+          case 1226: {
+            OldOrderId = input.ReadBytes();
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 1634: {
+            OrigClientId = input.ReadBytes();
+            break;
+          }
+          case 1640: {
+            OpenTime = input.ReadInt64();
+            break;
+          }
+          case 1650: {
+            if (origQuantity_ == null) {
+              OrigQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrigQuantity);
+            break;
+          }
+          case 2226: {
+            if (traderBalance2_ == null) {
+              TraderBalance2 = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance2);
+            break;
+          }
+          case 2234: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
         }
       }
     }
+    #endif
 
   }
 
-  public sealed partial class ExchangeRateUpdateMessage : pb::IMessage<ExchangeRateUpdateMessage> {
+  public sealed partial class ExchangeRateUpdateMessage : pb::IMessage<ExchangeRateUpdateMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ExchangeRateUpdateMessage> _parser = new pb::MessageParser<ExchangeRateUpdateMessage>(() => new ExchangeRateUpdateMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6298,6 +8202,8 @@ namespace DigitexWire {
       volume_ = other.volume_ != null ? other.volume_.Clone() : null;
       quantity_ = other.quantity_ != null ? other.quantity_.Clone() : null;
       unreliable_ = other.unreliable_;
+      sourceCount_ = other.sourceCount_;
+      priceUpdaterId_ = other.priceUpdaterId_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -6350,6 +8256,28 @@ namespace DigitexWire {
       }
     }
 
+    /// <summary>Field number for the "source_count" field.</summary>
+    public const int SourceCountFieldNumber = 301;
+    private int sourceCount_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int SourceCount {
+      get { return sourceCount_; }
+      set {
+        sourceCount_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "price_updater_id" field.</summary>
+    public const int PriceUpdaterIdFieldNumber = 302;
+    private pb::ByteString priceUpdaterId_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString PriceUpdaterId {
+      get { return priceUpdaterId_; }
+      set {
+        priceUpdaterId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as ExchangeRateUpdateMessage);
@@ -6367,6 +8295,8 @@ namespace DigitexWire {
       if (!object.Equals(Volume, other.Volume)) return false;
       if (!object.Equals(Quantity, other.Quantity)) return false;
       if (Unreliable != other.Unreliable) return false;
+      if (SourceCount != other.SourceCount) return false;
+      if (PriceUpdaterId != other.PriceUpdaterId) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -6377,6 +8307,8 @@ namespace DigitexWire {
       if (volume_ != null) hash ^= Volume.GetHashCode();
       if (quantity_ != null) hash ^= Quantity.GetHashCode();
       if (Unreliable != 0) hash ^= Unreliable.GetHashCode();
+      if (SourceCount != 0) hash ^= SourceCount.GetHashCode();
+      if (PriceUpdaterId.Length != 0) hash ^= PriceUpdaterId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -6390,6 +8322,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (quantity_ != null) {
         output.WriteRawTag(186, 2);
         output.WriteMessage(Quantity);
@@ -6406,10 +8341,52 @@ namespace DigitexWire {
         output.WriteRawTag(136, 13);
         output.WriteInt32(Unreliable);
       }
+      if (SourceCount != 0) {
+        output.WriteRawTag(232, 18);
+        output.WriteInt32(SourceCount);
+      }
+      if (PriceUpdaterId.Length != 0) {
+        output.WriteRawTag(242, 18);
+        output.WriteBytes(PriceUpdaterId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (CurrencyPairId != 0) {
+        output.WriteRawTag(248, 2);
+        output.WriteUInt32(CurrencyPairId);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(130, 3);
+        output.WriteMessage(Volume);
+      }
+      if (Unreliable != 0) {
+        output.WriteRawTag(136, 13);
+        output.WriteInt32(Unreliable);
+      }
+      if (SourceCount != 0) {
+        output.WriteRawTag(232, 18);
+        output.WriteInt32(SourceCount);
+      }
+      if (PriceUpdaterId.Length != 0) {
+        output.WriteRawTag(242, 18);
+        output.WriteBytes(PriceUpdaterId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -6425,6 +8402,12 @@ namespace DigitexWire {
       }
       if (Unreliable != 0) {
         size += 2 + pb::CodedOutputStream.ComputeInt32Size(Unreliable);
+      }
+      if (SourceCount != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(SourceCount);
+      }
+      if (PriceUpdaterId.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(PriceUpdaterId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -6455,11 +8438,20 @@ namespace DigitexWire {
       if (other.Unreliable != 0) {
         Unreliable = other.Unreliable;
       }
+      if (other.SourceCount != 0) {
+        SourceCount = other.SourceCount;
+      }
+      if (other.PriceUpdaterId.Length != 0) {
+        PriceUpdaterId = other.PriceUpdaterId;
+      }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -6488,13 +8480,70 @@ namespace DigitexWire {
             Unreliable = input.ReadInt32();
             break;
           }
+          case 2408: {
+            SourceCount = input.ReadInt32();
+            break;
+          }
+          case 2418: {
+            PriceUpdaterId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 376: {
+            CurrencyPairId = input.ReadUInt32();
+            break;
+          }
+          case 386: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 1672: {
+            Unreliable = input.ReadInt32();
+            break;
+          }
+          case 2408: {
+            SourceCount = input.ReadInt32();
+            break;
+          }
+          case 2418: {
+            PriceUpdaterId = input.ReadBytes();
+            break;
+          }
         }
       }
     }
+    #endif
 
   }
 
-  public sealed partial class ExchangeRateMessage : pb::IMessage<ExchangeRateMessage> {
+  public sealed partial class ExchangeRateMessage : pb::IMessage<ExchangeRateMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ExchangeRateMessage> _parser = new pb::MessageParser<ExchangeRateMessage>(() => new ExchangeRateMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6601,6 +8650,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (CurrencyPairId != 0) {
         output.WriteRawTag(248, 2);
         output.WriteUInt32(CurrencyPairId);
@@ -6616,7 +8668,29 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (CurrencyPairId != 0) {
+        output.WriteRawTag(248, 2);
+        output.WriteUInt32(CurrencyPairId);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (Unreliable != 0) {
+        output.WriteRawTag(136, 13);
+        output.WriteInt32(Unreliable);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -6658,6 +8732,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -6681,11 +8758,45 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 376: {
+            CurrencyPairId = input.ReadUInt32();
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 1672: {
+            Unreliable = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class TraderBalanceMessage : pb::IMessage<TraderBalanceMessage> {
+  public sealed partial class TraderBalanceMessage : pb::IMessage<TraderBalanceMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<TraderBalanceMessage> _parser = new pb::MessageParser<TraderBalanceMessage>(() => new TraderBalanceMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6806,6 +8917,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (CurrencyId != 0) {
         output.WriteRawTag(136, 3);
         output.WriteUInt32(CurrencyId);
@@ -6825,7 +8939,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (CurrencyId != 0) {
+        output.WriteRawTag(136, 3);
+        output.WriteUInt32(CurrencyId);
+      }
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -6879,6 +9019,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -6912,11 +9055,55 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 392: {
+            CurrencyId = input.ReadUInt32();
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class PositionEventMessage : pb::IMessage<PositionEventMessage> {
+  public sealed partial class PositionEventMessage : pb::IMessage<PositionEventMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PositionEventMessage> _parser = new pb::MessageParser<PositionEventMessage>(() => new PositionEventMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6943,6 +9130,7 @@ namespace DigitexWire {
     public PositionEventMessage(PositionEventMessage other) : this() {
       liquidatedTrades_ = other.liquidatedTrades_.Clone();
       terminatedOrders_ = other.terminatedOrders_.Clone();
+      orders_ = other.orders_.Clone();
       traderBalance_ = other.traderBalance_ != null ? other.traderBalance_.Clone() : null;
       orderMargin_ = other.orderMargin_ != null ? other.orderMargin_.Clone() : null;
       positionMargin_ = other.positionMargin_ != null ? other.positionMargin_.Clone() : null;
@@ -6991,9 +9179,25 @@ namespace DigitexWire {
     private static readonly pb::FieldCodec<pb::ByteString> _repeated_terminatedOrders_codec
         = pb::FieldCodec.ForBytes(770);
     private readonly pbc::RepeatedField<pb::ByteString> terminatedOrders_ = new pbc::RepeatedField<pb::ByteString>();
+    /// <summary>
+    /// DEPRECATED, see orders
+    /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public pbc::RepeatedField<pb::ByteString> TerminatedOrders {
       get { return terminatedOrders_; }
+    }
+
+    /// <summary>Field number for the "orders" field.</summary>
+    public const int OrdersFieldNumber = 70;
+    private static readonly pb::FieldCodec<global::DigitexWire.OrderMessage> _repeated_orders_codec
+        = pb::FieldCodec.ForMessage(562, global::DigitexWire.OrderMessage.Parser);
+    private readonly pbc::RepeatedField<global::DigitexWire.OrderMessage> orders_ = new pbc::RepeatedField<global::DigitexWire.OrderMessage>();
+    /// <summary>
+    /// liquidated orders
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::DigitexWire.OrderMessage> Orders {
+      get { return orders_; }
     }
 
     /// <summary>Field number for the "trader_balance" field.</summary>
@@ -7286,6 +9490,7 @@ namespace DigitexWire {
       }
       if(!liquidatedTrades_.Equals(other.liquidatedTrades_)) return false;
       if(!terminatedOrders_.Equals(other.terminatedOrders_)) return false;
+      if(!orders_.Equals(other.orders_)) return false;
       if (!object.Equals(TraderBalance, other.TraderBalance)) return false;
       if (!object.Equals(OrderMargin, other.OrderMargin)) return false;
       if (!object.Equals(PositionMargin, other.PositionMargin)) return false;
@@ -7319,6 +9524,7 @@ namespace DigitexWire {
       int hash = 1;
       hash ^= liquidatedTrades_.GetHashCode();
       hash ^= terminatedOrders_.GetHashCode();
+      hash ^= orders_.GetHashCode();
       if (traderBalance_ != null) hash ^= TraderBalance.GetHashCode();
       if (orderMargin_ != null) hash ^= OrderMargin.GetHashCode();
       if (positionMargin_ != null) hash ^= PositionMargin.GetHashCode();
@@ -7357,6 +9563,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (traderBalance_ != null) {
         output.WriteRawTag(154, 3);
         output.WriteMessage(TraderBalance);
@@ -7365,6 +9574,7 @@ namespace DigitexWire {
         output.WriteRawTag(162, 3);
         output.WriteMessage(MarkPrice);
       }
+      orders_.WriteTo(output, _repeated_orders_codec);
       if (orderMargin_ != null) {
         output.WriteRawTag(226, 4);
         output.WriteMessage(OrderMargin);
@@ -7462,13 +9672,127 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      orders_.WriteTo(ref output, _repeated_orders_codec);
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      terminatedOrders_.WriteTo(ref output, _repeated_terminatedOrders_codec);
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (traderBalanceIncrement_ != null) {
+        output.WriteRawTag(178, 8);
+        output.WriteMessage(TraderBalanceIncrement);
+      }
+      if (floorMarkPrice_ != null) {
+        output.WriteRawTag(186, 8);
+        output.WriteMessage(FloorMarkPrice);
+      }
+      if (ceilMarkPrice_ != null) {
+        output.WriteRawTag(194, 8);
+        output.WriteMessage(CeilMarkPrice);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      liquidatedTrades_.WriteTo(ref output, _repeated_liquidatedTrades_codec);
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
       int size = 0;
       size += liquidatedTrades_.CalculateSize(_repeated_liquidatedTrades_codec);
       size += terminatedOrders_.CalculateSize(_repeated_terminatedOrders_codec);
+      size += orders_.CalculateSize(_repeated_orders_codec);
       if (traderBalance_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(TraderBalance);
       }
@@ -7557,6 +9881,7 @@ namespace DigitexWire {
       }
       liquidatedTrades_.Add(other.liquidatedTrades_);
       terminatedOrders_.Add(other.terminatedOrders_);
+      orders_.Add(other.orders_);
       if (other.traderBalance_ != null) {
         if (traderBalance_ == null) {
           TraderBalance = new global::DigitexWire.Decimal();
@@ -7706,6 +10031,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -7724,6 +10052,10 @@ namespace DigitexWire {
               MarkPrice = new global::DigitexWire.Decimal();
             }
             input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 562: {
+            orders_.AddEntriesFrom(input, _repeated_orders_codec);
             break;
           }
           case 610: {
@@ -7891,11 +10223,211 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 562: {
+            orders_.AddEntriesFrom(ref input, _repeated_orders_codec);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 770: {
+            terminatedOrders_.AddEntriesFrom(ref input, _repeated_terminatedOrders_codec);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1074: {
+            if (traderBalanceIncrement_ == null) {
+              TraderBalanceIncrement = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalanceIncrement);
+            break;
+          }
+          case 1082: {
+            if (floorMarkPrice_ == null) {
+              FloorMarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FloorMarkPrice);
+            break;
+          }
+          case 1090: {
+            if (ceilMarkPrice_ == null) {
+              CeilMarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(CeilMarkPrice);
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1346: {
+            liquidatedTrades_.AddEntriesFrom(ref input, _repeated_liquidatedTrades_codec);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderBookRequestMessage : pb::IMessage<OrderBookRequestMessage> {
+  public sealed partial class OrderBookRequestMessage : pb::IMessage<OrderBookRequestMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderBookRequestMessage> _parser = new pb::MessageParser<OrderBookRequestMessage>(() => new OrderBookRequestMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -7960,10 +10492,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -7984,6 +10529,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -7992,11 +10540,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderBookEntryMessage : pb::IMessage<OrderBookEntryMessage> {
+  public sealed partial class OrderBookEntryMessage : pb::IMessage<OrderBookEntryMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderBookEntryMessage> _parser = new pb::MessageParser<OrderBookEntryMessage>(() => new OrderBookEntryMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8103,6 +10670,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (price_ != null) {
         output.WriteRawTag(178, 2);
         output.WriteMessage(Price);
@@ -8118,7 +10688,29 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (EntryTimestamp != 0L) {
+        output.WriteRawTag(216, 9);
+        output.WriteInt64(EntryTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -8163,6 +10755,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -8189,11 +10784,48 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 1240: {
+            EntryTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderBookTradeEntryMessage : pb::IMessage<OrderBookTradeEntryMessage> {
+  public sealed partial class OrderBookTradeEntryMessage : pb::IMessage<OrderBookTradeEntryMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderBookTradeEntryMessage> _parser = new pb::MessageParser<OrderBookTradeEntryMessage>(() => new OrderBookTradeEntryMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8314,6 +10946,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Side != global::DigitexWire.OrderSide.SideUndefined) {
         output.WriteRawTag(136, 2);
         output.WriteEnum((int) Side);
@@ -8333,7 +10968,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (EntryTimestamp != 0L) {
+        output.WriteRawTag(216, 9);
+        output.WriteInt64(EntryTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -8384,6 +11045,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -8414,11 +11078,52 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 1240: {
+            EntryTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderBookMessage : pb::IMessage<OrderBookMessage> {
+  public sealed partial class OrderBookMessage : pb::IMessage<OrderBookMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderBookMessage> _parser = new pb::MessageParser<OrderBookMessage>(() => new OrderBookMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8565,6 +11270,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (markPrice_ != null) {
         output.WriteRawTag(162, 3);
         output.WriteMessage(MarkPrice);
@@ -8586,7 +11294,35 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      bids_.WriteTo(ref output, _repeated_bids_codec);
+      asks_.WriteTo(ref output, _repeated_asks_codec);
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -8644,6 +11380,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -8685,11 +11424,63 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 426: {
+            bids_.AddEntriesFrom(ref input, _repeated_bids_codec);
+            break;
+          }
+          case 434: {
+            asks_.AddEntriesFrom(ref input, _repeated_asks_codec);
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderBookUpdatedMessage : pb::IMessage<OrderBookUpdatedMessage> {
+  public sealed partial class OrderBookUpdatedMessage : pb::IMessage<OrderBookUpdatedMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderBookUpdatedMessage> _parser = new pb::MessageParser<OrderBookUpdatedMessage>(() => new OrderBookUpdatedMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8890,6 +11681,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (markPrice_ != null) {
         output.WriteRawTag(162, 3);
         output.WriteMessage(MarkPrice);
@@ -8921,7 +11715,45 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (LastFullTimestamp != 0L) {
+        output.WriteRawTag(184, 3);
+        output.WriteInt64(LastFullTimestamp);
+      }
+      if (UpdateSerial != 0L) {
+        output.WriteRawTag(192, 3);
+        output.WriteInt64(UpdateSerial);
+      }
+      bidUpdates_.WriteTo(ref output, _repeated_bidUpdates_codec);
+      askUpdates_.WriteTo(ref output, _repeated_askUpdates_codec);
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      trades2_.WriteTo(ref output, _repeated_trades2_codec);
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -8995,6 +11827,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -9052,11 +11887,79 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 440: {
+            LastFullTimestamp = input.ReadInt64();
+            break;
+          }
+          case 448: {
+            UpdateSerial = input.ReadInt64();
+            break;
+          }
+          case 466: {
+            bidUpdates_.AddEntriesFrom(ref input, _repeated_bidUpdates_codec);
+            break;
+          }
+          case 474: {
+            askUpdates_.AddEntriesFrom(ref input, _repeated_askUpdates_codec);
+            break;
+          }
+          case 482: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 2338: {
+            trades2_.AddEntriesFrom(ref input, _repeated_trades2_codec);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class PingMessage : pb::IMessage<PingMessage> {
+  public sealed partial class PingMessage : pb::IMessage<PingMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PingMessage> _parser = new pb::MessageParser<PingMessage>(() => new PingMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9121,10 +12024,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -9145,6 +12061,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -9153,11 +12072,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class PongMessage : pb::IMessage<PongMessage> {
+  public sealed partial class PongMessage : pb::IMessage<PongMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PongMessage> _parser = new pb::MessageParser<PongMessage>(() => new PongMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9264,6 +12202,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PingSender != 0) {
         output.WriteRawTag(232, 3);
         output.WriteUInt32(PingSender);
@@ -9279,7 +12220,29 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PingSender != 0) {
+        output.WriteRawTag(232, 3);
+        output.WriteUInt32(PingSender);
+      }
+      if (PingSerial != 0UL) {
+        output.WriteRawTag(240, 3);
+        output.WriteUInt64(PingSerial);
+      }
+      if (PingTimestamp != 0L) {
+        output.WriteRawTag(248, 3);
+        output.WriteInt64(PingTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -9318,6 +12281,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -9338,11 +12304,42 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 488: {
+            PingSender = input.ReadUInt32();
+            break;
+          }
+          case 496: {
+            PingSerial = input.ReadUInt64();
+            break;
+          }
+          case 504: {
+            PingTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class GetTraderStatusMessage : pb::IMessage<GetTraderStatusMessage> {
+  public sealed partial class GetTraderStatusMessage : pb::IMessage<GetTraderStatusMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<GetTraderStatusMessage> _parser = new pb::MessageParser<GetTraderStatusMessage>(() => new GetTraderStatusMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9407,10 +12404,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -9431,6 +12441,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -9439,11 +12452,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderMessage : pb::IMessage<OrderMessage> {
+  public sealed partial class OrderMessage : pb::IMessage<OrderMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderMessage> _parser = new pb::MessageParser<OrderMessage>(() => new OrderMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9486,6 +12518,7 @@ namespace DigitexWire {
       origQuantity_ = other.origQuantity_ != null ? other.origQuantity_.Clone() : null;
       isClosing_ = other.isClosing_;
       mayIncrease_ = other.mayIncrease_;
+      origOrderId_ = other.origOrderId_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -9497,6 +12530,9 @@ namespace DigitexWire {
     /// <summary>Field number for the "order_client_id" field.</summary>
     public const int OrderClientIdFieldNumber = 71;
     private pb::ByteString orderClientId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// FIXME: rename to order_id
+    /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public pb::ByteString OrderClientId {
       get { return orderClientId_; }
@@ -9632,6 +12668,9 @@ namespace DigitexWire {
     /// <summary>Field number for the "old_client_id" field.</summary>
     public const int OldClientIdFieldNumber = 153;
     private pb::ByteString oldClientId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// FIXME: rename to old_order_id
+    /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public pb::ByteString OldClientId {
       get { return oldClientId_; }
@@ -9695,6 +12734,20 @@ namespace DigitexWire {
       }
     }
 
+    /// <summary>Field number for the "orig_order_id" field.</summary>
+    public const int OrigOrderIdFieldNumber = 327;
+    private pb::ByteString origOrderId_ = pb::ByteString.Empty;
+    /// <summary>
+    /// from v129: the auto-generated order_id of the first order in chain
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString OrigOrderId {
+      get { return origOrderId_; }
+      set {
+        origOrderId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as OrderMessage);
@@ -9726,6 +12779,7 @@ namespace DigitexWire {
       if (!object.Equals(OrigQuantity, other.OrigQuantity)) return false;
       if (IsClosing != other.IsClosing) return false;
       if (MayIncrease != other.MayIncrease) return false;
+      if (OrigOrderId != other.OrigOrderId) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -9750,6 +12804,7 @@ namespace DigitexWire {
       if (origQuantity_ != null) hash ^= OrigQuantity.GetHashCode();
       if (IsClosing != 0) hash ^= IsClosing.GetHashCode();
       if (MayIncrease != 0) hash ^= MayIncrease.GetHashCode();
+      if (OrigOrderId.Length != 0) hash ^= OrigOrderId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -9763,6 +12818,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -9835,10 +12893,100 @@ namespace DigitexWire {
         output.WriteRawTag(168, 18);
         output.WriteInt32(MayIncrease);
       }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (Side != global::DigitexWire.OrderSide.SideUndefined) {
+        output.WriteRawTag(136, 2);
+        output.WriteEnum((int) Side);
+      }
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      if (Duration != global::DigitexWire.OrderDuration.DurationUndefined) {
+        output.WriteRawTag(152, 2);
+        output.WriteEnum((int) Duration);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (ContractId != 0UL) {
+        output.WriteRawTag(200, 2);
+        output.WriteUInt64(ContractId);
+      }
+      if (paidPrice_ != null) {
+        output.WriteRawTag(146, 4);
+        output.WriteMessage(PaidPrice);
+      }
+      if (OrderClientId.Length != 0) {
+        output.WriteRawTag(186, 4);
+        output.WriteBytes(OrderClientId);
+      }
+      if (OrderTimestamp != 0L) {
+        output.WriteRawTag(192, 4);
+        output.WriteInt64(OrderTimestamp);
+      }
+      if (OrderTraderId != 0) {
+        output.WriteRawTag(200, 4);
+        output.WriteUInt32(OrderTraderId);
+      }
+      if (OldClientId.Length != 0) {
+        output.WriteRawTag(202, 9);
+        output.WriteBytes(OldClientId);
+      }
+      if (OrigClientId.Length != 0) {
+        output.WriteRawTag(226, 12);
+        output.WriteBytes(OrigClientId);
+      }
+      if (OpenTime != 0L) {
+        output.WriteRawTag(232, 12);
+        output.WriteInt64(OpenTime);
+      }
+      if (origQuantity_ != null) {
+        output.WriteRawTag(242, 12);
+        output.WriteMessage(OrigQuantity);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(186, 17);
+        output.WriteMessage(Volume);
+      }
+      if (IsClosing != 0) {
+        output.WriteRawTag(192, 17);
+        output.WriteInt32(IsClosing);
+      }
+      if (MayIncrease != 0) {
+        output.WriteRawTag(168, 18);
+        output.WriteInt32(MayIncrease);
+      }
+      if (OrigOrderId.Length != 0) {
+        output.WriteRawTag(186, 20);
+        output.WriteBytes(OrigOrderId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -9896,6 +13044,9 @@ namespace DigitexWire {
       }
       if (MayIncrease != 0) {
         size += 2 + pb::CodedOutputStream.ComputeInt32Size(MayIncrease);
+      }
+      if (OrigOrderId.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(OrigOrderId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -9977,11 +13128,17 @@ namespace DigitexWire {
       if (other.MayIncrease != 0) {
         MayIncrease = other.MayIncrease;
       }
+      if (other.OrigOrderId.Length != 0) {
+        OrigOrderId = other.OrigOrderId;
+      }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -10075,13 +13232,127 @@ namespace DigitexWire {
             MayIncrease = input.ReadInt32();
             break;
           }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 264: {
+            Side = (global::DigitexWire.OrderSide) input.ReadEnum();
+            break;
+          }
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 280: {
+            Duration = (global::DigitexWire.OrderDuration) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 328: {
+            ContractId = input.ReadUInt64();
+            break;
+          }
+          case 530: {
+            if (paidPrice_ == null) {
+              PaidPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PaidPrice);
+            break;
+          }
+          case 570: {
+            OrderClientId = input.ReadBytes();
+            break;
+          }
+          case 576: {
+            OrderTimestamp = input.ReadInt64();
+            break;
+          }
+          case 584: {
+            OrderTraderId = input.ReadUInt32();
+            break;
+          }
+          case 1226: {
+            OldClientId = input.ReadBytes();
+            break;
+          }
+          case 1634: {
+            OrigClientId = input.ReadBytes();
+            break;
+          }
+          case 1640: {
+            OpenTime = input.ReadInt64();
+            break;
+          }
+          case 1650: {
+            if (origQuantity_ == null) {
+              OrigQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrigQuantity);
+            break;
+          }
+          case 2234: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 2240: {
+            IsClosing = input.ReadInt32();
+            break;
+          }
+          case 2344: {
+            MayIncrease = input.ReadInt32();
+            break;
+          }
+          case 2618: {
+            OrigOrderId = input.ReadBytes();
+            break;
+          }
         }
       }
     }
+    #endif
 
   }
 
-  public sealed partial class TraderStatusMessage : pb::IMessage<TraderStatusMessage> {
+  public sealed partial class TraderStatusMessage : pb::IMessage<TraderStatusMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<TraderStatusMessage> _parser = new pb::MessageParser<TraderStatusMessage>(() => new TraderStatusMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10521,6 +13792,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Leverage != 0) {
         output.WriteRawTag(144, 2);
         output.WriteUInt32(Leverage);
@@ -10623,7 +13897,116 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Leverage != 0) {
+        output.WriteRawTag(144, 2);
+        output.WriteUInt32(Leverage);
+      }
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      orders_.WriteTo(ref output, _repeated_orders_codec);
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (traderBalance2_ != null) {
+        output.WriteRawTag(178, 17);
+        output.WriteMessage(TraderBalance2);
+      }
+      delayedActions_.WriteTo(ref output, _repeated_delayedActions_codec);
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -10857,6 +14240,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -11036,11 +14422,201 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 272: {
+            Leverage = input.ReadUInt32();
+            break;
+          }
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 562: {
+            orders_.AddEntriesFrom(ref input, _repeated_orders_codec);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 2226: {
+            if (traderBalance2_ == null) {
+              TraderBalance2 = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance2);
+            break;
+          }
+          case 2306: {
+            delayedActions_.AddEntriesFrom(ref input, _repeated_delayedActions_codec);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class FundingMessage : pb::IMessage<FundingMessage> {
+  public sealed partial class FundingMessage : pb::IMessage<FundingMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<FundingMessage> _parser = new pb::MessageParser<FundingMessage>(() => new FundingMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -11091,6 +14667,7 @@ namespace DigitexWire {
       fullPositionMargin_ = other.fullPositionMargin_ != null ? other.fullPositionMargin_.Clone() : null;
       fullBuyOrderMargin_ = other.fullBuyOrderMargin_ != null ? other.fullBuyOrderMargin_.Clone() : null;
       fullSellOrderMargin_ = other.fullSellOrderMargin_ != null ? other.fullSellOrderMargin_.Clone() : null;
+      fundingTime_ = other.fundingTime_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -11384,6 +14961,17 @@ namespace DigitexWire {
       }
     }
 
+    /// <summary>Field number for the "funding_time" field.</summary>
+    public const int FundingTimeFieldNumber = 127;
+    private long fundingTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long FundingTime {
+      get { return fundingTime_; }
+      set {
+        fundingTime_ = value;
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as FundingMessage);
@@ -11423,6 +15011,7 @@ namespace DigitexWire {
       if (!object.Equals(FullPositionMargin, other.FullPositionMargin)) return false;
       if (!object.Equals(FullBuyOrderMargin, other.FullBuyOrderMargin)) return false;
       if (!object.Equals(FullSellOrderMargin, other.FullSellOrderMargin)) return false;
+      if (FundingTime != other.FundingTime) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -11455,6 +15044,7 @@ namespace DigitexWire {
       if (fullPositionMargin_ != null) hash ^= FullPositionMargin.GetHashCode();
       if (fullBuyOrderMargin_ != null) hash ^= FullBuyOrderMargin.GetHashCode();
       if (fullSellOrderMargin_ != null) hash ^= FullSellOrderMargin.GetHashCode();
+      if (FundingTime != 0L) hash ^= FundingTime.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -11468,6 +15058,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       trades_.WriteTo(output, _repeated_trades_codec);
       if (traderBalance_ != null) {
         output.WriteRawTag(154, 3);
@@ -11533,6 +15126,10 @@ namespace DigitexWire {
         output.WriteRawTag(186, 7);
         output.WriteMessage(SellOrderMargin);
       }
+      if (FundingTime != 0L) {
+        output.WriteRawTag(248, 7);
+        output.WriteInt64(FundingTime);
+      }
       if (pnl_ != null) {
         output.WriteRawTag(210, 9);
         output.WriteMessage(Pnl);
@@ -11572,7 +15169,122 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      if (payout_ != null) {
+        output.WriteRawTag(170, 6);
+        output.WriteMessage(Payout);
+      }
+      if (payoutPerContract_ != null) {
+        output.WriteRawTag(178, 6);
+        output.WriteMessage(PayoutPerContract);
+      }
+      if (positionContracts_ != null) {
+        output.WriteRawTag(194, 6);
+        output.WriteMessage(PositionContracts);
+      }
+      if (positionVolume_ != null) {
+        output.WriteRawTag(202, 6);
+        output.WriteMessage(PositionVolume);
+      }
+      if (positionLiquidationVolume_ != null) {
+        output.WriteRawTag(210, 6);
+        output.WriteMessage(PositionLiquidationVolume);
+      }
+      if (PositionType != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(216, 6);
+        output.WriteEnum((int) PositionType);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (positionBankruptcyVolume_ != null) {
+        output.WriteRawTag(170, 7);
+        output.WriteMessage(PositionBankruptcyVolume);
+      }
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (FundingTime != 0L) {
+        output.WriteRawTag(248, 7);
+        output.WriteInt64(FundingTime);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (positionMarginChange_ != null) {
+        output.WriteRawTag(154, 10);
+        output.WriteMessage(PositionMarginChange);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -11652,6 +15364,9 @@ namespace DigitexWire {
       }
       if (fullSellOrderMargin_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(FullSellOrderMargin);
+      }
+      if (FundingTime != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(FundingTime);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -11809,11 +15524,17 @@ namespace DigitexWire {
         }
         FullSellOrderMargin.MergeFrom(other.FullSellOrderMargin);
       }
+      if (other.FundingTime != 0L) {
+        FundingTime = other.FundingTime;
+      }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -11933,6 +15654,201 @@ namespace DigitexWire {
             input.ReadMessage(SellOrderMargin);
             break;
           }
+          case 1016: {
+            FundingTime = input.ReadInt64();
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1306: {
+            if (positionMarginChange_ == null) {
+              PositionMarginChange = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMarginChange);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 810: {
+            if (payout_ == null) {
+              Payout = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Payout);
+            break;
+          }
+          case 818: {
+            if (payoutPerContract_ == null) {
+              PayoutPerContract = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PayoutPerContract);
+            break;
+          }
+          case 834: {
+            if (positionContracts_ == null) {
+              PositionContracts = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionContracts);
+            break;
+          }
+          case 842: {
+            if (positionVolume_ == null) {
+              PositionVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionVolume);
+            break;
+          }
+          case 850: {
+            if (positionLiquidationVolume_ == null) {
+              PositionLiquidationVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionLiquidationVolume);
+            break;
+          }
+          case 856: {
+            PositionType = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 938: {
+            if (positionBankruptcyVolume_ == null) {
+              PositionBankruptcyVolume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionBankruptcyVolume);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1016: {
+            FundingTime = input.ReadInt64();
+            break;
+          }
           case 1234: {
             if (pnl_ == null) {
               Pnl = new global::DigitexWire.Decimal();
@@ -11996,10 +15912,15 @@ namespace DigitexWire {
         }
       }
     }
+    #endif
 
   }
 
-  public sealed partial class OHLCVMessage : pb::IMessage<OHLCVMessage> {
+  public sealed partial class OHLCVMessage : pb::IMessage<OHLCVMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OHLCVMessage> _parser = new pb::MessageParser<OHLCVMessage>(() => new OHLCVMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12162,6 +16083,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Timestamp != 0L) {
         output.WriteRawTag(16);
         output.WriteInt64(Timestamp);
@@ -12193,7 +16117,45 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Timestamp != 0L) {
+        output.WriteRawTag(16);
+        output.WriteInt64(Timestamp);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(130, 3);
+        output.WriteMessage(Volume);
+      }
+      if (openPrice_ != null) {
+        output.WriteRawTag(186, 5);
+        output.WriteMessage(OpenPrice);
+      }
+      if (highPrice_ != null) {
+        output.WriteRawTag(194, 5);
+        output.WriteMessage(HighPrice);
+      }
+      if (lowPrice_ != null) {
+        output.WriteRawTag(202, 5);
+        output.WriteMessage(LowPrice);
+      }
+      if (closePrice_ != null) {
+        output.WriteRawTag(210, 5);
+        output.WriteMessage(ClosePrice);
+      }
+      if (averageOraclePrice_ != null) {
+        output.WriteRawTag(146, 8);
+        output.WriteMessage(AverageOraclePrice);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -12274,6 +16236,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -12328,11 +16293,76 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 16: {
+            Timestamp = input.ReadInt64();
+            break;
+          }
+          case 386: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 698: {
+            if (openPrice_ == null) {
+              OpenPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OpenPrice);
+            break;
+          }
+          case 706: {
+            if (highPrice_ == null) {
+              HighPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(HighPrice);
+            break;
+          }
+          case 714: {
+            if (lowPrice_ == null) {
+              LowPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LowPrice);
+            break;
+          }
+          case 722: {
+            if (closePrice_ == null) {
+              ClosePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ClosePrice);
+            break;
+          }
+          case 1042: {
+            if (averageOraclePrice_ == null) {
+              AverageOraclePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AverageOraclePrice);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class SubscribeMessage : pb::IMessage<SubscribeMessage> {
+  public sealed partial class SubscribeMessage : pb::IMessage<SubscribeMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<SubscribeMessage> _parser = new pb::MessageParser<SubscribeMessage>(() => new SubscribeMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12425,6 +16455,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (SubscribeMask != 0UL) {
         output.WriteRawTag(240, 5);
         output.WriteUInt64(SubscribeMask);
@@ -12436,7 +16469,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (SubscribeMask != 0UL) {
+        output.WriteRawTag(240, 5);
+        output.WriteUInt64(SubscribeMask);
+      }
+      if (UnsubscribeMask != 0UL) {
+        output.WriteRawTag(248, 5);
+        output.WriteUInt64(UnsubscribeMask);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -12469,6 +16520,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -12485,11 +16539,38 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 752: {
+            SubscribeMask = input.ReadUInt64();
+            break;
+          }
+          case 760: {
+            UnsubscribeMask = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class SubscribeStatusMessage : pb::IMessage<SubscribeStatusMessage> {
+  public sealed partial class SubscribeStatusMessage : pb::IMessage<SubscribeStatusMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<SubscribeStatusMessage> _parser = new pb::MessageParser<SubscribeStatusMessage>(() => new SubscribeStatusMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12568,6 +16649,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (SubscribeMask != 0UL) {
         output.WriteRawTag(240, 5);
         output.WriteUInt64(SubscribeMask);
@@ -12575,7 +16659,21 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (SubscribeMask != 0UL) {
+        output.WriteRawTag(240, 5);
+        output.WriteUInt64(SubscribeMask);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -12602,6 +16700,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -12614,11 +16715,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 752: {
+            SubscribeMask = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class CloseContractMessage : pb::IMessage<CloseContractMessage> {
+  public sealed partial class CloseContractMessage : pb::IMessage<CloseContractMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CloseContractMessage> _parser = new pb::MessageParser<CloseContractMessage>(() => new CloseContractMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12739,6 +16863,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -12758,7 +16885,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (ContractId != 0UL) {
+        output.WriteRawTag(200, 2);
+        output.WriteUInt64(ContractId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -12809,6 +16962,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -12839,11 +16995,52 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 328: {
+            ContractId = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class CloseAllContractsMessage : pb::IMessage<CloseAllContractsMessage> {
+  public sealed partial class CloseAllContractsMessage : pb::IMessage<CloseAllContractsMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CloseAllContractsMessage> _parser = new pb::MessageParser<CloseAllContractsMessage>(() => new CloseAllContractsMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12936,6 +17133,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
         output.WriteRawTag(128, 2);
         output.WriteEnum((int) OrderType);
@@ -12947,7 +17147,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (OrderType != global::DigitexWire.OrderType.TypeUndefined) {
+        output.WriteRawTag(128, 2);
+        output.WriteEnum((int) OrderType);
+      }
+      if (price_ != null) {
+        output.WriteRawTag(178, 2);
+        output.WriteMessage(Price);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -12983,6 +17201,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -13002,11 +17223,41 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 256: {
+            OrderType = (global::DigitexWire.OrderType) input.ReadEnum();
+            break;
+          }
+          case 306: {
+            if (price_ == null) {
+              Price = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Price);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class OrderCanceledMessage : pb::IMessage<OrderCanceledMessage> {
+  public sealed partial class OrderCanceledMessage : pb::IMessage<OrderCanceledMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<OrderCanceledMessage> _parser = new pb::MessageParser<OrderCanceledMessage>(() => new OrderCanceledMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13344,6 +17595,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PrevClientId.Length != 0) {
         output.WriteRawTag(194, 2);
         output.WriteBytes(PrevClientId);
@@ -13417,7 +17671,87 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PrevClientId.Length != 0) {
+        output.WriteRawTag(194, 2);
+        output.WriteBytes(PrevClientId);
+      }
+      if (Status != global::DigitexWire.OrderStatus.StatusUndefined) {
+        output.WriteRawTag(208, 2);
+        output.WriteEnum((int) Status);
+      }
+      if (traderBalance_ != null) {
+        output.WriteRawTag(154, 3);
+        output.WriteMessage(TraderBalance);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      orders_.WriteTo(ref output, _repeated_orders_codec);
+      if (orderMargin_ != null) {
+        output.WriteRawTag(226, 4);
+        output.WriteMessage(OrderMargin);
+      }
+      if (positionMargin_ != null) {
+        output.WriteRawTag(242, 4);
+        output.WriteMessage(PositionMargin);
+      }
+      if (upnl_ != null) {
+        output.WriteRawTag(250, 4);
+        output.WriteMessage(Upnl);
+      }
+      orderIds_.WriteTo(ref output, _repeated_orderIds_codec);
+      if (buyOrderMargin_ != null) {
+        output.WriteRawTag(178, 7);
+        output.WriteMessage(BuyOrderMargin);
+      }
+      if (sellOrderMargin_ != null) {
+        output.WriteRawTag(186, 7);
+        output.WriteMessage(SellOrderMargin);
+      }
+      if (pnl_ != null) {
+        output.WriteRawTag(210, 9);
+        output.WriteMessage(Pnl);
+      }
+      if (accumQuantity_ != null) {
+        output.WriteRawTag(170, 11);
+        output.WriteMessage(AccumQuantity);
+      }
+      if (buyOrderQuantity_ != null) {
+        output.WriteRawTag(178, 11);
+        output.WriteMessage(BuyOrderQuantity);
+      }
+      if (sellOrderQuantity_ != null) {
+        output.WriteRawTag(186, 11);
+        output.WriteMessage(SellOrderQuantity);
+      }
+      if (traderBalance2_ != null) {
+        output.WriteRawTag(178, 17);
+        output.WriteMessage(TraderBalance2);
+      }
+      if (fullPositionMargin_ != null) {
+        output.WriteRawTag(210, 18);
+        output.WriteMessage(FullPositionMargin);
+      }
+      if (fullBuyOrderMargin_ != null) {
+        output.WriteRawTag(218, 18);
+        output.WriteMessage(FullBuyOrderMargin);
+      }
+      if (fullSellOrderMargin_ != null) {
+        output.WriteRawTag(226, 18);
+        output.WriteMessage(FullSellOrderMargin);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -13589,6 +17923,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -13718,11 +18055,151 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 322: {
+            PrevClientId = input.ReadBytes();
+            break;
+          }
+          case 336: {
+            Status = (global::DigitexWire.OrderStatus) input.ReadEnum();
+            break;
+          }
+          case 410: {
+            if (traderBalance_ == null) {
+              TraderBalance = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance);
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 562: {
+            orders_.AddEntriesFrom(ref input, _repeated_orders_codec);
+            break;
+          }
+          case 610: {
+            if (orderMargin_ == null) {
+              OrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OrderMargin);
+            break;
+          }
+          case 626: {
+            if (positionMargin_ == null) {
+              PositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PositionMargin);
+            break;
+          }
+          case 634: {
+            if (upnl_ == null) {
+              Upnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Upnl);
+            break;
+          }
+          case 826: {
+            orderIds_.AddEntriesFrom(ref input, _repeated_orderIds_codec);
+            break;
+          }
+          case 946: {
+            if (buyOrderMargin_ == null) {
+              BuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderMargin);
+            break;
+          }
+          case 954: {
+            if (sellOrderMargin_ == null) {
+              SellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderMargin);
+            break;
+          }
+          case 1234: {
+            if (pnl_ == null) {
+              Pnl = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Pnl);
+            break;
+          }
+          case 1450: {
+            if (accumQuantity_ == null) {
+              AccumQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(AccumQuantity);
+            break;
+          }
+          case 1458: {
+            if (buyOrderQuantity_ == null) {
+              BuyOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(BuyOrderQuantity);
+            break;
+          }
+          case 1466: {
+            if (sellOrderQuantity_ == null) {
+              SellOrderQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SellOrderQuantity);
+            break;
+          }
+          case 2226: {
+            if (traderBalance2_ == null) {
+              TraderBalance2 = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TraderBalance2);
+            break;
+          }
+          case 2386: {
+            if (fullPositionMargin_ == null) {
+              FullPositionMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullPositionMargin);
+            break;
+          }
+          case 2394: {
+            if (fullBuyOrderMargin_ == null) {
+              FullBuyOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullBuyOrderMargin);
+            break;
+          }
+          case 2402: {
+            if (fullSellOrderMargin_ == null) {
+              FullSellOrderMargin = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FullSellOrderMargin);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class GetMarketStateMessage : pb::IMessage<GetMarketStateMessage> {
+  public sealed partial class GetMarketStateMessage : pb::IMessage<GetMarketStateMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<GetMarketStateMessage> _parser = new pb::MessageParser<GetMarketStateMessage>(() => new GetMarketStateMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13787,10 +18264,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -13811,6 +18301,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -13819,11 +18312,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class DailyStatisticsMessage : pb::IMessage<DailyStatisticsMessage> {
+  public sealed partial class DailyStatisticsMessage : pb::IMessage<DailyStatisticsMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<DailyStatisticsMessage> _parser = new pb::MessageParser<DailyStatisticsMessage>(() => new DailyStatisticsMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13958,6 +18470,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (StartTimestamp != 0L) {
         output.WriteRawTag(224, 7);
         output.WriteInt64(StartTimestamp);
@@ -13981,7 +18496,37 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (StartTimestamp != 0L) {
+        output.WriteRawTag(224, 7);
+        output.WriteInt64(StartTimestamp);
+      }
+      if (volume_ != null) {
+        output.WriteRawTag(234, 7);
+        output.WriteMessage(Volume);
+      }
+      if (gross_ != null) {
+        output.WriteRawTag(242, 7);
+        output.WriteMessage(Gross);
+      }
+      if (highPrice_ != null) {
+        output.WriteRawTag(226, 9);
+        output.WriteMessage(HighPrice);
+      }
+      if (lowPrice_ != null) {
+        output.WriteRawTag(234, 9);
+        output.WriteMessage(LowPrice);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -14044,6 +18589,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -14084,11 +18632,62 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 992: {
+            StartTimestamp = input.ReadInt64();
+            break;
+          }
+          case 1002: {
+            if (volume_ == null) {
+              Volume = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Volume);
+            break;
+          }
+          case 1010: {
+            if (gross_ == null) {
+              Gross = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Gross);
+            break;
+          }
+          case 1250: {
+            if (highPrice_ == null) {
+              HighPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(HighPrice);
+            break;
+          }
+          case 1258: {
+            if (lowPrice_ == null) {
+              LowPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LowPrice);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class MarketStateMessage : pb::IMessage<MarketStateMessage> {
+  public sealed partial class MarketStateMessage : pb::IMessage<MarketStateMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<MarketStateMessage> _parser = new pb::MessageParser<MarketStateMessage>(() => new MarketStateMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14416,6 +19015,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       trades_.WriteTo(output, _repeated_trades_codec);
       ohlcvs_.WriteTo(output, _repeated_ohlcvs_codec);
       if (payoutPerContract_ != null) {
@@ -14486,7 +19088,84 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      ohlcvs_.WriteTo(ref output, _repeated_ohlcvs_codec);
+      if (payoutPerContract_ != null) {
+        output.WriteRawTag(178, 6);
+        output.WriteMessage(PayoutPerContract);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (EventTimestamp != 0L) {
+        output.WriteRawTag(208, 7);
+        output.WriteInt64(EventTimestamp);
+      }
+      dailyStats_.WriteTo(ref output, _repeated_dailyStats_codec);
+      if (FundingTime != 0L) {
+        output.WriteRawTag(248, 7);
+        output.WriteInt64(FundingTime);
+      }
+      if (fundingRate_ != null) {
+        output.WriteRawTag(130, 8);
+        output.WriteMessage(FundingRate);
+      }
+      if (nextFundingRate_ != null) {
+        output.WriteRawTag(138, 8);
+        output.WriteMessage(NextFundingRate);
+      }
+      if (tickValue_ != null) {
+        output.WriteRawTag(154, 8);
+        output.WriteMessage(TickValue);
+      }
+      if (tickPrice_ != null) {
+        output.WriteRawTag(162, 8);
+        output.WriteMessage(TickPrice);
+      }
+      if (contractValue_ != null) {
+        output.WriteRawTag(170, 8);
+        output.WriteMessage(ContractValue);
+      }
+      if (FundingInterval != 0L) {
+        output.WriteRawTag(144, 10);
+        output.WriteInt64(FundingInterval);
+      }
+      if (AlertTimestamp != 0L) {
+        output.WriteRawTag(144, 13);
+        output.WriteInt64(AlertTimestamp);
+      }
+      if (AlertText.Length != 0) {
+        output.WriteRawTag(154, 13);
+        output.WriteString(AlertText);
+      }
+      if (openInterest_ != null) {
+        output.WriteRawTag(186, 18);
+        output.WriteMessage(OpenInterest);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (insuranceFund_ != null) {
+        output.WriteRawTag(202, 18);
+        output.WriteMessage(InsuranceFund);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -14639,6 +19318,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -14753,11 +19435,136 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 730: {
+            ohlcvs_.AddEntriesFrom(ref input, _repeated_ohlcvs_codec);
+            break;
+          }
+          case 818: {
+            if (payoutPerContract_ == null) {
+              PayoutPerContract = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PayoutPerContract);
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 976: {
+            EventTimestamp = input.ReadInt64();
+            break;
+          }
+          case 986: {
+            dailyStats_.AddEntriesFrom(ref input, _repeated_dailyStats_codec);
+            break;
+          }
+          case 1016: {
+            FundingTime = input.ReadInt64();
+            break;
+          }
+          case 1026: {
+            if (fundingRate_ == null) {
+              FundingRate = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingRate);
+            break;
+          }
+          case 1034: {
+            if (nextFundingRate_ == null) {
+              NextFundingRate = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(NextFundingRate);
+            break;
+          }
+          case 1050: {
+            if (tickValue_ == null) {
+              TickValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TickValue);
+            break;
+          }
+          case 1058: {
+            if (tickPrice_ == null) {
+              TickPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TickPrice);
+            break;
+          }
+          case 1066: {
+            if (contractValue_ == null) {
+              ContractValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ContractValue);
+            break;
+          }
+          case 1296: {
+            FundingInterval = input.ReadInt64();
+            break;
+          }
+          case 1680: {
+            AlertTimestamp = input.ReadInt64();
+            break;
+          }
+          case 1690: {
+            AlertText = input.ReadString();
+            break;
+          }
+          case 2362: {
+            if (openInterest_ == null) {
+              OpenInterest = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OpenInterest);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2378: {
+            if (insuranceFund_ == null) {
+              InsuranceFund = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(InsuranceFund);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class MarketStateUpdateMessage : pb::IMessage<MarketStateUpdateMessage> {
+  public sealed partial class MarketStateUpdateMessage : pb::IMessage<MarketStateUpdateMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<MarketStateUpdateMessage> _parser = new pb::MessageParser<MarketStateUpdateMessage>(() => new MarketStateUpdateMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15183,6 +19990,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       trades_.WriteTo(output, _repeated_trades_codec);
       ohlcvs_.WriteTo(output, _repeated_ohlcvs_codec);
       if (payoutPerContract_ != null) {
@@ -15281,7 +20091,112 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      trades_.WriteTo(ref output, _repeated_trades_codec);
+      ohlcvs_.WriteTo(ref output, _repeated_ohlcvs_codec);
+      if (payoutPerContract_ != null) {
+        output.WriteRawTag(178, 6);
+        output.WriteMessage(PayoutPerContract);
+      }
+      if (lastTradePrice_ != null) {
+        output.WriteRawTag(138, 7);
+        output.WriteMessage(LastTradePrice);
+      }
+      if (lastTradeQuantity_ != null) {
+        output.WriteRawTag(162, 7);
+        output.WriteMessage(LastTradeQuantity);
+      }
+      if (EventTimestamp != 0L) {
+        output.WriteRawTag(208, 7);
+        output.WriteInt64(EventTimestamp);
+      }
+      dailyStats_.WriteTo(ref output, _repeated_dailyStats_codec);
+      if (FundingTime != 0L) {
+        output.WriteRawTag(248, 7);
+        output.WriteInt64(FundingTime);
+      }
+      if (fundingRate_ != null) {
+        output.WriteRawTag(130, 8);
+        output.WriteMessage(FundingRate);
+      }
+      if (impactBaseQuantity_ != null) {
+        output.WriteRawTag(202, 8);
+        output.WriteMessage(ImpactBaseQuantity);
+      }
+      if (dgtxToBasePrice_ != null) {
+        output.WriteRawTag(210, 8);
+        output.WriteMessage(DgtxToBasePrice);
+      }
+      if (spotPrice_ != null) {
+        output.WriteRawTag(218, 8);
+        output.WriteMessage(SpotPrice);
+      }
+      if (impactQuantity_ != null) {
+        output.WriteRawTag(226, 8);
+        output.WriteMessage(ImpactQuantity);
+      }
+      if (impactBidValue_ != null) {
+        output.WriteRawTag(234, 8);
+        output.WriteMessage(ImpactBidValue);
+      }
+      if (impactAskValue_ != null) {
+        output.WriteRawTag(242, 8);
+        output.WriteMessage(ImpactAskValue);
+      }
+      if (futureValue_ != null) {
+        output.WriteRawTag(250, 8);
+        output.WriteMessage(FutureValue);
+      }
+      if (impactValue_ != null) {
+        output.WriteRawTag(242, 9);
+        output.WriteMessage(ImpactValue);
+      }
+      if (impactBidCount_ != null) {
+        output.WriteRawTag(250, 9);
+        output.WriteMessage(ImpactBidCount);
+      }
+      if (impactAskCount_ != null) {
+        output.WriteRawTag(130, 10);
+        output.WriteMessage(ImpactAskCount);
+      }
+      if (futureCount_ != null) {
+        output.WriteRawTag(138, 10);
+        output.WriteMessage(FutureCount);
+      }
+      if (FundingInterval != 0L) {
+        output.WriteRawTag(144, 10);
+        output.WriteInt64(FundingInterval);
+      }
+      if (AlertTimestamp != 0L) {
+        output.WriteRawTag(144, 13);
+        output.WriteInt64(AlertTimestamp);
+      }
+      if (AlertText.Length != 0) {
+        output.WriteRawTag(154, 13);
+        output.WriteString(AlertText);
+      }
+      if (openInterest_ != null) {
+        output.WriteRawTag(186, 18);
+        output.WriteMessage(OpenInterest);
+      }
+      if (LastTradeTimestamp != 0L) {
+        output.WriteRawTag(192, 18);
+        output.WriteInt64(LastTradeTimestamp);
+      }
+      if (insuranceFund_ != null) {
+        output.WriteRawTag(202, 18);
+        output.WriteMessage(InsuranceFund);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -15497,6 +20412,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -15660,11 +20578,185 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 370: {
+            trades_.AddEntriesFrom(ref input, _repeated_trades_codec);
+            break;
+          }
+          case 730: {
+            ohlcvs_.AddEntriesFrom(ref input, _repeated_ohlcvs_codec);
+            break;
+          }
+          case 818: {
+            if (payoutPerContract_ == null) {
+              PayoutPerContract = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PayoutPerContract);
+            break;
+          }
+          case 906: {
+            if (lastTradePrice_ == null) {
+              LastTradePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradePrice);
+            break;
+          }
+          case 930: {
+            if (lastTradeQuantity_ == null) {
+              LastTradeQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LastTradeQuantity);
+            break;
+          }
+          case 976: {
+            EventTimestamp = input.ReadInt64();
+            break;
+          }
+          case 986: {
+            dailyStats_.AddEntriesFrom(ref input, _repeated_dailyStats_codec);
+            break;
+          }
+          case 1016: {
+            FundingTime = input.ReadInt64();
+            break;
+          }
+          case 1026: {
+            if (fundingRate_ == null) {
+              FundingRate = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingRate);
+            break;
+          }
+          case 1098: {
+            if (impactBaseQuantity_ == null) {
+              ImpactBaseQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactBaseQuantity);
+            break;
+          }
+          case 1106: {
+            if (dgtxToBasePrice_ == null) {
+              DgtxToBasePrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(DgtxToBasePrice);
+            break;
+          }
+          case 1114: {
+            if (spotPrice_ == null) {
+              SpotPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(SpotPrice);
+            break;
+          }
+          case 1122: {
+            if (impactQuantity_ == null) {
+              ImpactQuantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactQuantity);
+            break;
+          }
+          case 1130: {
+            if (impactBidValue_ == null) {
+              ImpactBidValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactBidValue);
+            break;
+          }
+          case 1138: {
+            if (impactAskValue_ == null) {
+              ImpactAskValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactAskValue);
+            break;
+          }
+          case 1146: {
+            if (futureValue_ == null) {
+              FutureValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FutureValue);
+            break;
+          }
+          case 1266: {
+            if (impactValue_ == null) {
+              ImpactValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactValue);
+            break;
+          }
+          case 1274: {
+            if (impactBidCount_ == null) {
+              ImpactBidCount = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactBidCount);
+            break;
+          }
+          case 1282: {
+            if (impactAskCount_ == null) {
+              ImpactAskCount = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(ImpactAskCount);
+            break;
+          }
+          case 1290: {
+            if (futureCount_ == null) {
+              FutureCount = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FutureCount);
+            break;
+          }
+          case 1296: {
+            FundingInterval = input.ReadInt64();
+            break;
+          }
+          case 1680: {
+            AlertTimestamp = input.ReadInt64();
+            break;
+          }
+          case 1690: {
+            AlertText = input.ReadString();
+            break;
+          }
+          case 2362: {
+            if (openInterest_ == null) {
+              OpenInterest = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OpenInterest);
+            break;
+          }
+          case 2368: {
+            LastTradeTimestamp = input.ReadInt64();
+            break;
+          }
+          case 2378: {
+            if (insuranceFund_ == null) {
+              InsuranceFund = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(InsuranceFund);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class GetExchangeRatesMessage : pb::IMessage<GetExchangeRatesMessage> {
+  public sealed partial class GetExchangeRatesMessage : pb::IMessage<GetExchangeRatesMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<GetExchangeRatesMessage> _parser = new pb::MessageParser<GetExchangeRatesMessage>(() => new GetExchangeRatesMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15729,10 +20821,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -15753,6 +20858,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -15761,11 +20869,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class ExchangeRateItemMessage : pb::IMessage<ExchangeRateItemMessage> {
+  public sealed partial class ExchangeRateItemMessage : pb::IMessage<ExchangeRateItemMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ExchangeRateItemMessage> _parser = new pb::MessageParser<ExchangeRateItemMessage>(() => new ExchangeRateItemMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15886,6 +21013,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (CurrencyPairId != 0) {
         output.WriteRawTag(248, 2);
         output.WriteUInt32(CurrencyPairId);
@@ -15905,7 +21035,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (CurrencyPairId != 0) {
+        output.WriteRawTag(248, 2);
+        output.WriteUInt32(CurrencyPairId);
+      }
+      if (markPrice_ != null) {
+        output.WriteRawTag(162, 3);
+        output.WriteMessage(MarkPrice);
+      }
+      if (LastUpdateTime != 0L) {
+        output.WriteRawTag(200, 7);
+        output.WriteInt64(LastUpdateTime);
+      }
+      if (Unreliable != 0) {
+        output.WriteRawTag(136, 13);
+        output.WriteInt32(Unreliable);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -15953,6 +21109,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -15980,11 +21139,49 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 376: {
+            CurrencyPairId = input.ReadUInt32();
+            break;
+          }
+          case 418: {
+            if (markPrice_ == null) {
+              MarkPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(MarkPrice);
+            break;
+          }
+          case 968: {
+            LastUpdateTime = input.ReadInt64();
+            break;
+          }
+          case 1672: {
+            Unreliable = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class ExchangeRatesMessage : pb::IMessage<ExchangeRatesMessage> {
+  public sealed partial class ExchangeRatesMessage : pb::IMessage<ExchangeRatesMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ExchangeRatesMessage> _parser = new pb::MessageParser<ExchangeRatesMessage>(() => new ExchangeRatesMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16062,11 +21259,25 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       items_.WriteTo(output, _repeated_items_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      items_.WriteTo(ref output, _repeated_items_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16089,6 +21300,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16101,11 +21315,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 962: {
+            items_.AddEntriesFrom(ref input, _repeated_items_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class ContractClosedMessage : pb::IMessage<ContractClosedMessage> {
+  public sealed partial class ContractClosedMessage : pb::IMessage<ContractClosedMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ContractClosedMessage> _parser = new pb::MessageParser<ContractClosedMessage>(() => new ContractClosedMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16183,11 +21420,25 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       orderIds_.WriteTo(output, _repeated_orderIds_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      orderIds_.WriteTo(ref output, _repeated_orderIds_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16210,6 +21461,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16222,11 +21476,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 826: {
+            orderIds_.AddEntriesFrom(ref input, _repeated_orderIds_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class GetTraderBalanceMessage : pb::IMessage<GetTraderBalanceMessage> {
+  public sealed partial class GetTraderBalanceMessage : pb::IMessage<GetTraderBalanceMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<GetTraderBalanceMessage> _parser = new pb::MessageParser<GetTraderBalanceMessage>(() => new GetTraderBalanceMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16305,6 +21582,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (CurrencyId != 0) {
         output.WriteRawTag(136, 3);
         output.WriteUInt32(CurrencyId);
@@ -16312,7 +21592,21 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (CurrencyId != 0) {
+        output.WriteRawTag(136, 3);
+        output.WriteUInt32(CurrencyId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16339,6 +21633,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16351,11 +21648,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 392: {
+            CurrencyId = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class DelayedActionMessage : pb::IMessage<DelayedActionMessage> {
+  public sealed partial class DelayedActionMessage : pb::IMessage<DelayedActionMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<DelayedActionMessage> _parser = new pb::MessageParser<DelayedActionMessage>(() => new DelayedActionMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16532,6 +21852,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ActionType != global::DigitexWire.DelayedActionType.DaUndefined) {
         output.WriteRawTag(200, 17);
         output.WriteEnum((int) ActionType);
@@ -16567,7 +21890,49 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ActionType != global::DigitexWire.DelayedActionType.DaUndefined) {
+        output.WriteRawTag(200, 17);
+        output.WriteEnum((int) ActionType);
+      }
+      if (TriggerVariable != global::DigitexWire.DelayedTriggerVariable.DtvUndefined) {
+        output.WriteRawTag(208, 17);
+        output.WriteEnum((int) TriggerVariable);
+      }
+      if (TriggerCondition != global::DigitexWire.DelayedTriggerCondition.DtcUndefined) {
+        output.WriteRawTag(216, 17);
+        output.WriteEnum((int) TriggerCondition);
+      }
+      if (triggerValue_ != null) {
+        output.WriteRawTag(226, 17);
+        output.WriteMessage(TriggerValue);
+      }
+      if (order_ != null) {
+        output.WriteRawTag(250, 17);
+        output.WriteMessage(Order);
+      }
+      if (DelayedActionClientId.Length != 0) {
+        output.WriteRawTag(138, 18);
+        output.WriteBytes(DelayedActionClientId);
+      }
+      if (OldDelayedActionClientId.Length != 0) {
+        output.WriteRawTag(146, 18);
+        output.WriteBytes(OldDelayedActionClientId);
+      }
+      if (DelayedActionTimestamp != 0L) {
+        output.WriteRawTag(152, 18);
+        output.WriteInt64(DelayedActionTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16642,6 +22007,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16688,11 +22056,68 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 2248: {
+            ActionType = (global::DigitexWire.DelayedActionType) input.ReadEnum();
+            break;
+          }
+          case 2256: {
+            TriggerVariable = (global::DigitexWire.DelayedTriggerVariable) input.ReadEnum();
+            break;
+          }
+          case 2264: {
+            TriggerCondition = (global::DigitexWire.DelayedTriggerCondition) input.ReadEnum();
+            break;
+          }
+          case 2274: {
+            if (triggerValue_ == null) {
+              TriggerValue = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(TriggerValue);
+            break;
+          }
+          case 2298: {
+            if (order_ == null) {
+              Order = new global::DigitexWire.OrderMessage();
+            }
+            input.ReadMessage(Order);
+            break;
+          }
+          case 2314: {
+            DelayedActionClientId = input.ReadBytes();
+            break;
+          }
+          case 2322: {
+            OldDelayedActionClientId = input.ReadBytes();
+            break;
+          }
+          case 2328: {
+            DelayedActionTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class PlaceDelayedActionMessage : pb::IMessage<PlaceDelayedActionMessage> {
+  public sealed partial class PlaceDelayedActionMessage : pb::IMessage<PlaceDelayedActionMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PlaceDelayedActionMessage> _parser = new pb::MessageParser<PlaceDelayedActionMessage>(() => new PlaceDelayedActionMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16771,6 +22196,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (delayedAction_ != null) {
         output.WriteRawTag(234, 17);
         output.WriteMessage(DelayedAction);
@@ -16778,7 +22206,21 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (delayedAction_ != null) {
+        output.WriteRawTag(234, 17);
+        output.WriteMessage(DelayedAction);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16808,6 +22250,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16823,11 +22268,37 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 2282: {
+            if (delayedAction_ == null) {
+              DelayedAction = new global::DigitexWire.DelayedActionMessage();
+            }
+            input.ReadMessage(DelayedAction);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class UpdateDelayedActionMessage : pb::IMessage<UpdateDelayedActionMessage> {
+  public sealed partial class UpdateDelayedActionMessage : pb::IMessage<UpdateDelayedActionMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<UpdateDelayedActionMessage> _parser = new pb::MessageParser<UpdateDelayedActionMessage>(() => new UpdateDelayedActionMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16920,6 +22391,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PrevClientId.Length != 0) {
         output.WriteRawTag(194, 2);
         output.WriteBytes(PrevClientId);
@@ -16931,7 +22405,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PrevClientId.Length != 0) {
+        output.WriteRawTag(194, 2);
+        output.WriteBytes(PrevClientId);
+      }
+      if (delayedAction_ != null) {
+        output.WriteRawTag(234, 17);
+        output.WriteMessage(DelayedAction);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -16967,6 +22459,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -16986,11 +22481,41 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 322: {
+            PrevClientId = input.ReadBytes();
+            break;
+          }
+          case 2282: {
+            if (delayedAction_ == null) {
+              DelayedAction = new global::DigitexWire.DelayedActionMessage();
+            }
+            input.ReadMessage(DelayedAction);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class CancelDelayedActionMessage : pb::IMessage<CancelDelayedActionMessage> {
+  public sealed partial class CancelDelayedActionMessage : pb::IMessage<CancelDelayedActionMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CancelDelayedActionMessage> _parser = new pb::MessageParser<CancelDelayedActionMessage>(() => new CancelDelayedActionMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17083,6 +22608,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PrevClientId.Length != 0) {
         output.WriteRawTag(194, 2);
         output.WriteBytes(PrevClientId);
@@ -17094,7 +22622,25 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PrevClientId.Length != 0) {
+        output.WriteRawTag(194, 2);
+        output.WriteBytes(PrevClientId);
+      }
+      if (AllForTrader != 0) {
+        output.WriteRawTag(240, 17);
+        output.WriteInt32(AllForTrader);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17127,6 +22673,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17143,11 +22692,38 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 322: {
+            PrevClientId = input.ReadBytes();
+            break;
+          }
+          case 2288: {
+            AllForTrader = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class DelayedActionStatusMessage : pb::IMessage<DelayedActionStatusMessage> {
+  public sealed partial class DelayedActionStatusMessage : pb::IMessage<DelayedActionStatusMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<DelayedActionStatusMessage> _parser = new pb::MessageParser<DelayedActionStatusMessage>(() => new DelayedActionStatusMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17239,6 +22815,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Status != global::DigitexWire.OrderStatus.StatusUndefined) {
         output.WriteRawTag(208, 2);
         output.WriteEnum((int) Status);
@@ -17247,7 +22826,22 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Status != global::DigitexWire.OrderStatus.StatusUndefined) {
+        output.WriteRawTag(208, 2);
+        output.WriteEnum((int) Status);
+      }
+      delayedActions_.WriteTo(ref output, _repeated_delayedActions_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17276,6 +22870,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17292,11 +22889,38 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 336: {
+            Status = (global::DigitexWire.OrderStatus) input.ReadEnum();
+            break;
+          }
+          case 2306: {
+            delayedActions_.AddEntriesFrom(ref input, _repeated_delayedActions_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class LiquidationEntryMessage : pb::IMessage<LiquidationEntryMessage> {
+  public sealed partial class LiquidationEntryMessage : pb::IMessage<LiquidationEntryMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<LiquidationEntryMessage> _parser = new pb::MessageParser<LiquidationEntryMessage>(() => new LiquidationEntryMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17417,6 +23041,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (quantity_ != null) {
         output.WriteRawTag(186, 2);
         output.WriteMessage(Quantity);
@@ -17436,7 +23063,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (quantity_ != null) {
+        output.WriteRawTag(186, 2);
+        output.WriteMessage(Quantity);
+      }
+      if (Position != global::DigitexWire.OrderPosition.Undefined) {
+        output.WriteRawTag(232, 2);
+        output.WriteEnum((int) Position);
+      }
+      if (liquidationPrice_ != null) {
+        output.WriteRawTag(154, 4);
+        output.WriteMessage(LiquidationPrice);
+      }
+      if (EntryTimestamp != 0L) {
+        output.WriteRawTag(216, 9);
+        output.WriteInt64(EntryTimestamp);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17487,6 +23140,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17517,11 +23173,52 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 314: {
+            if (quantity_ == null) {
+              Quantity = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(Quantity);
+            break;
+          }
+          case 360: {
+            Position = (global::DigitexWire.OrderPosition) input.ReadEnum();
+            break;
+          }
+          case 538: {
+            if (liquidationPrice_ == null) {
+              LiquidationPrice = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(LiquidationPrice);
+            break;
+          }
+          case 1240: {
+            EntryTimestamp = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class LiquidationsMessage : pb::IMessage<LiquidationsMessage> {
+  public sealed partial class LiquidationsMessage : pb::IMessage<LiquidationsMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<LiquidationsMessage> _parser = new pb::MessageParser<LiquidationsMessage>(() => new LiquidationsMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17599,11 +23296,25 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       liquidationEntries_.WriteTo(output, _repeated_liquidationEntries_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      liquidationEntries_.WriteTo(ref output, _repeated_liquidationEntries_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17626,6 +23337,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17638,11 +23352,34 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 2354: {
+            liquidationEntries_.AddEntriesFrom(ref input, _repeated_liquidationEntries_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class FundingInfoMessage : pb::IMessage<FundingInfoMessage> {
+  public sealed partial class FundingInfoMessage : pb::IMessage<FundingInfoMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<FundingInfoMessage> _parser = new pb::MessageParser<FundingInfoMessage>(() => new FundingInfoMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17763,6 +23500,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (payoutPerContract_ != null) {
         output.WriteRawTag(178, 6);
         output.WriteMessage(PayoutPerContract);
@@ -17782,7 +23522,33 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (payoutPerContract_ != null) {
+        output.WriteRawTag(178, 6);
+        output.WriteMessage(PayoutPerContract);
+      }
+      if (FundingTime != 0L) {
+        output.WriteRawTag(248, 7);
+        output.WriteInt64(FundingTime);
+      }
+      if (fundingRate_ != null) {
+        output.WriteRawTag(130, 8);
+        output.WriteMessage(FundingRate);
+      }
+      if (openInterest_ != null) {
+        output.WriteRawTag(186, 18);
+        output.WriteMessage(OpenInterest);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17836,6 +23602,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17869,14 +23638,58 @@ namespace DigitexWire {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 818: {
+            if (payoutPerContract_ == null) {
+              PayoutPerContract = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(PayoutPerContract);
+            break;
+          }
+          case 1016: {
+            FundingTime = input.ReadInt64();
+            break;
+          }
+          case 1026: {
+            if (fundingRate_ == null) {
+              FundingRate = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(FundingRate);
+            break;
+          }
+          case 2362: {
+            if (openInterest_ == null) {
+              OpenInterest = new global::DigitexWire.Decimal();
+            }
+            input.ReadMessage(OpenInterest);
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// minimal message to return the error code
   /// </summary>
-  public sealed partial class ErrorMessage : pb::IMessage<ErrorMessage> {
+  public sealed partial class ErrorMessage : pb::IMessage<ErrorMessage>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ErrorMessage> _parser = new pb::MessageParser<ErrorMessage>(() => new ErrorMessage());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17941,10 +23754,23 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -17965,6 +23791,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -17973,11 +23802,30 @@ namespace DigitexWire {
             break;
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
 
   }
 
-  public sealed partial class Message : pb::IMessage<Message> {
+  public sealed partial class Message : pb::IMessage<Message>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<Message> _parser = new pb::MessageParser<Message>(() => new Message());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -18008,6 +23856,8 @@ namespace DigitexWire {
       traderId_ = other.traderId_;
       clientId_ = other.clientId_;
       errorCode_ = other.errorCode_;
+      sessionId_ = other.sessionId_;
+      auth_ = other.auth_;
       switch (other.KontentCase) {
         case KontentOneofCase.PlaceOrderMsg:
           PlaceOrderMsg = other.PlaceOrderMsg.Clone();
@@ -18196,6 +24046,28 @@ namespace DigitexWire {
       get { return errorCode_; }
       set {
         errorCode_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "session_id" field.</summary>
+    public const int SessionIdFieldNumber = 8;
+    private long sessionId_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long SessionId {
+      get { return sessionId_; }
+      set {
+        sessionId_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "auth" field.</summary>
+    public const int AuthFieldNumber = 9;
+    private pb::ByteString auth_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pb::ByteString Auth {
+      get { return auth_; }
+      set {
+        auth_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
       }
     }
 
@@ -18691,6 +24563,8 @@ namespace DigitexWire {
       if (TraderId != other.TraderId) return false;
       if (ClientId != other.ClientId) return false;
       if (ErrorCode != other.ErrorCode) return false;
+      if (SessionId != other.SessionId) return false;
+      if (Auth != other.Auth) return false;
       if (!object.Equals(PlaceOrderMsg, other.PlaceOrderMsg)) return false;
       if (!object.Equals(CancelOrderMsg, other.CancelOrderMsg)) return false;
       if (!object.Equals(CancelAllOrdersMsg, other.CancelAllOrdersMsg)) return false;
@@ -18742,6 +24616,8 @@ namespace DigitexWire {
       if (TraderId != 0) hash ^= TraderId.GetHashCode();
       if (ClientId.Length != 0) hash ^= ClientId.GetHashCode();
       if (ErrorCode != 0) hash ^= ErrorCode.GetHashCode();
+      if (SessionId != 0L) hash ^= SessionId.GetHashCode();
+      if (Auth.Length != 0) hash ^= Auth.GetHashCode();
       if (kontentCase_ == KontentOneofCase.PlaceOrderMsg) hash ^= PlaceOrderMsg.GetHashCode();
       if (kontentCase_ == KontentOneofCase.CancelOrderMsg) hash ^= CancelOrderMsg.GetHashCode();
       if (kontentCase_ == KontentOneofCase.CancelAllOrdersMsg) hash ^= CancelAllOrdersMsg.GetHashCode();
@@ -18794,6 +24670,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Timestamp != 0L) {
         output.WriteRawTag(16);
         output.WriteInt64(Timestamp);
@@ -18813,6 +24692,14 @@ namespace DigitexWire {
       if (ClientId.Length != 0) {
         output.WriteRawTag(58);
         output.WriteBytes(ClientId);
+      }
+      if (SessionId != 0L) {
+        output.WriteRawTag(64);
+        output.WriteInt64(SessionId);
+      }
+      if (Auth.Length != 0) {
+        output.WriteRawTag(74);
+        output.WriteBytes(Auth);
       }
       if (ErrorCode != 0) {
         output.WriteRawTag(216, 2);
@@ -18973,7 +24860,201 @@ namespace DigitexWire {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Timestamp != 0L) {
+        output.WriteRawTag(16);
+        output.WriteInt64(Timestamp);
+      }
+      if (Serial != 0UL) {
+        output.WriteRawTag(32);
+        output.WriteUInt64(Serial);
+      }
+      if (MarketId != 0) {
+        output.WriteRawTag(40);
+        output.WriteUInt32(MarketId);
+      }
+      if (TraderId != 0) {
+        output.WriteRawTag(48);
+        output.WriteUInt32(TraderId);
+      }
+      if (ClientId.Length != 0) {
+        output.WriteRawTag(58);
+        output.WriteBytes(ClientId);
+      }
+      if (SessionId != 0L) {
+        output.WriteRawTag(64);
+        output.WriteInt64(SessionId);
+      }
+      if (Auth.Length != 0) {
+        output.WriteRawTag(74);
+        output.WriteBytes(Auth);
+      }
+      if (ErrorCode != 0) {
+        output.WriteRawTag(216, 2);
+        output.WriteUInt32(ErrorCode);
+      }
+      if (kontentCase_ == KontentOneofCase.PlaceOrderMsg) {
+        output.WriteRawTag(138, 32);
+        output.WriteMessage(PlaceOrderMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.CancelOrderMsg) {
+        output.WriteRawTag(146, 32);
+        output.WriteMessage(CancelOrderMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.CancelAllOrdersMsg) {
+        output.WriteRawTag(154, 32);
+        output.WriteMessage(CancelAllOrdersMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderStatusMsg) {
+        output.WriteRawTag(170, 32);
+        output.WriteMessage(OrderStatusMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderFilledMsg) {
+        output.WriteRawTag(178, 32);
+        output.WriteMessage(OrderFilledMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.ChangeLeverageAllMsg) {
+        output.WriteRawTag(186, 32);
+        output.WriteMessage(ChangeLeverageAllMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.TraderBalanceMsg) {
+        output.WriteRawTag(210, 32);
+        output.WriteMessage(TraderBalanceMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.PositionEventMsg) {
+        output.WriteRawTag(218, 32);
+        output.WriteMessage(PositionEventMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.LeverageMsg) {
+        output.WriteRawTag(226, 32);
+        output.WriteMessage(LeverageMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.ExchangeRateMsg) {
+        output.WriteRawTag(234, 32);
+        output.WriteMessage(ExchangeRateMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderBookRequestMsg) {
+        output.WriteRawTag(242, 32);
+        output.WriteMessage(OrderBookRequestMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderBookMsg) {
+        output.WriteRawTag(250, 32);
+        output.WriteMessage(OrderBookMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderBookUpdatedMsg) {
+        output.WriteRawTag(130, 33);
+        output.WriteMessage(OrderBookUpdatedMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.PingMsg) {
+        output.WriteRawTag(138, 33);
+        output.WriteMessage(PingMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.PongMsg) {
+        output.WriteRawTag(146, 33);
+        output.WriteMessage(PongMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.UpdateOrderMsg) {
+        output.WriteRawTag(154, 33);
+        output.WriteMessage(UpdateOrderMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.GetTraderStatusMsg) {
+        output.WriteRawTag(162, 33);
+        output.WriteMessage(GetTraderStatusMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.TraderStatusMsg) {
+        output.WriteRawTag(170, 33);
+        output.WriteMessage(TraderStatusMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.FundingMsg) {
+        output.WriteRawTag(186, 33);
+        output.WriteMessage(FundingMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.SubscribeMsg) {
+        output.WriteRawTag(210, 33);
+        output.WriteMessage(SubscribeMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.SubscribeStatusMsg) {
+        output.WriteRawTag(218, 33);
+        output.WriteMessage(SubscribeStatusMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.CloseContractMsg) {
+        output.WriteRawTag(242, 33);
+        output.WriteMessage(CloseContractMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.CloseAllContractsMsg) {
+        output.WriteRawTag(250, 33);
+        output.WriteMessage(CloseAllContractsMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.OrderCanceledMsg) {
+        output.WriteRawTag(146, 34);
+        output.WriteMessage(OrderCanceledMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.GetMarketStateMsg) {
+        output.WriteRawTag(162, 34);
+        output.WriteMessage(GetMarketStateMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.MarketStateMsg) {
+        output.WriteRawTag(170, 34);
+        output.WriteMessage(MarketStateMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.GetExchangeRatesMsg) {
+        output.WriteRawTag(178, 34);
+        output.WriteMessage(GetExchangeRatesMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.ExchangeRatesMsg) {
+        output.WriteRawTag(186, 34);
+        output.WriteMessage(ExchangeRatesMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.MarketStateUpdateMsg) {
+        output.WriteRawTag(194, 34);
+        output.WriteMessage(MarketStateUpdateMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.ContractClosedMsg) {
+        output.WriteRawTag(202, 34);
+        output.WriteMessage(ContractClosedMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.GetTraderBalanceMsg) {
+        output.WriteRawTag(146, 35);
+        output.WriteMessage(GetTraderBalanceMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.PlaceDelayedActionMsg) {
+        output.WriteRawTag(178, 35);
+        output.WriteMessage(PlaceDelayedActionMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.UpdateDelayedActionMsg) {
+        output.WriteRawTag(186, 35);
+        output.WriteMessage(UpdateDelayedActionMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.CancelDelayedActionMsg) {
+        output.WriteRawTag(194, 35);
+        output.WriteMessage(CancelDelayedActionMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.DelayedActionStatusMsg) {
+        output.WriteRawTag(202, 35);
+        output.WriteMessage(DelayedActionStatusMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.LiquidationsMsg) {
+        output.WriteRawTag(210, 35);
+        output.WriteMessage(LiquidationsMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.FundingInfoMsg) {
+        output.WriteRawTag(218, 35);
+        output.WriteMessage(FundingInfoMsg);
+      }
+      if (kontentCase_ == KontentOneofCase.ErrorMsg) {
+        output.WriteRawTag(226, 35);
+        output.WriteMessage(ErrorMsg);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -18995,6 +25076,12 @@ namespace DigitexWire {
       }
       if (ErrorCode != 0) {
         size += 2 + pb::CodedOutputStream.ComputeUInt32Size(ErrorCode);
+      }
+      if (SessionId != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(SessionId);
+      }
+      if (Auth.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeBytesSize(Auth);
       }
       if (kontentCase_ == KontentOneofCase.PlaceOrderMsg) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(PlaceOrderMsg);
@@ -19138,6 +25225,12 @@ namespace DigitexWire {
       }
       if (other.ErrorCode != 0) {
         ErrorCode = other.ErrorCode;
+      }
+      if (other.SessionId != 0L) {
+        SessionId = other.SessionId;
+      }
+      if (other.Auth.Length != 0) {
+        Auth = other.Auth;
       }
       switch (other.KontentCase) {
         case KontentOneofCase.PlaceOrderMsg:
@@ -19375,6 +25468,9 @@ namespace DigitexWire {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -19399,6 +25495,402 @@ namespace DigitexWire {
           }
           case 58: {
             ClientId = input.ReadBytes();
+            break;
+          }
+          case 64: {
+            SessionId = input.ReadInt64();
+            break;
+          }
+          case 74: {
+            Auth = input.ReadBytes();
+            break;
+          }
+          case 344: {
+            ErrorCode = input.ReadUInt32();
+            break;
+          }
+          case 4106: {
+            global::DigitexWire.PlaceOrderMessage subBuilder = new global::DigitexWire.PlaceOrderMessage();
+            if (kontentCase_ == KontentOneofCase.PlaceOrderMsg) {
+              subBuilder.MergeFrom(PlaceOrderMsg);
+            }
+            input.ReadMessage(subBuilder);
+            PlaceOrderMsg = subBuilder;
+            break;
+          }
+          case 4114: {
+            global::DigitexWire.CancelOrderMessage subBuilder = new global::DigitexWire.CancelOrderMessage();
+            if (kontentCase_ == KontentOneofCase.CancelOrderMsg) {
+              subBuilder.MergeFrom(CancelOrderMsg);
+            }
+            input.ReadMessage(subBuilder);
+            CancelOrderMsg = subBuilder;
+            break;
+          }
+          case 4122: {
+            global::DigitexWire.CancelAllOrdersMessage subBuilder = new global::DigitexWire.CancelAllOrdersMessage();
+            if (kontentCase_ == KontentOneofCase.CancelAllOrdersMsg) {
+              subBuilder.MergeFrom(CancelAllOrdersMsg);
+            }
+            input.ReadMessage(subBuilder);
+            CancelAllOrdersMsg = subBuilder;
+            break;
+          }
+          case 4138: {
+            global::DigitexWire.OrderStatusMessage subBuilder = new global::DigitexWire.OrderStatusMessage();
+            if (kontentCase_ == KontentOneofCase.OrderStatusMsg) {
+              subBuilder.MergeFrom(OrderStatusMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderStatusMsg = subBuilder;
+            break;
+          }
+          case 4146: {
+            global::DigitexWire.OrderFilledMessage subBuilder = new global::DigitexWire.OrderFilledMessage();
+            if (kontentCase_ == KontentOneofCase.OrderFilledMsg) {
+              subBuilder.MergeFrom(OrderFilledMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderFilledMsg = subBuilder;
+            break;
+          }
+          case 4154: {
+            global::DigitexWire.ChangeLeverageAllMessage subBuilder = new global::DigitexWire.ChangeLeverageAllMessage();
+            if (kontentCase_ == KontentOneofCase.ChangeLeverageAllMsg) {
+              subBuilder.MergeFrom(ChangeLeverageAllMsg);
+            }
+            input.ReadMessage(subBuilder);
+            ChangeLeverageAllMsg = subBuilder;
+            break;
+          }
+          case 4178: {
+            global::DigitexWire.TraderBalanceMessage subBuilder = new global::DigitexWire.TraderBalanceMessage();
+            if (kontentCase_ == KontentOneofCase.TraderBalanceMsg) {
+              subBuilder.MergeFrom(TraderBalanceMsg);
+            }
+            input.ReadMessage(subBuilder);
+            TraderBalanceMsg = subBuilder;
+            break;
+          }
+          case 4186: {
+            global::DigitexWire.PositionEventMessage subBuilder = new global::DigitexWire.PositionEventMessage();
+            if (kontentCase_ == KontentOneofCase.PositionEventMsg) {
+              subBuilder.MergeFrom(PositionEventMsg);
+            }
+            input.ReadMessage(subBuilder);
+            PositionEventMsg = subBuilder;
+            break;
+          }
+          case 4194: {
+            global::DigitexWire.LeverageMessage subBuilder = new global::DigitexWire.LeverageMessage();
+            if (kontentCase_ == KontentOneofCase.LeverageMsg) {
+              subBuilder.MergeFrom(LeverageMsg);
+            }
+            input.ReadMessage(subBuilder);
+            LeverageMsg = subBuilder;
+            break;
+          }
+          case 4202: {
+            global::DigitexWire.ExchangeRateMessage subBuilder = new global::DigitexWire.ExchangeRateMessage();
+            if (kontentCase_ == KontentOneofCase.ExchangeRateMsg) {
+              subBuilder.MergeFrom(ExchangeRateMsg);
+            }
+            input.ReadMessage(subBuilder);
+            ExchangeRateMsg = subBuilder;
+            break;
+          }
+          case 4210: {
+            global::DigitexWire.OrderBookRequestMessage subBuilder = new global::DigitexWire.OrderBookRequestMessage();
+            if (kontentCase_ == KontentOneofCase.OrderBookRequestMsg) {
+              subBuilder.MergeFrom(OrderBookRequestMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderBookRequestMsg = subBuilder;
+            break;
+          }
+          case 4218: {
+            global::DigitexWire.OrderBookMessage subBuilder = new global::DigitexWire.OrderBookMessage();
+            if (kontentCase_ == KontentOneofCase.OrderBookMsg) {
+              subBuilder.MergeFrom(OrderBookMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderBookMsg = subBuilder;
+            break;
+          }
+          case 4226: {
+            global::DigitexWire.OrderBookUpdatedMessage subBuilder = new global::DigitexWire.OrderBookUpdatedMessage();
+            if (kontentCase_ == KontentOneofCase.OrderBookUpdatedMsg) {
+              subBuilder.MergeFrom(OrderBookUpdatedMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderBookUpdatedMsg = subBuilder;
+            break;
+          }
+          case 4234: {
+            global::DigitexWire.PingMessage subBuilder = new global::DigitexWire.PingMessage();
+            if (kontentCase_ == KontentOneofCase.PingMsg) {
+              subBuilder.MergeFrom(PingMsg);
+            }
+            input.ReadMessage(subBuilder);
+            PingMsg = subBuilder;
+            break;
+          }
+          case 4242: {
+            global::DigitexWire.PongMessage subBuilder = new global::DigitexWire.PongMessage();
+            if (kontentCase_ == KontentOneofCase.PongMsg) {
+              subBuilder.MergeFrom(PongMsg);
+            }
+            input.ReadMessage(subBuilder);
+            PongMsg = subBuilder;
+            break;
+          }
+          case 4250: {
+            global::DigitexWire.UpdateOrderMessage subBuilder = new global::DigitexWire.UpdateOrderMessage();
+            if (kontentCase_ == KontentOneofCase.UpdateOrderMsg) {
+              subBuilder.MergeFrom(UpdateOrderMsg);
+            }
+            input.ReadMessage(subBuilder);
+            UpdateOrderMsg = subBuilder;
+            break;
+          }
+          case 4258: {
+            global::DigitexWire.GetTraderStatusMessage subBuilder = new global::DigitexWire.GetTraderStatusMessage();
+            if (kontentCase_ == KontentOneofCase.GetTraderStatusMsg) {
+              subBuilder.MergeFrom(GetTraderStatusMsg);
+            }
+            input.ReadMessage(subBuilder);
+            GetTraderStatusMsg = subBuilder;
+            break;
+          }
+          case 4266: {
+            global::DigitexWire.TraderStatusMessage subBuilder = new global::DigitexWire.TraderStatusMessage();
+            if (kontentCase_ == KontentOneofCase.TraderStatusMsg) {
+              subBuilder.MergeFrom(TraderStatusMsg);
+            }
+            input.ReadMessage(subBuilder);
+            TraderStatusMsg = subBuilder;
+            break;
+          }
+          case 4282: {
+            global::DigitexWire.FundingMessage subBuilder = new global::DigitexWire.FundingMessage();
+            if (kontentCase_ == KontentOneofCase.FundingMsg) {
+              subBuilder.MergeFrom(FundingMsg);
+            }
+            input.ReadMessage(subBuilder);
+            FundingMsg = subBuilder;
+            break;
+          }
+          case 4306: {
+            global::DigitexWire.SubscribeMessage subBuilder = new global::DigitexWire.SubscribeMessage();
+            if (kontentCase_ == KontentOneofCase.SubscribeMsg) {
+              subBuilder.MergeFrom(SubscribeMsg);
+            }
+            input.ReadMessage(subBuilder);
+            SubscribeMsg = subBuilder;
+            break;
+          }
+          case 4314: {
+            global::DigitexWire.SubscribeStatusMessage subBuilder = new global::DigitexWire.SubscribeStatusMessage();
+            if (kontentCase_ == KontentOneofCase.SubscribeStatusMsg) {
+              subBuilder.MergeFrom(SubscribeStatusMsg);
+            }
+            input.ReadMessage(subBuilder);
+            SubscribeStatusMsg = subBuilder;
+            break;
+          }
+          case 4338: {
+            global::DigitexWire.CloseContractMessage subBuilder = new global::DigitexWire.CloseContractMessage();
+            if (kontentCase_ == KontentOneofCase.CloseContractMsg) {
+              subBuilder.MergeFrom(CloseContractMsg);
+            }
+            input.ReadMessage(subBuilder);
+            CloseContractMsg = subBuilder;
+            break;
+          }
+          case 4346: {
+            global::DigitexWire.CloseAllContractsMessage subBuilder = new global::DigitexWire.CloseAllContractsMessage();
+            if (kontentCase_ == KontentOneofCase.CloseAllContractsMsg) {
+              subBuilder.MergeFrom(CloseAllContractsMsg);
+            }
+            input.ReadMessage(subBuilder);
+            CloseAllContractsMsg = subBuilder;
+            break;
+          }
+          case 4370: {
+            global::DigitexWire.OrderCanceledMessage subBuilder = new global::DigitexWire.OrderCanceledMessage();
+            if (kontentCase_ == KontentOneofCase.OrderCanceledMsg) {
+              subBuilder.MergeFrom(OrderCanceledMsg);
+            }
+            input.ReadMessage(subBuilder);
+            OrderCanceledMsg = subBuilder;
+            break;
+          }
+          case 4386: {
+            global::DigitexWire.GetMarketStateMessage subBuilder = new global::DigitexWire.GetMarketStateMessage();
+            if (kontentCase_ == KontentOneofCase.GetMarketStateMsg) {
+              subBuilder.MergeFrom(GetMarketStateMsg);
+            }
+            input.ReadMessage(subBuilder);
+            GetMarketStateMsg = subBuilder;
+            break;
+          }
+          case 4394: {
+            global::DigitexWire.MarketStateMessage subBuilder = new global::DigitexWire.MarketStateMessage();
+            if (kontentCase_ == KontentOneofCase.MarketStateMsg) {
+              subBuilder.MergeFrom(MarketStateMsg);
+            }
+            input.ReadMessage(subBuilder);
+            MarketStateMsg = subBuilder;
+            break;
+          }
+          case 4402: {
+            global::DigitexWire.GetExchangeRatesMessage subBuilder = new global::DigitexWire.GetExchangeRatesMessage();
+            if (kontentCase_ == KontentOneofCase.GetExchangeRatesMsg) {
+              subBuilder.MergeFrom(GetExchangeRatesMsg);
+            }
+            input.ReadMessage(subBuilder);
+            GetExchangeRatesMsg = subBuilder;
+            break;
+          }
+          case 4410: {
+            global::DigitexWire.ExchangeRatesMessage subBuilder = new global::DigitexWire.ExchangeRatesMessage();
+            if (kontentCase_ == KontentOneofCase.ExchangeRatesMsg) {
+              subBuilder.MergeFrom(ExchangeRatesMsg);
+            }
+            input.ReadMessage(subBuilder);
+            ExchangeRatesMsg = subBuilder;
+            break;
+          }
+          case 4418: {
+            global::DigitexWire.MarketStateUpdateMessage subBuilder = new global::DigitexWire.MarketStateUpdateMessage();
+            if (kontentCase_ == KontentOneofCase.MarketStateUpdateMsg) {
+              subBuilder.MergeFrom(MarketStateUpdateMsg);
+            }
+            input.ReadMessage(subBuilder);
+            MarketStateUpdateMsg = subBuilder;
+            break;
+          }
+          case 4426: {
+            global::DigitexWire.ContractClosedMessage subBuilder = new global::DigitexWire.ContractClosedMessage();
+            if (kontentCase_ == KontentOneofCase.ContractClosedMsg) {
+              subBuilder.MergeFrom(ContractClosedMsg);
+            }
+            input.ReadMessage(subBuilder);
+            ContractClosedMsg = subBuilder;
+            break;
+          }
+          case 4498: {
+            global::DigitexWire.GetTraderBalanceMessage subBuilder = new global::DigitexWire.GetTraderBalanceMessage();
+            if (kontentCase_ == KontentOneofCase.GetTraderBalanceMsg) {
+              subBuilder.MergeFrom(GetTraderBalanceMsg);
+            }
+            input.ReadMessage(subBuilder);
+            GetTraderBalanceMsg = subBuilder;
+            break;
+          }
+          case 4530: {
+            global::DigitexWire.PlaceDelayedActionMessage subBuilder = new global::DigitexWire.PlaceDelayedActionMessage();
+            if (kontentCase_ == KontentOneofCase.PlaceDelayedActionMsg) {
+              subBuilder.MergeFrom(PlaceDelayedActionMsg);
+            }
+            input.ReadMessage(subBuilder);
+            PlaceDelayedActionMsg = subBuilder;
+            break;
+          }
+          case 4538: {
+            global::DigitexWire.UpdateDelayedActionMessage subBuilder = new global::DigitexWire.UpdateDelayedActionMessage();
+            if (kontentCase_ == KontentOneofCase.UpdateDelayedActionMsg) {
+              subBuilder.MergeFrom(UpdateDelayedActionMsg);
+            }
+            input.ReadMessage(subBuilder);
+            UpdateDelayedActionMsg = subBuilder;
+            break;
+          }
+          case 4546: {
+            global::DigitexWire.CancelDelayedActionMessage subBuilder = new global::DigitexWire.CancelDelayedActionMessage();
+            if (kontentCase_ == KontentOneofCase.CancelDelayedActionMsg) {
+              subBuilder.MergeFrom(CancelDelayedActionMsg);
+            }
+            input.ReadMessage(subBuilder);
+            CancelDelayedActionMsg = subBuilder;
+            break;
+          }
+          case 4554: {
+            global::DigitexWire.DelayedActionStatusMessage subBuilder = new global::DigitexWire.DelayedActionStatusMessage();
+            if (kontentCase_ == KontentOneofCase.DelayedActionStatusMsg) {
+              subBuilder.MergeFrom(DelayedActionStatusMsg);
+            }
+            input.ReadMessage(subBuilder);
+            DelayedActionStatusMsg = subBuilder;
+            break;
+          }
+          case 4562: {
+            global::DigitexWire.LiquidationsMessage subBuilder = new global::DigitexWire.LiquidationsMessage();
+            if (kontentCase_ == KontentOneofCase.LiquidationsMsg) {
+              subBuilder.MergeFrom(LiquidationsMsg);
+            }
+            input.ReadMessage(subBuilder);
+            LiquidationsMsg = subBuilder;
+            break;
+          }
+          case 4570: {
+            global::DigitexWire.FundingInfoMessage subBuilder = new global::DigitexWire.FundingInfoMessage();
+            if (kontentCase_ == KontentOneofCase.FundingInfoMsg) {
+              subBuilder.MergeFrom(FundingInfoMsg);
+            }
+            input.ReadMessage(subBuilder);
+            FundingInfoMsg = subBuilder;
+            break;
+          }
+          case 4578: {
+            global::DigitexWire.ErrorMessage subBuilder = new global::DigitexWire.ErrorMessage();
+            if (kontentCase_ == KontentOneofCase.ErrorMsg) {
+              subBuilder.MergeFrom(ErrorMsg);
+            }
+            input.ReadMessage(subBuilder);
+            ErrorMsg = subBuilder;
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 16: {
+            Timestamp = input.ReadInt64();
+            break;
+          }
+          case 32: {
+            Serial = input.ReadUInt64();
+            break;
+          }
+          case 40: {
+            MarketId = input.ReadUInt32();
+            break;
+          }
+          case 48: {
+            TraderId = input.ReadUInt32();
+            break;
+          }
+          case 58: {
+            ClientId = input.ReadBytes();
+            break;
+          }
+          case 64: {
+            SessionId = input.ReadInt64();
+            break;
+          }
+          case 74: {
+            Auth = input.ReadBytes();
             break;
           }
           case 344: {
@@ -19750,6 +26242,7 @@ namespace DigitexWire {
         }
       }
     }
+    #endif
 
   }
 

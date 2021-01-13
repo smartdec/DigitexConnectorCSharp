@@ -5,203 +5,232 @@
       "Name": "BTC/USD DGTX",
       "PriceStep": 5,
       "QuantityStep": 1,
-      "CurrencyPairId": 1
+      "CurrencyPairId": 1,
+      "IsSpot": false
     },
     {
       "MarketId": 2,
       "Name": "ETH/USD DGTX",
       "PriceStep": 0.25,
       "QuantityStep": 1,
-      "CurrencyPairId": 2
+      "CurrencyPairId": 2,
+      "IsSpot": false
     },
     {
       "MarketId": 3,
       "Name": "XRP/USD DGTX",
       "PriceStep": 1,
       "QuantityStep": 1,
-      "CurrencyPairId": 6
+      "CurrencyPairId": 6,
+      "IsSpot": false
     },
     {
       "MarketId": 4,
       "Name": "DGTX/ETH SPOT",
       "PriceStep": 0.000001,
       "QuantityStep": 1,
-      "CurrencyPairId": 3
+      "CurrencyPairId": 3,
+      "IsSpot": true
     },
     {
       "MarketId": 5,
       "Name": "XAU/USD DGTX",
       "PriceStep": 0.5,
       "QuantityStep": 1,
-      "CurrencyPairId": 7
+      "CurrencyPairId": 7,
+      "IsSpot": false
     },
     {
       "MarketId": 7,
       "Name": "EUR/USD DGTX",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 26
+      "CurrencyPairId": 26,
+      "IsSpot": false
     },
     {
       "MarketId": 8,
       "Name": "AMZN DGTX",
       "PriceStep": 1,
       "QuantityStep": 1,
-      "CurrencyPairId": 21
+      "CurrencyPairId": 21,
+      "IsSpot": false
     },
     {
       "MarketId": 9,
       "Name": "BTC/USD1 DGTX",
       "PriceStep": 1,
       "QuantityStep": 1,
-      "CurrencyPairId": 1
+      "CurrencyPairId": 1,
+      "IsSpot": false
     },
     {
       "MarketId": 10,
       "Name": "USD/JPY DGTX",
       "PriceStep": 0.01,
       "QuantityStep": 1,
-      "CurrencyPairId": 28
+      "CurrencyPairId": 28,
+      "IsSpot": false
     },
     {
       "MarketId": 12,
       "Name": "FB DGTX",
       "PriceStep": 0.1,
       "QuantityStep": 1,
-      "CurrencyPairId": 20
+      "CurrencyPairId": 20,
+      "IsSpot": false
     },
     {
       "MarketId": 13,
       "Name": "AAPL DGTX",
       "PriceStep": 0.1,
       "QuantityStep": 1,
-      "CurrencyPairId": 19
+      "CurrencyPairId": 19,
+      "IsSpot": false
     },
     {
       "MarketId": 14,
       "Name": "BTC/USD DUSD",
       "PriceStep": 5,
       "QuantityStep": 1,
-      "CurrencyPairId": 1
+      "CurrencyPairId": 1,
+      "IsSpot": false
     },
     {
       "MarketId": 15,
       "Name": "BTC1/USD DUSD",
       "PriceStep": 1,
       "QuantityStep": 1,
-      "CurrencyPairId": 1
+      "CurrencyPairId": 1,
+      "IsSpot": false
     },
     {
       "MarketId": 16,
       "Name": "ETH/USD DUSD",
       "PriceStep": 0.25,
       "QuantityStep": 1,
-      "CurrencyPairId": 2
+      "CurrencyPairId": 2,
+      "IsSpot": false
     },
     {
       "MarketId": 17,
       "Name": "XRP/USD DUSD",
       "PriceStep": 0.001,
       "QuantityStep": 1,
-      "CurrencyPairId": 8
+      "CurrencyPairId": 8,
+      "IsSpot": false
     },
     {
       "MarketId": 31,
       "Name": "XAU/USD DUSD",
       "PriceStep": 1,
       "QuantityStep": 1,
-      "CurrencyPairId": 7
+      "CurrencyPairId": 7,
+      "IsSpot": false
     },
     {
       "MarketId": 18,
       "Name": "BTC/DUSD SPOT",
       "PriceStep": 1,
       "QuantityStep": 0.0001,
-      "CurrencyPairId": 36
+      "CurrencyPairId": 36,
+      "IsSpot": true
     },
     {
       "MarketId": 19,
       "Name": "ETH/BTC SPOT",
       "PriceStep": 0.00001,
       "QuantityStep": 0.001,
-      "CurrencyPairId": 37
+      "CurrencyPairId": 37,
+      "IsSpot": true
     },
     {
       "MarketId": 20,
       "Name": "ETH/DUSD SPOT",
       "PriceStep": 0.1,
       "QuantityStep": 0.001,
-      "CurrencyPairId": 38
+      "CurrencyPairId": 38,
+      "IsSpot": true
     },
     {
       "MarketId": 21,
       "Name": "DUSD/USDC SPOT",
       "PriceStep": 0.001,
       "QuantityStep": 0.01,
-      "CurrencyPairId": 39
+      "CurrencyPairId": 39,
+      "IsSpot": true
     },
     {
       "MarketId": 22,
       "Name": "LINK/DUSD SPOT",
       "PriceStep": 0.01,
       "QuantityStep": 0.01,
-      "CurrencyPairId": 40
+      "CurrencyPairId": 40,
+      "IsSpot": true
     },
     {
       "MarketId": 23,
       "Name": "DGTX/BTC SPOT",
       "PriceStep": 0.0000001,
       "QuantityStep": 1,
-      "CurrencyPairId": 4
+      "CurrencyPairId": 4,
+      "IsSpot": true
     },
     {
       "MarketId": 24,
       "Name": "DGTX/DUSD SPOT",
       "PriceStep": 0.001,
       "QuantityStep": 1,
-      "CurrencyPairId": 41
+      "CurrencyPairId": 41,
+      "IsSpot": true
     },
     {
       "MarketId": 25,
       "Name": "DGTX/LINK SPOT",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 42
+      "CurrencyPairId": 42,
+      "IsSpot": true
     },
     {
       "MarketId": 26,
       "Name": "EUR/USD DUSD",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 26
+      "CurrencyPairId": 26,
+      "IsSpot": false
     },
     {
       "MarketId": 27,
       "Name": "GBP/USD DUSD",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 34
+      "CurrencyPairId": 34,
+      "IsSpot": false
     },
     {
       "MarketId": 28,
       "Name": "AUD/USD DUSD",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 35
+      "CurrencyPairId": 35,
+      "IsSpot": false
     },
     {
       "MarketId": 29,
       "Name": "USD/JPY DUSD",
       "PriceStep": 0.01,
       "QuantityStep": 1,
-      "CurrencyPairId": 28
+      "CurrencyPairId": 28,
+      "IsSpot": false
     },
     {
       "MarketId": 30,
       "Name": "USD/CAD DUSD",
       "PriceStep": 0.0001,
       "QuantityStep": 1,
-      "CurrencyPairId": 33
+      "CurrencyPairId": 33,
+      "IsSpot": false
     }
   ]
 }

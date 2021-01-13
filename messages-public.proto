@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-// version: 125
+// version: 132
 
 package digitex_wire;
 
@@ -158,6 +158,8 @@ message OrderStatusMessage
   bytes orig_client_id = 204;
   int64 open_time = 205;
   Decimal orig_quantity = 206;
+
+  bytes orig_order_id = 327;    // from v129: the auto-generated order_id of the first order in chain
 }
 
 message LeverageMessage
@@ -241,6 +243,9 @@ message OrderFilledMessage
 
   Decimal dropped_quantity = 152;
 
+  bytes old_order_id = 153;     // from v129: the auto-generated order_id that matched
+  bytes orig_order_id = 327;    // from v129: the auto-generated order_id of the first order in chain
+
   Decimal trader_balance = 51;
   Decimal order_margin = 76;
   Decimal position_margin = 78;
@@ -275,6 +280,8 @@ message ExchangeRateUpdateMessage
   Decimal volume = 48;
   Decimal quantity = 39;
   int32 unreliable = 209;
+  int32 source_count = 301;
+  bytes price_updater_id = 302;
 }
 
 message ExchangeRateMessage
@@ -295,7 +302,8 @@ message TraderBalanceMessage
 message PositionEventMessage
 {
   repeated TradeMessage liquidated_trades = 168;
-  repeated bytes terminated_orders = 96;
+  repeated bytes terminated_orders = 96;     // DEPRECATED, see orders
+  repeated OrderMessage orders = 70;         // liquidated orders
 
   Decimal trader_balance = 51;
   Decimal order_margin = 76;
@@ -385,7 +393,7 @@ message GetTraderStatusMessage
 
 message OrderMessage
 {
-  bytes order_client_id = 71;
+  bytes order_client_id = 71;   // FIXME: rename to order_id
   int64 order_timestamp = 72;
   uint32 order_trader_id = 73;
   OrderType order_type = 32;
@@ -399,12 +407,14 @@ message OrderMessage
 
   uint64 contract_id = 41;
 
-  bytes old_client_id = 153;
+  bytes old_client_id = 153;    // FIXME: rename to old_order_id
   bytes orig_client_id = 204;
   int64 open_time = 205;
   Decimal orig_quantity = 206;
   int32 is_closing = 280;
   int32 may_increase = 293;
+
+  bytes orig_order_id = 327;    // from v129: the auto-generated order_id of the first order in chain
 }
 
 message TraderStatusMessage
@@ -466,6 +476,7 @@ message FundingMessage
   Decimal full_position_margin = 298;
   Decimal full_buy_order_margin = 299;
   Decimal full_sell_order_margin = 300;
+  int64 funding_time = 127;
 
   /*
   Decimal rounded_mark_price = 81;
@@ -708,6 +719,8 @@ message Message
   uint32 trader_id = 6;
   bytes client_id = 7;
   uint32 error_code = 43;
+  int64 session_id = 8;
+  bytes auth = 9;
 
   oneof kontent
   {
